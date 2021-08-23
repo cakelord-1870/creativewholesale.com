@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://creativewholesale.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://creativewholesale.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://creativewholesale.com/collections/magnetic-sheeting.atom"/>
+  <title>Creative Wholesale</title>
+  <updated>2017-02-07T13:41:00-05:00</updated>
+  <author>
+    <name>Creative Wholesale</name>
+  </author>
+  <entry>
+    <id>https://creativewholesale.com/products/10067994314</id>
+    <published>2017-02-07T13:41:00-05:00</published>
+    <updated>2017-02-07T13:41:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/magnetic-sheeting-w-adhesive-301a50pm"/>
+    <title>Magnetic Sheeting W/Adhesive 301A50PM</title>
+    <s:type>Magnet Sheeting</s:type>
+    <s:vendor>CreativeWholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/MSIROLL_c8da65ba-fe6b-46d5-b7d2-1f3a77cd3aca.jpg?v=1579534144"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CreativeWholesale<br>
+        <strong>Type: </strong>Magnet Sheeting<br>
+        <strong>Price: </strong>
+            112.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Magnetic Sheeting W/Adhesive</p>
+<p>2 3/8"' X 50" X .030</p>
+<p>Two feet 3/8" wide by 50 feet long magnetic sheeting .030 thick with indoor adhesive.</p>
+<p>Cuts easily for many shapes and sizes</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Magnetic Sheeting</s:tag>
+    <s:tag>Magnetic Tape</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/10067994314</id>
+      <title>Default Title</title>
+      <s:price currency="USD">112.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>27669</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/10067938186</id>
+    <published>2017-02-07T13:41:00-05:00</published>
+    <updated>2017-02-07T13:41:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/magnetic-sheeting-w-adhesive-201a50pm"/>
+    <title>Magnetic Sheeting W/Adhesive 201A50PM</title>
+    <s:type>Magnet Sheeting</s:type>
+    <s:vendor>CreativeWholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/MSIROLL.jpg?v=1579534144"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CreativeWholesale<br>
+        <strong>Type: </strong>Magnet Sheeting<br>
+        <strong>Price: </strong>
+            87.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Magnetic Sheeting W/Adhesive</p>
+<p>2 3/8" X 50' X .020</p>
+<p>Two feet 3/8" wide by 50 feet long magnetic sheeting .020 thick with indoor adhesive.</p>
+<p>Cuts easily for many shapes and sizes</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Magnetic Sheeting</s:tag>
+    <s:tag>Magnetic Tape</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/10067938186</id>
+      <title>Default Title</title>
+      <s:price currency="USD">87.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>20412</s:grams>
+    </s:variant>
+  </entry>
+</feed>

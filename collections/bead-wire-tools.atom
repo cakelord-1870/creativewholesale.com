@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://creativewholesale.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://creativewholesale.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://creativewholesale.com/collections/bead-wire-tools.atom"/>
+  <title>Creative Wholesale</title>
+  <updated>2018-08-03T11:16:53-04:00</updated>
+  <author>
+    <name>Creative Wholesale</name>
+  </author>
+  <entry>
+    <id>https://creativewholesale.com/products/7287562247</id>
+    <published>2018-08-03T11:16:53-04:00</published>
+    <updated>2018-08-03T11:16:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/bead-craft-wire-24-gauge-silver-25-yds-per-spool-2490-219"/>
+    <title>Bead/Craft Wire 24 gauge Silver 25 yds per spool #2490-218</title>
+    <s:type>Bead/Craft Wire</s:type>
+    <s:vendor>The Beadery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/wire_silver_e4b25ab7-6a9b-4147-a0a2-5219c60ed279.png?v=1531754727"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Beadery<br>
+        <strong>Type: </strong>Bead/Craft Wire<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bead/Craft Wire, 24 gauge Silver, 25 yds per spool #2490-218</p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bead Wire</s:tag>
+    <s:tag>craft wire</s:tag>
+    <s:tag>Jewelry Wire</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287562247</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/7287565639</id>
+    <published>2018-07-05T09:01:50-04:00</published>
+    <updated>2018-07-05T09:01:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/bead-craft-wire-24-gauge-silver-25-yds-per-spool-2490-218"/>
+    <title>Bead/Craft Wire 20 gauge Silver 12 yds per spool #2485-218</title>
+    <s:type>Bead/Craft Wire</s:type>
+    <s:vendor>The Beadery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/wire_silver_9a38e849-8f4d-4e06-bd5f-ee3ecd18cc1e.png?v=1531754725"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Beadery<br>
+        <strong>Type: </strong>Bead/Craft Wire<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bead/Craft Wire, 20 gauge Silver, 12 yds per spool #2485-218</p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bead Wire</s:tag>
+    <s:tag>craft wire</s:tag>
+    <s:tag>Jewelry Wire</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287565639</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/7287563527</id>
+    <published>2018-01-31T11:27:00-05:00</published>
+    <updated>2018-01-31T11:27:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/bead-craft-wire-20-gauge-gold-25-yds-per-spool-2490-212"/>
+    <title>Bead/Craft Wire 20 gauge Gold 12 yds per spool #2485-212</title>
+    <s:type>Bead/Craft Wire</s:type>
+    <s:vendor>The Beadery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/gold_wire_46735459-fd61-4d52-82c0-3273807712ee.png?v=1531754724"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Beadery<br>
+        <strong>Type: </strong>Bead/Craft Wire<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bead/Craft Wire, 20 gauge Gold, 12 yds per spool #2485-212</p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bead Wire</s:tag>
+    <s:tag>craft wire</s:tag>
+    <s:tag>Jewelry Wire</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287563527</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/7287569991</id>
+    <published>2016-06-21T13:51:21-04:00</published>
+    <updated>2016-06-21T13:51:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/bead-craft-wire-28-gauge-gold-25-yds-per-spool-2495-212"/>
+    <title>Bead/Craft Wire 28 gauge Gold 25 yds per spool #2495-212</title>
+    <s:type>Bead/Craft Wire</s:type>
+    <s:vendor>The Beadery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/gold_wire_0a41d566-cf18-4fc3-8ffe-c9183445e070.png?v=1531754728"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Beadery<br>
+        <strong>Type: </strong>Bead/Craft Wire<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bead/Craft Wire, 28 gauge Gold, 25 yds per spool #2495-212</p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bead Wire</s:tag>
+    <s:tag>craft wire</s:tag>
+    <s:tag>Jewelry Wire</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287569991</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/7287564615</id>
+    <published>2016-06-21T13:51:13-04:00</published>
+    <updated>2016-06-21T13:51:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/bead-craft-wire-24-gauge-gold-25-yds-per-spool-2490-212"/>
+    <title>Bead/Craft Wire 24 gauge Gold 25 yds per spool #2490-212</title>
+    <s:type>Bead/Craft Wire</s:type>
+    <s:vendor>The Beadery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/gold_wire.png?v=1531754726"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Beadery<br>
+        <strong>Type: </strong>Bead/Craft Wire<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bead/Craft Wire, 24 gauge Gold, 25 yds per spool #2490-212</p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bead Wire</s:tag>
+    <s:tag>craft wire</s:tag>
+    <s:tag>Jewelry Wire</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287564615</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/7287570567</id>
+    <published>2016-06-21T13:51:00-04:00</published>
+    <updated>2016-06-21T13:51:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/bead-craft-wire-28-gauge-silver-25-yds-per-spool-2495-218"/>
+    <title>Bead/Craft Wire 28 gauge Silver 25 yds per spool #2495-218</title>
+    <s:type>Bead/Craft Wire</s:type>
+    <s:vendor>The Beadery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/wire_silver.png?v=1531754729"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Beadery<br>
+        <strong>Type: </strong>Bead/Craft Wire<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bead/Craft Wire, 28 gauge Silver, 25 yds per spool #2495-218</p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bead Wire</s:tag>
+    <s:tag>beading wire</s:tag>
+    <s:tag>craft wire</s:tag>
+    <s:tag>Jewelry Wire</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287570567</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/7287568071</id>
+    <published>2016-06-21T13:51:00-04:00</published>
+    <updated>2016-06-21T13:51:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/bead-craft-wire-28-gauge-red-25-yds-per-spool-2495-217"/>
+    <title>Bead/Craft Wire 28 gauge Red 25 yds per spool #2495-217 CLOSEOUT</title>
+    <s:type>Bead/Craft Wire</s:type>
+    <s:vendor>The Beadery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/Wire_Red_Green_Black_af58aa99-85e9-40fa-bad0-f380dfdfd88c.jpeg?v=1580138461"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Beadery<br>
+        <strong>Type: </strong>Bead/Craft Wire<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bead/Craft Wire, 28 gauge Red, 25 yds per spool #2495-217</p>
+<p>CLOSEOUT</p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bead Wire</s:tag>
+    <s:tag>craft wire</s:tag>
+    <s:tag>Jewelry Wire</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287568071</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+</feed>

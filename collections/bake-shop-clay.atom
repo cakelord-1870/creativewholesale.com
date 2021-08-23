@@ -1,0 +1,801 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://creativewholesale.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://creativewholesale.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://creativewholesale.com/collections/bake-shop-clay.atom"/>
+  <title>Creative Wholesale</title>
+  <updated>2020-04-30T09:00:04-04:00</updated>
+  <author>
+    <name>Creative Wholesale</name>
+  </author>
+  <entry>
+    <id>https://creativewholesale.com/products/4805821628518</id>
+    <published>2020-04-30T09:00:04-04:00</published>
+    <updated>2020-04-30T09:00:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/bake-shop-clay-by-sculpey-2-oz-black"/>
+    <title>Bake Shop by Sculpey® 2oz Black BA02 1835</title>
+    <s:type></s:type>
+    <s:vendor>SculpeyProducts.com</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/1835bakeshop_trilingual_black1835.jpg?v=1588605787"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SculpeyProducts.com<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 itemprop="name">Sculpey® Bake Shop 2oz, Black  BA02 1835</h3>
+<div id="short_description_block">
+<div id="short_description_content" class="rte align_justify" itemprop="description">
+<div class="fullDesc active">
+<p>Bake Shop clay is soft and easy to use, making it the perfect clay for kids!</p>
+<ul>
+<li>Stays soft until baked – Does not air dry. Remains soft and flexible until it is baked in your home oven.</li>
+<li>Extra clay can be stored and reused - won't dry out!</li>
+<li>Great for a variety of projects – school projects, figurines, holiday crafts and more!</li>
+<li>Safe and non-toxic!</li>
+<li>Available in 14 fun colors - White, Beige, Yellow, Green, Orange, Red, Hot Pink, Purple, Turquoise, Blue, Tan, Brown, Gray, Black</li>
+</ul>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bake Shop</s:tag>
+    <s:tag>Bake Shop Clay</s:tag>
+    <s:tag>sculpey Bake Shop</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/4805821628518</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/4805821595750</id>
+    <published>2020-04-30T09:00:04-04:00</published>
+    <updated>2020-04-30T09:00:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/bake-shop-clay-by-sculpey-2-oz-brown"/>
+    <title>Bake Shop by Sculpey® 2oz Brown BA02 1832</title>
+    <s:type></s:type>
+    <s:vendor>SculpeyProducts.com</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/1832bakeshop_trilingual_brown1832.jpg?v=1588605789"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SculpeyProducts.com<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 itemprop="name">Sculpey® Bake Shop 2oz, Brown  BA02 1832</h3>
+<div id="short_description_block">
+<div id="short_description_content" class="rte align_justify" itemprop="description">
+<div class="fullDesc active">
+<p>Bake Shop clay is soft and easy to use, making it the perfect clay for kids!</p>
+<ul>
+<li>Stays soft until baked – Does not air dry. Remains soft and flexible until it is baked in your home oven.</li>
+<li>Extra clay can be stored and reused - won't dry out!</li>
+<li>Great for a variety of projects – school projects, figurines, holiday crafts and more!</li>
+<li>Safe and non-toxic!</li>
+<li>Available in 14 fun colors - White, Beige, Yellow, Green, Orange, Red, Hot Pink, Purple, Turquoise, Blue, Tan, Brown, Gray, Black</li>
+</ul>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bake Shop</s:tag>
+    <s:tag>Bake Shop Clay</s:tag>
+    <s:tag>sculpey Bake Shop</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/4805821595750</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/4805821235302</id>
+    <published>2020-04-30T09:00:04-04:00</published>
+    <updated>2020-04-30T09:00:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/bake-shop-clay-by-sculpey-2-oz-orange"/>
+    <title>Bake Shop by Sculpey® 2oz  Orange BA02 1814</title>
+    <s:type></s:type>
+    <s:vendor>SculpeyProducts.com</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/1814bakeshop_trilingual_orange1814.jpg?v=1588605784"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SculpeyProducts.com<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 itemprop="name">Sculpey® Bake Shop 2 oz, Orange  BA02 1814</h3>
+<div id="short_description_block">
+<div id="short_description_content" class="rte align_justify" itemprop="description">
+<div class="fullDesc active">
+<p>Bake Shop clay is soft and easy to use, making it the perfect clay for kids!</p>
+<ul>
+<li>Stays soft until baked – Does not air dry. Remains soft and flexible until it is baked in your home oven.</li>
+<li>Extra clay can be stored and reused - won't dry out!</li>
+<li>Great for a variety of projects – school projects, figurines, holiday crafts and more!</li>
+<li>Safe and non-toxic!</li>
+<li>Available in 14 fun colors - White, Beige, Yellow, Green, Orange, Red, Hot Pink, Purple, Turquoise, Blue, Tan, Brown, Gray, Black</li>
+</ul>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bake Shop</s:tag>
+    <s:tag>Bake Shop Clay</s:tag>
+    <s:tag>sculpey Bake Shop</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/4805821235302</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/4805821104230</id>
+    <published>2020-04-30T09:00:04-04:00</published>
+    <updated>2020-04-30T09:00:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/bake-shop-clay-by-sculpey-2-oz-gray"/>
+    <title>Bake Shop by Sculpey® 2oz  Grey BA02 1803</title>
+    <s:type></s:type>
+    <s:vendor>SculpeyProducts.com</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/1803bakeshop_trilingual_warmgrey1803.jpg?v=1588605783"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SculpeyProducts.com<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 itemprop="name">Sculpey® Bake Shop 2oz,Grey  #BA02 1803</h3>
+<div id="short_description_block">
+<div id="short_description_content" class="rte align_justify" itemprop="description">
+<div class="fullDesc active">
+<p>Bake Shop clay is soft and easy to use, making it the perfect clay for kids!</p>
+<ul>
+<li>Stays soft until baked – Does not air dry. Remains soft and flexible until it is baked in your home oven.</li>
+<li>Extra clay can be stored and reused - won't dry out!</li>
+<li>Great for a variety of projects – school projects, figurines, holiday crafts and more!</li>
+<li>Safe and non-toxic!</li>
+<li>Available in 14 fun colors - White, Beige, Yellow, Green, Orange, Red, Hot Pink, Purple, Turquoise, Blue, Tan, Brown, Gray, Black</li>
+</ul>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bake Shop</s:tag>
+    <s:tag>Bake Shop Clay</s:tag>
+    <s:tag>sculpey Bake Shop</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/4805821104230</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/4805821661286</id>
+    <published>2020-04-30T07:51:23-04:00</published>
+    <updated>2020-04-30T07:51:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/bake-shop-clay-by-sculpey-2-oz-tan"/>
+    <title>Bake Shop by Sculpey® 2oz Tan BA02 1840</title>
+    <s:type></s:type>
+    <s:vendor>SculpeyProducts.com</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/1840bakeshop_trilingual_tan_1840.jpg?v=1588605791"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SculpeyProducts.com<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 itemprop="name">Sculpey® Bake Shop 2oz, Tan  BA02 1840</h3>
+<div id="short_description_block">
+<div id="short_description_content" class="rte align_justify" itemprop="description">
+<div class="fullDesc active">
+<p>Bake Shop clay is soft and easy to use, making it the perfect clay for kids!</p>
+<ul>
+<li>Stays soft until baked – Does not air dry. Remains soft and flexible until it is baked in your home oven.</li>
+<li>Extra clay can be stored and reused - won't dry out!</li>
+<li>Great for a variety of projects – school projects, figurines, holiday crafts and more!</li>
+<li>Safe and non-toxic!</li>
+<li>Available in 14 fun colors - White, Beige, Yellow, Green, Orange, Red, Hot Pink, Purple, Turquoise, Blue, Tan, Brown, Gray, Black</li>
+</ul>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bake Shop</s:tag>
+    <s:tag>Bake Shop Clay</s:tag>
+    <s:tag>sculpey Bake Shop</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/4805821661286</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/4805821562982</id>
+    <published>2020-04-30T07:51:17-04:00</published>
+    <updated>2020-04-30T07:51:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/bake-shop-clay-by-sculpey-2-oz-purple"/>
+    <title>Bake Shop by Sculpey® 2oz Purple BA02 1830</title>
+    <s:type></s:type>
+    <s:vendor>SculpeyProducts.com</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/1830bakeshop_trilingual_purple1830.jpg?v=1588605790"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SculpeyProducts.com<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 itemprop="name">Sculpey® Bake Shop 2oz, Purple  BA02 1830</h3>
+<div id="short_description_block">
+<div id="short_description_content" class="rte align_justify" itemprop="description">
+<div class="fullDesc active">
+<p>Bake Shop clay is soft and easy to use, making it the perfect clay for kids!</p>
+<ul>
+<li>Stays soft until baked – Does not air dry. Remains soft and flexible until it is baked in your home oven.</li>
+<li>Extra clay can be stored and reused - won't dry out!</li>
+<li>Great for a variety of projects – school projects, figurines, holiday crafts and more!</li>
+<li>Safe and non-toxic!</li>
+<li>Available in 14 fun colors - White, Beige, Yellow, Green, Orange, Red, Hot Pink, Purple, Turquoise, Blue, Tan, Brown, Gray, Black</li>
+</ul>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bake Shop</s:tag>
+    <s:tag>Bake Shop Clay</s:tag>
+    <s:tag>sculpey Bake Shop</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/4805821562982</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/4805821497446</id>
+    <published>2020-04-30T07:51:15-04:00</published>
+    <updated>2020-04-30T07:51:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/bake-shop-clay-by-sculpey-2-oz-blue"/>
+    <title>Bake Shop by Sculpey® 2oz Blue BA02 1826</title>
+    <s:type></s:type>
+    <s:vendor>SculpeyProducts.com</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/1826bakeshop_trilingual_blue1826.jpg?v=1588605788"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SculpeyProducts.com<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 itemprop="name">Sculpey® Bake Shop 2oz, Blue  BA02 1826</h3>
+<div id="short_description_block">
+<div id="short_description_content" class="rte align_justify" itemprop="description">
+<div class="fullDesc active">
+<p>Bake Shop clay is soft and easy to use, making it the perfect clay for kids!</p>
+<ul>
+<li>Stays soft until baked – Does not air dry. Remains soft and flexible until it is baked in your home oven.</li>
+<li>Extra clay can be stored and reused - won't dry out!</li>
+<li>Great for a variety of projects – school projects, figurines, holiday crafts and more!</li>
+<li>Safe and non-toxic!</li>
+<li>Available in 14 fun colors - White, Beige, Yellow, Green, Orange, Red, Hot Pink, Purple, Turquoise, Blue, Tan, Brown, Gray, Black</li>
+</ul>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bake Shop</s:tag>
+    <s:tag>Bake Shop Clay</s:tag>
+    <s:tag>sculpey Bake Shop</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/4805821497446</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/4805821431910</id>
+    <published>2020-04-30T07:51:13-04:00</published>
+    <updated>2020-04-30T07:51:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/bake-shop-clay-by-sculpey-2-oz-green"/>
+    <title>Bake Shop by Sculpey® 2oz Green BA02 1822</title>
+    <s:type></s:type>
+    <s:vendor>SculpeyProducts.com</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/1822bakeshop_trilingual_green1822.jpg?v=1588605789"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SculpeyProducts.com<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 itemprop="name">Sculpey® Bake Shop 2oz, Green  BA02 1822</h3>
+<div id="short_description_block">
+<div id="short_description_content" class="rte align_justify" itemprop="description">
+<div class="fullDesc active">
+<p>Bake Shop clay is soft and easy to use, making it the perfect clay for kids!</p>
+<ul>
+<li>Stays soft until baked – Does not air dry. Remains soft and flexible until it is baked in your home oven.</li>
+<li>Extra clay can be stored and reused - won't dry out!</li>
+<li>Great for a variety of projects – school projects, figurines, holiday crafts and more!</li>
+<li>Safe and non-toxic!</li>
+<li>Available in 14 fun colors - White, Beige, Yellow, Green, Orange, Red, Hot Pink, Purple, Turquoise, Blue, Tan, Brown, Gray, Black</li>
+</ul>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bake Shop</s:tag>
+    <s:tag>Bake Shop Clay</s:tag>
+    <s:tag>sculpey Bake Shop</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/4805821431910</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/4805821366374</id>
+    <published>2020-04-30T07:51:11-04:00</published>
+    <updated>2020-04-30T07:51:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/copy-of-bake-shop-clay-by-sculpey-2-oz-turquoise"/>
+    <title>Bake Shop by Sculpey® 2oz Turquoise BA02 1821</title>
+    <s:type></s:type>
+    <s:vendor>SculpeyProducts.com</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/1821bakeshop_trilingual_turquise1821.jpg?v=1588605791"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SculpeyProducts.com<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 itemprop="name">Sculpey® Bake Shop 2 oz, Turquoise  BA02 1821</h3>
+<div id="short_description_block">
+<div id="short_description_content" class="rte align_justify" itemprop="description">
+<div class="fullDesc active">
+<p>Bake Shop clay is soft and easy to use, making it the perfect clay for kids!</p>
+<ul>
+<li>Stays soft until baked – Does not air dry. Remains soft and flexible until it is baked in your home oven.</li>
+<li>Extra clay can be stored and reused - won't dry out!</li>
+<li>Great for a variety of projects – school projects, figurines, holiday crafts and more!</li>
+<li>Safe and non-toxic!</li>
+<li>Available in 14 fun colors - White, Beige, Yellow, Green, Orange, Red, Hot Pink, Purple, Turquoise, Blue, Tan, Brown, Gray, Black</li>
+</ul>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bake Shop</s:tag>
+    <s:tag>Bake Shop Clay</s:tag>
+    <s:tag>sculpey Bake Shop</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/4805821366374</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/4805821300838</id>
+    <published>2020-04-30T07:51:09-04:00</published>
+    <updated>2020-04-30T07:51:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/bake-shop-clay-by-sculpey-2-oz-pink"/>
+    <title>Bake Shop by Sculpey® 2oz  Pink BA02 1818</title>
+    <s:type></s:type>
+    <s:vendor>SculpeyProducts.com</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/1818bakeshop_trilingual_bp_1818.jpg?v=1588605784"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SculpeyProducts.com<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 itemprop="name">Sculpey® Bake Shop 2oz, Pink  BA02 1818</h3>
+<div id="short_description_block">
+<div id="short_description_content" class="rte align_justify" itemprop="description">
+<div class="fullDesc active">
+<p>Bake Shop clay is soft and easy to use, making it the perfect clay for kids!</p>
+<ul>
+<li>Stays soft until baked – Does not air dry. Remains soft and flexible until it is baked in your home oven.</li>
+<li>Extra clay can be stored and reused - won't dry out!</li>
+<li>Great for a variety of projects – school projects, figurines, holiday crafts and more!</li>
+<li>Safe and non-toxic!</li>
+<li>Available in 14 fun colors - White, Beige, Yellow, Green, Orange, Red, Hot Pink, Purple, Turquoise, Blue, Tan, Brown, Gray, Black</li>
+</ul>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bake Shop</s:tag>
+    <s:tag>Bake Shop Clay</s:tag>
+    <s:tag>sculpey Bake Shop</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/4805821300838</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/4805821268070</id>
+    <published>2020-04-30T07:51:07-04:00</published>
+    <updated>2020-04-30T07:51:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/bake-shop-clay-by-sculpey-2-oz-yellow"/>
+    <title>Bake Shop by Sculpey® 2oz  Yellow BA02 1816</title>
+    <s:type></s:type>
+    <s:vendor>SculpeyProducts.com</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/1816bakeshop_trilingual_yellow1816.jpg?v=1588605787"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SculpeyProducts.com<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 itemprop="name">Sculpey® Bake Shop 2oz, Yellow  BA02 1816</h3>
+<div id="short_description_block">
+<div id="short_description_content" class="rte align_justify" itemprop="description">
+<div class="fullDesc active">
+<p>Bake Shop clay is soft and easy to use, making it the perfect clay for kids!</p>
+<ul>
+<li>Stays soft until baked – Does not air dry. Remains soft and flexible until it is baked in your home oven.</li>
+<li>Extra clay can be stored and reused - won't dry out!</li>
+<li>Great for a variety of projects – school projects, figurines, holiday crafts and more!</li>
+<li>Safe and non-toxic!</li>
+<li>Available in 14 fun colors - White, Beige, Yellow, Green, Orange, Red, Hot Pink, Purple, Turquoise, Blue, Tan, Brown, Gray, Black</li>
+</ul>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bake Shop</s:tag>
+    <s:tag>Bake Shop Clay</s:tag>
+    <s:tag>sculpey Bake Shop</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/4805821268070</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/4805821202534</id>
+    <published>2020-04-30T07:51:04-04:00</published>
+    <updated>2020-04-30T07:51:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/bake-shop-clay-by-sculpey-2-oz-red"/>
+    <title>Bake Shop by Sculpey® 2oz  Red BA02 1810</title>
+    <s:type></s:type>
+    <s:vendor>SculpeyProducts.com</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/1810bakeshop_trilingual_red1810.jpg?v=1588605785"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SculpeyProducts.com<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 itemprop="name">Sculpey® Bake Shop 2oz, Red  BA02 1810</h3>
+<div id="short_description_block">
+<div id="short_description_content" class="rte align_justify" itemprop="description">
+<div class="fullDesc active">
+<p>Bake Shop clay is soft and easy to use, making it the perfect clay for kids!</p>
+<ul>
+<li>Stays soft until baked – Does not air dry. Remains soft and flexible until it is baked in your home oven.</li>
+<li>Extra clay can be stored and reused - won't dry out!</li>
+<li>Great for a variety of projects – school projects, figurines, holiday crafts and more!</li>
+<li>Safe and non-toxic!</li>
+<li>Available in 14 fun colors - White, Beige, Yellow, Green, Orange, Red, Hot Pink, Purple, Turquoise, Blue, Tan, Brown, Gray, Black</li>
+</ul>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bake Shop</s:tag>
+    <s:tag>Bake Shop Clay</s:tag>
+    <s:tag>sculpey Bake Shop</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/4805821202534</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/4805821136998</id>
+    <published>2020-04-30T07:51:02-04:00</published>
+    <updated>2020-04-30T07:51:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/bake-shop-clay-by-sculpey-2-oz-beige"/>
+    <title>Bake Shop by Sculpey® 2oz  Beige BA02 1804</title>
+    <s:type></s:type>
+    <s:vendor>SculpeyProducts.com</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/1803bakeshop_trilingual_warmgrey1803_2b70a5c5-8a3a-46bb-bc75-5940bd8ae661.jpg?v=1588605783"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SculpeyProducts.com<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 itemprop="name">Sculpey® Bake Shop 2 oz, Beige  BA02 1804</h3>
+<div id="short_description_block">
+<div id="short_description_content" class="rte align_justify" itemprop="description">
+<div class="fullDesc active">
+<p>Bake Shop clay is soft and easy to use, making it the perfect clay for kids!</p>
+<ul>
+<li>Stays soft until baked – Does not air dry. Remains soft and flexible until it is baked in your home oven.</li>
+<li>Extra clay can be stored and reused - won't dry out!</li>
+<li>Great for a variety of projects – school projects, figurines, holiday crafts and more!</li>
+<li>Safe and non-toxic!</li>
+<li>Available in 14 fun colors - White, Beige, Yellow, Green, Orange, Red, Hot Pink, Purple, Turquoise, Blue, Tan, Brown, Gray, Black</li>
+</ul>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bake Shop Clay</s:tag>
+    <s:tag>Bake Shop Variety Pack</s:tag>
+    <s:tag>Sculpey Bake Shop</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/4805821136998</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/4805821038694</id>
+    <published>2020-04-30T07:50:58-04:00</published>
+    <updated>2020-04-30T07:50:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/bake-shop-clay-by-sculpey-2-oz-white"/>
+    <title>Bake Shop by Sculpey® 2oz  White BA02 1802</title>
+    <s:type></s:type>
+    <s:vendor>SculpeyProducts.com</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/1802bakeshop_trilingual_white1802.jpg?v=1588605786"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SculpeyProducts.com<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 itemprop="name">Sculpey® Bake Shop 2oz, White  BA02 1802</h3>
+<div id="short_description_block">
+<div id="short_description_content" class="rte align_justify" itemprop="description">
+<div class="fullDesc active">
+<p>Bake Shop clay is soft and easy to use, making it the perfect clay for kids!</p>
+<ul>
+<li>Stays soft until baked – Does not air dry. Remains soft and flexible until it is baked in your home oven.</li>
+<li>Extra clay can be stored and reused - won't dry out!</li>
+<li>Great for a variety of projects – school projects, figurines, holiday crafts and more!</li>
+<li>Safe and non-toxic!</li>
+<li>Available in 14 fun colors - White, Beige, Yellow, Green, Orange, Red, Hot Pink, Purple, Turquoise, Blue, Tan, Brown, Gray, Black</li>
+</ul>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://creativewholesale.com/products/4805821038694</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/7287220039</id>
+    <published>2017-11-18T08:44:55-05:00</published>
+    <updated>2017-11-18T08:44:55-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/bake-shop-variety-pack-10-x-1-oz-and-2-x-2-oz"/>
+    <title>Bake Shop Variety Pack 10 x 1 oz. and 2 x 2 oz.  #BAVPPA</title>
+    <s:type>Polymer Clay</s:type>
+    <s:vendor>Polyform</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/BAVPPA.jpeg?v=1531754716"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Polyform<br>
+        <strong>Type: </strong>Polymer Clay<br>
+        <strong>Price: </strong>
+            6.43
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="views-field-title"><span class="field-content">Sculpey Bake Shop Variety Pack</span></div>
+<div class="views-field-field-clay-set-id-value">
+<p>SKU:  BAVPPA</p>
+</div>
+<div class="views-field-field-clay-set-desc-value">
+<div class="field-content">
+<p>This economical variety pack is a great way to experiment with several different clay colors. This product makes the perfect gift! The variety pack includes all 12 Bake Shop clay colors and double the amount of commonly used black and white. It also comes with a bonus modeling tool to shape and sculpt cool clay creations!</p>
+<p> </p>
+<p> </p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bake Shop Clay</s:tag>
+    <s:tag>Bake Shop Variety Pack</s:tag>
+    <s:tag>Craft Clay</s:tag>
+    <s:tag>Polymer Clay</s:tag>
+    <s:tag>Sculpey</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287220039</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.43</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

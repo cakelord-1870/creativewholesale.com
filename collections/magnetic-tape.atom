@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://creativewholesale.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://creativewholesale.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://creativewholesale.com/collections/magnetic-tape.atom"/>
+  <title>Creative Wholesale</title>
+  <updated>2017-02-07T13:41:00-05:00</updated>
+  <author>
+    <name>Creative Wholesale</name>
+  </author>
+  <entry>
+    <id>https://creativewholesale.com/products/1379884466278</id>
+    <published>2017-02-07T13:41:00-05:00</published>
+    <updated>2017-02-07T13:41:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/magnetic-tape-w-adhesive-3-4-x-100-ft-mstape75-case-of-6"/>
+    <title>Magnetic Tape W/Adhesive 3/4&quot; x 100 Ft,  MSTape75, Case of 6</title>
+    <s:type>Magnetic Tape</s:type>
+    <s:vendor>CreativeWholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/MSTAPE75_21c01f73-ab5a-4213-a571-29d4a85429bf.jpg?v=1579534150"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CreativeWholesale<br>
+        <strong>Type: </strong>Magnetic Tape<br>
+        <strong>Price: </strong>
+            102.48
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Magnetic Tape W/Adhesive 3/4" x 100 Ft, MSTape75 Case</p>
+<p>3/4" X 100' X .060, Case of 6 rolls</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3/4&quot; Magnetic Tape</s:tag>
+    <s:tag>Magnetic Tape</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/1379884466278</id>
+      <title>Default Title</title>
+      <s:price currency="USD">102.48</s:price>
+      <s:sku>MSTAPE75-CASE</s:sku>
+      <s:grams>22680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/10067850954</id>
+    <published>2017-02-07T13:41:00-05:00</published>
+    <updated>2017-02-07T13:41:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/magnetic-tape-w-adhesive-mstape75"/>
+    <title>Magnetic Tape W/Adhesive 3/4&quot; x 100 Ft,  MSTape75</title>
+    <s:type>Magnetic Tape</s:type>
+    <s:vendor>CreativeWholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/MSTAPE75_3ae7dbdd-e4f0-49d5-b321-b9f5060f3c6f.jpg?v=1579534149"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CreativeWholesale<br>
+        <strong>Type: </strong>Magnetic Tape<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Magnetic Tape W/Adhesive 3/4" x 100 Ft, MSTape75</p>
+<p>3/4" X 100' X .060</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3/4&quot; Magnetic Tape</s:tag>
+    <s:tag>Magnetic Tape</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/10067850954</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/10067836746</id>
+    <published>2017-02-07T13:41:00-05:00</published>
+    <updated>2017-02-07T13:41:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/magnetic-tape-w-adhesive-mstape1"/>
+    <title>Magnetic Tape W/Adhesive  1&quot; x 100 ft, #MSTAPE1</title>
+    <s:type>Magnetic Tape</s:type>
+    <s:vendor>CreativeWholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/MSTAPE75_9ded0971-d7d6-4afa-952f-c20913eabf65.jpg?v=1579534146"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CreativeWholesale<br>
+        <strong>Type: </strong>Magnetic Tape<br>
+        <strong>Price: </strong>
+            22.65
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Magnetic Tape W/Adhesive </p>
+<p>1" X 100' X .060</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1&quot; Magnetic Tape</s:tag>
+    <s:tag>Magnetic Tape</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/10067836746</id>
+      <title>Default Title</title>
+      <s:price currency="USD">22.65</s:price>
+      <s:sku></s:sku>
+      <s:grams>4990</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/10067720842</id>
+    <published>2017-02-07T13:41:00-05:00</published>
+    <updated>2017-02-07T13:41:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/magnetic-tape-w-adhesive-12354c"/>
+    <title>Magnetic Tape W/Adhesive 1/2&quot; X 100 Ft, 8 rolls/case 12354C</title>
+    <s:type>Magnetic Tape</s:type>
+    <s:vendor>CreativeWholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/MSTAPE75_288f1109-a7fb-4e18-80fd-6a2cf0c7b739.jpg?v=1579534148"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CreativeWholesale<br>
+        <strong>Type: </strong>Magnetic Tape<br>
+        <strong>Price: </strong>
+            84.67
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Magnetic Tape W/Adhesive </p>
+<p>8 Rolls Per Case</p>
+<p>1/2" X 100' X .060</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1/2&quot; Magnet Tape</s:tag>
+    <s:tag>Magnetic Tape</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/10067720842</id>
+      <title>Default Title</title>
+      <s:price currency="USD">84.67</s:price>
+      <s:sku></s:sku>
+      <s:grams>18597</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/10067398282</id>
+    <published>2017-02-07T13:41:00-05:00</published>
+    <updated>2017-02-07T13:41:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/magnetic-tape-w-adhesive-12354"/>
+    <title>Magnetic Tape W/Adhesive  1/2&quot; x 100 ft #12354</title>
+    <s:type>Magnetic Tape</s:type>
+    <s:vendor>CreativeWholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/MSTAPE75.jpg?v=1579534148"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CreativeWholesale<br>
+        <strong>Type: </strong>Magnetic Tape<br>
+        <strong>Price: </strong>
+            11.34
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Magnetic Tape With Adhesive   1/2"  x 100 ft x .060</p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1/2&quot; Magnet Tape</s:tag>
+    <s:tag>Magnetic Tape</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/10067398282</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.34</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+</feed>

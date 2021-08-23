@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://creativewholesale.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://creativewholesale.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://creativewholesale.com/collections/faceted-beads.atom"/>
+  <title>Creative Wholesale</title>
+  <updated>2016-06-21T13:53:00-04:00</updated>
+  <author>
+    <name>Creative Wholesale</name>
+  </author>
+  <entry>
+    <id>https://creativewholesale.com/products/7287665991</id>
+    <published>2016-06-21T13:53:00-04:00</published>
+    <updated>2016-06-21T13:53:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/4mm-faceted-beads-697v"/>
+    <title>Faceted Beads 4mm Package 1350 pieces 697V</title>
+    <s:type>Faceted Beads</s:type>
+    <s:vendor>Creative Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/faceted_beads.jpeg?v=1548085163"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Creative Wholesale<br>
+        <strong>Type: </strong>Faceted Beads<br>
+        <strong>Price: </strong>
+            2.87
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>4 mm Faceted Round Beads, available in 15 colors, #697V<br></strong></p>
+<p><strong>Each package contains 1350 pieces.</strong><br><br><br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>4mm faceted beads</s:tag>
+    <s:tag>Faceted Beads</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287665991</id>
+      <title>Champagne 022</title>
+      <s:price currency="USD">2.87</s:price>
+      <s:sku></s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287665991</id>
+      <title>Crystal 006</title>
+      <s:price currency="USD">2.87</s:price>
+      <s:sku></s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287665991</id>
+      <title>Dark Sapphire 020</title>
+      <s:price currency="USD">2.87</s:price>
+      <s:sku></s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287665991</id>
+      <title>Emerald 007</title>
+      <s:price currency="USD">2.87</s:price>
+      <s:sku></s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287665991</id>
+      <title>Light Sapphire 019</title>
+      <s:price currency="USD">2.87</s:price>
+      <s:sku></s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287665991</id>
+      <title>Lime 012</title>
+      <s:price currency="USD">2.87</s:price>
+      <s:sku></s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287665991</id>
+      <title>Multi 029</title>
+      <s:price currency="USD">2.87</s:price>
+      <s:sku></s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287665991</id>
+      <title>Opaque Black 052</title>
+      <s:price currency="USD">2.87</s:price>
+      <s:sku></s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287665991</id>
+      <title>Pink 015</title>
+      <s:price currency="USD">2.87</s:price>
+      <s:sku></s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287665991</id>
+      <title>Ruby 017</title>
+      <s:price currency="USD">2.87</s:price>
+      <s:sku></s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287665991</id>
+      <title>Topaz 023</title>
+      <s:price currency="USD">2.87</s:price>
+      <s:sku></s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287665991</id>
+      <title>Turquoise 026</title>
+      <s:price currency="USD">2.87</s:price>
+      <s:sku></s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287665991</id>
+      <title>Yellow 027</title>
+      <s:price currency="USD">2.87</s:price>
+      <s:sku></s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/7287663623</id>
+    <published>2016-06-21T13:53:00-04:00</published>
+    <updated>2016-06-21T13:53:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/6mm-faceted-beads-700v"/>
+    <title>Faceted Beads 6mm Package 1080 pieces 700V</title>
+    <s:type>Faceted Beads</s:type>
+    <s:vendor>Creative Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/012-Lime_6775f599-366c-49ba-930e-e3d99e3e7026.jpg?v=1595351416"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Creative Wholesale<br>
+        <strong>Type: </strong>Faceted Beads<br>
+        <strong>Price: </strong>
+            2.78
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>6 mm Faceted Beads, 700V</p>
+<p>available in 24 colors <br><br>Each Package contains 1080 pieces<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>6mm faceted beads</s:tag>
+    <s:tag>Faceted Beads</s:tag>
+    <s:tag>hair beads</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287663623</id>
+      <title>Amethyst 001</title>
+      <s:price currency="USD">2.78</s:price>
+      <s:sku>700V-001</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287663623</id>
+      <title>Dk Amethyst 002</title>
+      <s:price currency="USD">2.78</s:price>
+      <s:sku>700V-002</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287663623</id>
+      <title>Champagne 022</title>
+      <s:price currency="USD">2.78</s:price>
+      <s:sku>700V-022</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287663623</id>
+      <title>Crystal 006</title>
+      <s:price currency="USD">2.78</s:price>
+      <s:sku>700v-006</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287663623</id>
+      <title>Dk Ruby 018</title>
+      <s:price currency="USD">2.78</s:price>
+      <s:sku>700V-018</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287663623</id>
+      <title>Dk Sapphire 020</title>
+      <s:price currency="USD">2.78</s:price>
+      <s:sku>700V-020</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287663623</id>
+      <title>Emerald 007</title>
+      <s:price currency="USD">2.78</s:price>
+      <s:sku>700V-007</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287663623</id>
+      <title>Fuchsia 016</title>
+      <s:price currency="USD">2.78</s:price>
+      <s:sku>700V-016</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287663623</id>
+      <title>Hot Pink 031</title>
+      <s:price currency="USD">2.78</s:price>
+      <s:sku>700V-031</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287663623</id>
+      <title>Lime 012</title>
+      <s:price currency="USD">2.78</s:price>
+      <s:sku>700V-012</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287663623</id>
+      <title>Lt Sapphire 019</title>
+      <s:price currency="USD">2.78</s:price>
+      <s:sku>700V-019</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287663623</id>
+      <title>Opaque Black 052</title>
+      <s:price currency="USD">2.78</s:price>
+      <s:sku>700V-052</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287663623</id>
+      <title>Orange 014</title>
+      <s:price currency="USD">2.78</s:price>
+      <s:sku>700V-014</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287663623</id>
+      <title>Pink 015</title>
+      <s:price currency="USD">2.78</s:price>
+      <s:sku>700V-015</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287663623</id>
+      <title>Ruby 017</title>
+      <s:price currency="USD">2.78</s:price>
+      <s:sku>700V-017</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287663623</id>
+      <title>Topaz 023</title>
+      <s:price currency="USD">2.78</s:price>
+      <s:sku>710V-023</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287663623</id>
+      <title>Tortoise 025</title>
+      <s:price currency="USD">2.78</s:price>
+      <s:sku>700V-025</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287663623</id>
+      <title>Transparent Multi 029</title>
+      <s:price currency="USD">2.78</s:price>
+      <s:sku>711V-029</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287663623</id>
+      <title>Turquoise 026</title>
+      <s:price currency="USD">2.78</s:price>
+      <s:sku>711V-026</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287663623</id>
+      <title>Yellow 027</title>
+      <s:price currency="USD">2.78</s:price>
+      <s:sku>700V-027</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/7287661959</id>
+    <published>2016-06-21T13:53:00-04:00</published>
+    <updated>2016-06-21T13:53:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/8mm-faceted-beads-710v"/>
+    <title>Faceted Beads 8mm Package 900 pieces  #710V</title>
+    <s:type>Faceted Beads</s:type>
+    <s:vendor>Creative Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/faceted_beads_104def4a-c699-4f75-b08c-ad5fa986afcd.jpeg?v=1531756331"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Creative Wholesale<br>
+        <strong>Type: </strong>Faceted Beads<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>8mm Faceted Beads 710V</p>
+<p>Package of 900 beads</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>8mm faceted beads</s:tag>
+    <s:tag>braiding beads</s:tag>
+    <s:tag>Faceted Beads</s:tag>
+    <s:tag>hair beads</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287661959</id>
+      <title>Amethyst 001</title>
+      <s:price currency="USD">3.49</s:price>
+      <s:sku>710V-001</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287661959</id>
+      <title>Champagne 022</title>
+      <s:price currency="USD">3.49</s:price>
+      <s:sku>710V-022</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287661959</id>
+      <title>Crystal 006</title>
+      <s:price currency="USD">3.49</s:price>
+      <s:sku>710V-006</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287661959</id>
+      <title>Dark Amethyst 002</title>
+      <s:price currency="USD">3.49</s:price>
+      <s:sku>710V-002</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287661959</id>
+      <title>Dark Sapphire 020</title>
+      <s:price currency="USD">3.49</s:price>
+      <s:sku>710V-020</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287661959</id>
+      <title>Emerald 007</title>
+      <s:price currency="USD">3.49</s:price>
+      <s:sku>710V-007</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287661959</id>
+      <title>Fushia 016</title>
+      <s:price currency="USD">3.49</s:price>
+      <s:sku>710V-016</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287661959</id>
+      <title>Hot Pint 031</title>
+      <s:price currency="USD">3.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287661959</id>
+      <title>Lt Sapphire 019</title>
+      <s:price currency="USD">3.49</s:price>
+      <s:sku>710V-019</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287661959</id>
+      <title>Mint 013</title>
+      <s:price currency="USD">3.49</s:price>
+      <s:sku>710V-013</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287661959</id>
+      <title>Multi 029</title>
+      <s:price currency="USD">3.49</s:price>
+      <s:sku>710V-029</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287661959</id>
+      <title>Orange 014</title>
+      <s:price currency="USD">3.49</s:price>
+      <s:sku>710V-014</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287661959</id>
+      <title>Pale Yellow 027</title>
+      <s:price currency="USD">3.49</s:price>
+      <s:sku>710V-027</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287661959</id>
+      <title>Pink 015</title>
+      <s:price currency="USD">3.49</s:price>
+      <s:sku>710V-015</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287661959</id>
+      <title>Ruby 017</title>
+      <s:price currency="USD">3.49</s:price>
+      <s:sku>710V-017</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287661959</id>
+      <title>Topaz 023</title>
+      <s:price currency="USD">3.49</s:price>
+      <s:sku>710V-023</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287661959</id>
+      <title>Tortoise 025</title>
+      <s:price currency="USD">3.49</s:price>
+      <s:sku>710V-025</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287661959</id>
+      <title>Turquoise 026</title>
+      <s:price currency="USD">3.49</s:price>
+      <s:sku>710V-026</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287661959</id>
+      <title>Transparent Multi 029</title>
+      <s:price currency="USD">3.49</s:price>
+      <s:sku>710V-029</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/7287660743</id>
+    <published>2016-06-21T13:53:00-04:00</published>
+    <updated>2016-06-21T13:53:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/10mm-faceted-beads"/>
+    <title>Faceted Beads 10mm Package 450 pieces 711V</title>
+    <s:type>Faceted Beads</s:type>
+    <s:vendor>Creative Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/006-Crystal.jpg?v=1595351184"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Creative Wholesale<br>
+        <strong>Type: </strong>Faceted Beads<br>
+        <strong>Price: </strong>
+            3.39
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>10mm Faceted Beads, 711V,  450 pieces package</p>
+<p>Faceted beads are used for many purposes, including necklaces, bracelets, hair beads, hair braiding. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>10mm faceted beads</s:tag>
+    <s:tag>braiding beads</s:tag>
+    <s:tag>Faceted Beads</s:tag>
+    <s:tag>hair beads</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287660743</id>
+      <title>Crystal 006</title>
+      <s:price currency="USD">3.39</s:price>
+      <s:sku>711V-006</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287660743</id>
+      <title>Dk Sapphire 020</title>
+      <s:price currency="USD">3.39</s:price>
+      <s:sku>711V-020</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287660743</id>
+      <title>Emerald 007</title>
+      <s:price currency="USD">3.39</s:price>
+      <s:sku>711V-007</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287660743</id>
+      <title>Multi 029</title>
+      <s:price currency="USD">3.39</s:price>
+      <s:sku>711V-029</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287660743</id>
+      <title>Ruby 017</title>
+      <s:price currency="USD">3.39</s:price>
+      <s:sku>711V-017</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/7287659719</id>
+    <published>2016-06-21T13:53:00-04:00</published>
+    <updated>2016-06-21T13:53:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/12mm-faceted-beads-712v-package-360-pieces"/>
+    <title>Faceted Beads 12mm 712V Package 360 pieces</title>
+    <s:type>Faceted Beads</s:type>
+    <s:vendor>Creative Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/faceted_beads_8bdf928d-291c-4aae-b5ea-7d6ca11bb2c4.jpeg?v=1531756328"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Creative Wholesale<br>
+        <strong>Type: </strong>Faceted Beads<br>
+        <strong>Price: </strong>
+            3.72
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>12mm Faceted Beads 712V, Package 360 pieces</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12mm faceted beads</s:tag>
+    <s:tag>braiding beads</s:tag>
+    <s:tag>Faceted Beads</s:tag>
+    <s:tag>hair beads</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287659719</id>
+      <title>Crystal 006</title>
+      <s:price currency="USD">3.72</s:price>
+      <s:sku></s:sku>
+      <s:grams>312</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287659719</id>
+      <title>Emerald 007</title>
+      <s:price currency="USD">3.72</s:price>
+      <s:sku></s:sku>
+      <s:grams>312</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287659719</id>
+      <title>Dk Sapphire 020</title>
+      <s:price currency="USD">3.72</s:price>
+      <s:sku></s:sku>
+      <s:grams>312</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287659719</id>
+      <title>Ruby 017</title>
+      <s:price currency="USD">3.72</s:price>
+      <s:sku></s:sku>
+      <s:grams>312</s:grams>
+    </s:variant>
+  </entry>
+</feed>

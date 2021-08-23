@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://creativewholesale.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://creativewholesale.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://creativewholesale.com/collections/famowood-wood-filler-latex-base.atom"/>
+  <title>Creative Wholesale</title>
+  <updated>2016-09-29T14:37:00-04:00</updated>
+  <author>
+    <name>Creative Wholesale</name>
+  </author>
+  <entry>
+    <id>https://creativewholesale.com/products/9935462218</id>
+    <published>2016-09-29T14:37:00-04:00</published>
+    <updated>2016-09-29T14:37:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/famowood-latex-wood-filler-24-oz-fir-maple-case-of-12-40022118c"/>
+    <title>Famowood Latex Wood Filler 24 oz. Fir/Maple 12/Case 40022118C</title>
+    <s:type>Famowood Wood Filler</s:type>
+    <s:vendor>Eclectic Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/WBWF_FIR_MAPLE_72def77e-1631-4aca-bbb2-8bd63d6602e4.jpg?v=1527227730"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eclectic Products<br>
+        <strong>Type: </strong>Famowood Wood Filler<br>
+        <strong>Price: </strong>
+            66.04
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;"><span class="faq_q"><span style="font-size: 24px;"><strong>Famowood  Latex Wood Filler</strong></span></span></div>
+<div style="text-align: center;"><span class="faq_q"><span style="font-size: 24px;"><strong>Color: Fir/Maple</strong></span></span></div>
+<div style="text-align: center;"><span class="faq_q"><span style="font-size: 24px;"><strong>Latex Based   24 ounces</strong></span></span></div>
+<div style="text-align: center;"><span class="faq_q"><span style="font-size: 24px;"><strong>Item # 40022118C</strong></span></span></div>
+<div style="text-align: center;"><span class="faq_q"><span style="font-size: 24px;"><strong>Case of 12 </strong></span></span></div>
+<div style="text-align: center;"><span class="faq_q"><span style="font-size: 24px;"><strong> </strong></span></span></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>famowood wood filler</s:tag>
+    <s:tag>latex wood filler</s:tag>
+    <s:tag>water based wood filler</s:tag>
+    <s:tag>wood filler</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/9935462218</id>
+      <title>Default Title</title>
+      <s:price currency="USD">66.04</s:price>
+      <s:sku></s:sku>
+      <s:grams>9979</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/9935310090</id>
+    <published>2016-09-29T14:37:00-04:00</published>
+    <updated>2016-09-29T14:37:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/famowood-latex-wood-filler-24-oz-case-12-natural-40022126c"/>
+    <title>Famowood Latex Wood Filler 24 oz. Case 12 Natural 40022126C</title>
+    <s:type>Famowood Wood Filler</s:type>
+    <s:vendor>Eclectic Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/WBWF_NATURAL_61480db1-d6c6-4fa2-be2c-7f1e869fda1a.jpg?v=1527227730"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eclectic Products<br>
+        <strong>Type: </strong>Famowood Wood Filler<br>
+        <strong>Price: </strong>
+            66.04
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;"><span class="faq_q"><span style="font-size: 24px;"><strong>Famowood  Latex Wood Filler</strong></span></span></div>
+<div style="text-align: center;"><span class="faq_q"><span style="font-size: 24px;"><strong>Color: Natural</strong></span></span></div>
+<div style="text-align: center;"><span class="faq_q"><span style="font-size: 24px;"><strong>Latex Based   24 ounces</strong></span></span></div>
+<div style="text-align: center;"><span class="faq_q"><span style="font-size: 24px;"><strong>Item # 40022126C</strong></span></span></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>famowood wood filler</s:tag>
+    <s:tag>latex wood filler</s:tag>
+    <s:tag>water based wood filler</s:tag>
+    <s:tag>wood filler</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/9935310090</id>
+      <title>Default Title</title>
+      <s:price currency="USD">66.04</s:price>
+      <s:sku></s:sku>
+      <s:grams>9979</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/9935268682</id>
+    <published>2016-09-29T14:37:00-04:00</published>
+    <updated>2016-09-29T14:37:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/copy-of-famowood-latex-wood-filler-24-ounces-12-per-case-cherry-dk-mahogany-40022112c"/>
+    <title>Famowood Latex Wood Filler Golden Oak 24oz 12/Case 40022152C</title>
+    <s:type>Famowood Wood Filler</s:type>
+    <s:vendor>Eclectic Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/WBWF_GOLDEN_OAK_a40009f8-4220-4efc-9288-dbc8a1164a87.jpg?v=1527227732"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eclectic Products<br>
+        <strong>Type: </strong>Famowood Wood Filler<br>
+        <strong>Price: </strong>
+            66.04
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;"><span class="faq_q"><span style="font-size: 24px;"><strong>Famowood  Latex Wood Filler</strong></span></span></div>
+<div style="text-align: center;">
+<span class="faq_q"><span style="font-size: 24px;"><strong>Color: Golden Oak</strong></span></span><span class="faq_q"><strong><span style="font-size: 18px;"> </span></strong></span>
+</div>
+<div style="text-align: center;"><span class="faq_q"><span style="font-size: 24px;"><strong>Latex Based  24 ounces</strong></span></span></div>
+<div style="text-align: center;"><span class="faq_q"><span style="font-size: 24px;"><strong>12 Per Case - Item # 40022152C<br></strong></span></span></div>
+<div style="text-align: center;">
+<span class="faq_q"><span style="font-size: 24px;"><strong><br></strong></span></span><span class="faq_q"><strong><span style="font-size: 18px;"></span></strong></span>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>famowood wood filler</s:tag>
+    <s:tag>latex wood filler</s:tag>
+    <s:tag>water based wood filler</s:tag>
+    <s:tag>wood filler</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/9935268682</id>
+      <title>Default Title</title>
+      <s:price currency="USD">66.04</s:price>
+      <s:sku></s:sku>
+      <s:grams>9979</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/9935088778</id>
+    <published>2016-09-29T14:37:00-04:00</published>
+    <updated>2016-09-29T14:37:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/famowood-latex-wood-filler-24-oz-birch-color-40022106c"/>
+    <title>Famowood© Latex Wood Filler 24 oz Birch Color  Case/12  #40022106C</title>
+    <s:type>Famowood Wood Filler</s:type>
+    <s:vendor>Eclectic Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/WBWF_BIRCH_3542395d-3294-4268-b6e5-d236f41c0bae.jpg?v=1527227756"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eclectic Products<br>
+        <strong>Type: </strong>Famowood Wood Filler<br>
+        <strong>Price: </strong>
+            66.04
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;"><span class="faq_q"><span style="font-size: 24px;"><strong> Famowood©  Latex Wood Filler<br></strong></span></span></div>
+<div style="text-align: center;"><span class="faq_q"><span style="font-size: 24px;"><strong>Color:  Birch</strong></span></span></div>
+<div style="text-align: center;"><span class="faq_q"><span style="font-size: 24px;"><strong>Latex Based     24 ounces</strong></span></span></div>
+<div style="text-align: center;"><span class="faq_q"><span style="font-size: 24px;"><strong>Item # 40022106C</strong></span></span></div>
+<div style="text-align: center;"><span class="faq_q"><span style="font-size: 24px;"><strong></strong></span></span></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>birch wood filler</s:tag>
+    <s:tag>famowood wood filler</s:tag>
+    <s:tag>latex wood filler</s:tag>
+    <s:tag>water based wood filler</s:tag>
+    <s:tag>wood filler</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/9935088778</id>
+      <title>Default Title</title>
+      <s:price currency="USD">66.04</s:price>
+      <s:sku></s:sku>
+      <s:grams>9979</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/9919443530</id>
+    <published>2016-09-29T14:37:00-04:00</published>
+    <updated>2016-09-29T14:37:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/famowood-latex-wood-filler-24-ounces-12-per-case-cherry-dk-mahogany-40022112"/>
+    <title>Famowood WB Wood Filler Cherry/Dk Mah. 24oz Case/12 40022112C</title>
+    <s:type>Famowood Wood Filler</s:type>
+    <s:vendor>Eclectic Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/famowood_latex_wood_filler_4002_c26b7a0d-fd47-4ec9-9ae4-7e8e9c3388d0.jpg?v=1527227738"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eclectic Products<br>
+        <strong>Type: </strong>Famowood Wood Filler<br>
+        <strong>Price: </strong>
+            66.04
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;"><span class="faq_q"><span style="font-size: 24px;"><strong>Famowood  Latex Wood Filler</strong></span></span></div>
+<div style="text-align: center;">
+<span class="faq_q"><span style="font-size: 24px;"><strong>Color: Cherry/Dk Mahogany</strong></span></span><span class="faq_q"><strong><span style="font-size: 18px;"> </span></strong></span>
+</div>
+<div style="text-align: center;"><span class="faq_q"><span style="font-size: 24px;"><strong>Latex Based  24 ounces</strong></span></span></div>
+<div style="text-align: center;"><span class="faq_q"><span style="font-size: 24px;"><strong>12 Per Case - Item # 40022112C<br></strong></span></span></div>
+<div style="text-align: center;">
+<span class="faq_q"><span style="font-size: 24px;"><strong><br></strong></span></span><span class="faq_q"><strong><span style="font-size: 18px;"></span></strong></span>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>famowood wood filler</s:tag>
+    <s:tag>latex wood filler</s:tag>
+    <s:tag>water based wood filler</s:tag>
+    <s:tag>wood filler</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/9919443530</id>
+      <title>Default Title</title>
+      <s:price currency="USD">66.04</s:price>
+      <s:sku></s:sku>
+      <s:grams>9979</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/9919397706</id>
+    <published>2016-09-29T14:37:00-04:00</published>
+    <updated>2016-09-29T14:37:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/famowood-latex-wood-filler-24-ounces-12-per-case-natural-022126c"/>
+    <title>Famowood Latex Wood Filler Red Oak 24oz 12/Case 40022134C</title>
+    <s:type>Famowood Wood Filler</s:type>
+    <s:vendor>Eclectic Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/famowood_latex_wood_filler_4002_7baa8211-4583-462c-ab43-062fad4454fc.jpg?v=1527227734"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eclectic Products<br>
+        <strong>Type: </strong>Famowood Wood Filler<br>
+        <strong>Price: </strong>
+            66.04
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;"><span class="faq_q"><span style="font-size: 24px;"><strong>Famowood  Latex Wood Filler </strong></span></span></div>
+<div style="text-align: center;"><span class="faq_q"><span style="font-size: 24px;"><strong> Color: Red Oak<br></strong></span></span></div>
+<div style="text-align: center;"><span class="faq_q"><span style="font-size: 24px;"><strong>Latex Based  24 ounces</strong></span></span></div>
+<div style="text-align: center;"><span class="faq_q"><span style="font-size: 24px;"><strong>12 Per Case</strong></span></span></div>
+<div style="text-align: center;"><span class="faq_q"><span style="font-size: 24px;"><strong>Item # 40022134C</strong></span></span></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>famowood wood filler</s:tag>
+    <s:tag>latex wood filler</s:tag>
+    <s:tag>water based wood filler</s:tag>
+    <s:tag>wood filler</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/9919397706</id>
+      <title>Default Title</title>
+      <s:price currency="USD">66.04</s:price>
+      <s:sku></s:sku>
+      <s:grams>9979</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/9919291594</id>
+    <published>2016-09-29T14:37:00-04:00</published>
+    <updated>2016-09-29T14:37:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/famowood-latex-wood-filler-24-ounces-12-per-case-oak-40022128c"/>
+    <title>Famowood WB Wood Filler 24oz Case/12 Oak 40022128C</title>
+    <s:type>Famowood Wood Filler</s:type>
+    <s:vendor>Eclectic Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/famowood_latex_wood_filler_4002_a5a0ff35-d4bf-4c86-b571-bfda09e65e7e.jpg?v=1527227737"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eclectic Products<br>
+        <strong>Type: </strong>Famowood Wood Filler<br>
+        <strong>Price: </strong>
+            66.04
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;"><span class="faq_q"><span style="font-size: 24px;"><strong>Famowood  Latex Wood Filler  </strong></span></span></div>
+<div style="text-align: center;"><span class="faq_q"><span style="font-size: 24px;"><strong>Color:  Oak</strong></span></span></div>
+<div style="text-align: center;"><span class="faq_q"><span style="font-size: 24px;"><strong>Latex Based   24 ounces</strong></span></span></div>
+<div style="text-align: center;"><span class="faq_q"><span style="font-size: 24px;"><strong>12 Per Case</strong></span></span></div>
+<div style="text-align: center;"><span class="faq_q"><span style="font-size: 24px;"><strong>Item # 40022128C</strong></span></span></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>famowood wood filler</s:tag>
+    <s:tag>latex wood filler</s:tag>
+    <s:tag>water based wood filler</s:tag>
+    <s:tag>wood filler</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/9919291594</id>
+      <title>Default Title</title>
+      <s:price currency="USD">66.04</s:price>
+      <s:sku></s:sku>
+      <s:grams>9979</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/9919278538</id>
+    <published>2016-09-29T14:37:00-04:00</published>
+    <updated>2016-09-29T14:37:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/famowood-latex-wood-filler-24-ounces-12-per-caase-walnut-40022142c"/>
+    <title>Famowood Latex Wood Filler Walnut 24oz 12/Case  40022142C</title>
+    <s:type>Famowood Wood Filler</s:type>
+    <s:vendor>Eclectic Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/famowood_latex_wood_filler_4002_8bdf7fd8-fa69-406f-bb16-4a444884d524.jpg?v=1527227735"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eclectic Products<br>
+        <strong>Type: </strong>Famowood Wood Filler<br>
+        <strong>Price: </strong>
+            66.04
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;"><span class="faq_q"><span style="font-size: 24px;"><strong>Famowood  Latex Wood Filler</strong></span></span></div>
+<div style="text-align: center;"><span class="faq_q"><span style="font-size: 24px;"><strong>Color:  Walnut<br></strong></span></span></div>
+<div style="text-align: center;"><span class="faq_q"><span style="font-size: 24px;"><strong>Latex Based   24 ounces</strong></span></span></div>
+<div style="text-align: center;"><span class="faq_q"><span style="font-size: 24px;"><strong>12 Per Case</strong></span></span></div>
+<div style="text-align: center;"><span class="faq_q"><span style="font-size: 24px;"><strong>Item # 40022142C</strong></span></span></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>famowood wood filler</s:tag>
+    <s:tag>latex wood filler</s:tag>
+    <s:tag>water based wood filler</s:tag>
+    <s:tag>wood filler</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/9919278538</id>
+      <title>Default Title</title>
+      <s:price currency="USD">66.04</s:price>
+      <s:sku></s:sku>
+      <s:grams>9979</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/9919252618</id>
+    <published>2016-09-29T14:37:00-04:00</published>
+    <updated>2016-09-29T14:37:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/famowood-latex-wood-filler-24-ounces-12-per-case-white-40022144c"/>
+    <title>Famowood Latex Wood Filler 24 oz. 12/Case White  40022144C</title>
+    <s:type>Famowood Wood Filler</s:type>
+    <s:vendor>Eclectic Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/famowood_latex_wood_filler_4002_da6dc12c-ddd0-4dfe-a771-f01b9bd14c06.jpg?v=1527227729"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eclectic Products<br>
+        <strong>Type: </strong>Famowood Wood Filler<br>
+        <strong>Price: </strong>
+            66.04
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;"><span class="faq_q"><span style="font-size: 24px;"><strong>Famowood  Latex Wood Filler</strong></span></span></div>
+<div style="text-align: center;"><span class="faq_q"><span style="font-size: 24px;"><strong>Color:  White <br></strong></span></span></div>
+<div style="text-align: center;"><span class="faq_q"><span style="font-size: 24px;"><strong>Latex Based   24 ounces</strong></span></span></div>
+<div style="text-align: center;"><span class="faq_q"><span style="font-size: 24px;"><strong>12 Per Case</strong></span></span></div>
+<div style="text-align: center;"><span class="faq_q"><span style="font-size: 24px;"><strong>Item # 40022144C</strong></span></span></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>famowood wood filler</s:tag>
+    <s:tag>latex wood filler</s:tag>
+    <s:tag>water based wood filler</s:tag>
+    <s:tag>wood filler</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/9919252618</id>
+      <title>Default Title</title>
+      <s:price currency="USD">66.04</s:price>
+      <s:sku></s:sku>
+      <s:grams>9979</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/9919229514</id>
+    <published>2016-09-29T14:37:00-04:00</published>
+    <updated>2016-09-29T14:37:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/famowood-latex-wood-filler-24-ounces-12-per-case-white-pine-40022148c"/>
+    <title>Famowood Latex Wood Filler White Pine 24oz 12/Case 40022148C</title>
+    <s:type>Famowood Wood Filler</s:type>
+    <s:vendor>Eclectic Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/famowood_latex_wood_filler_4002_83eee1a0-ce5a-440a-a5c2-1ba0c08f3def.jpg?v=1527227736"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eclectic Products<br>
+        <strong>Type: </strong>Famowood Wood Filler<br>
+        <strong>Price: </strong>
+            66.04
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;"><span class="faq_q"><span style="font-size: 24px;"><strong>Famowood  Latex Wood Filler</strong></span></span></div>
+<div style="text-align: center;"><span class="faq_q"><span style="font-size: 24px;"><strong>Color:  White Pine</strong></span></span></div>
+<div style="text-align: center;"><span class="faq_q"><span style="font-size: 24px;"><strong>Latex Based  24 ounces</strong></span></span></div>
+<div style="text-align: center;"><span class="faq_q"><span style="font-size: 24px;"><strong>12 Per Case</strong></span></span></div>
+<div style="text-align: center;"><span class="faq_q"><span style="font-size: 24px;"><strong>Item # 40022148C<br></strong></span></span></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>famowood wood filler</s:tag>
+    <s:tag>latex wood filler</s:tag>
+    <s:tag>water based wood filler</s:tag>
+    <s:tag>wood filler</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/9919229514</id>
+      <title>Default Title</title>
+      <s:price currency="USD">66.04</s:price>
+      <s:sku></s:sku>
+      <s:grams>9979</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/9918712074</id>
+    <published>2016-09-29T14:37:00-04:00</published>
+    <updated>2016-09-29T14:37:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/famowood-latex-wood-filler-24-ounces-birch-40022106"/>
+    <title>Famowood© Latex Wood Filler 24 oz Birch Color 40022106</title>
+    <s:type>Famowood Wood Filler</s:type>
+    <s:vendor>Eclectic Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/WBWF_BIRCH.jpg?v=1527227757"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eclectic Products<br>
+        <strong>Type: </strong>Famowood Wood Filler<br>
+        <strong>Price: </strong>
+            5.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;"><span class="faq_q"><span style="font-size: 24px;"><strong>Birch Famowood©  Latex Wood Filler<br></strong></span></span></div>
+<div style="text-align: center;"><span class="faq_q"><span style="font-size: 24px;"><strong>Latex Based     24 ounces</strong></span></span></div>
+<div style="text-align: center;"><span class="faq_q"><span style="font-size: 24px;"><strong>Item # 40022106</strong></span></span></div>
+<div style="text-align: center;"><span class="faq_q"><span style="font-size: 24px;"><strong></strong></span></span></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>birch wood filler</s:tag>
+    <s:tag>famowood wood filler</s:tag>
+    <s:tag>latex wood filler</s:tag>
+    <s:tag>water based wood filler</s:tag>
+    <s:tag>wood filler</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/9918712074</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://creativewholesale.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://creativewholesale.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://creativewholesale.com/collections/frontpage.atom"/>
+  <title>Creative Wholesale</title>
+  <updated>2017-03-14T16:07:42-04:00</updated>
+  <author>
+    <name>Creative Wholesale</name>
+  </author>
+  <entry>
+    <id>https://creativewholesale.com/products/10283598282</id>
+    <published>2017-03-14T16:07:42-04:00</published>
+    <updated>2017-03-14T16:07:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/unicorn-spit-zia-teal-4-oz-bottle"/>
+    <title>Unicorn Spit Zia Teal 4 oz 5770006</title>
+    <s:type>Paint, stain</s:type>
+    <s:vendor>Eclectic Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/UC-ZiaTeal-4ozbot_US_300.jpg?v=1579535782"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eclectic Products<br>
+        <strong>Type: </strong>Paint, stain<br>
+        <strong>Price: </strong>
+            7.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>UNICORN SPIT, Zia Teal</strong><strong>, 4 oz bottle.</strong></p>
+<p><strong>UNICORN SPIT</strong> allows anyone to turn ordinary objects into personalized <strong>MASTERPIECES!</strong> <br> Use on wood, glass, metal, fabric, pottery, wicker, concrete and laminate. Ideal for creating new - or - refinishing thousands of projects. Excellent for Crafters, Makers, Hobbyists, DIYers and Pros too!<br><br> •  PAINT, GEL STAIN and GLAZE in One!<br>•  14 vibrant colors!<br>•  Make your project as opaque or vibrant as your dreams require. <br>   Use as a PAINT or dilute with water to create a GEL, GLAZE, STAIN, WHITE WASH <br>   or ANTIQUING TINT!<br>•  Penetrates deep into the bare wood grain or glazes over existing finishes, <br>   brightens and highlights chalk paint, and provides a 3-D dimensional effect<br>•  Jasmine scented<br>•  Use indoors or outdoors</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Unicorn Spit</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/10283598282</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>184</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/9933805002</id>
+    <published>2016-09-29T14:37:00-04:00</published>
+    <updated>2016-09-29T14:37:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/copy-of-famowood-woodtex-20-ounces-white-pine-34021048"/>
+    <title>Famowood  Woodtex 20oz White Pine 34021048</title>
+    <s:type>Famowood Wood Filler</s:type>
+    <s:vendor>Eclectic Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/3402_woodtex_wood_filler_2c48ab01-179c-4cda-b55d-98d123784fdd.jpg?v=1527227727"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eclectic Products<br>
+        <strong>Type: </strong>Famowood Wood Filler<br>
+        <strong>Price: </strong>
+            5.96
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span class="faq_q"><span style="font-size: 24px;"><strong>Famowood  Wood-Tex - Color:  White Pine</strong></span></span></p>
+<p><span class="faq_q"><strong><span style="font-size: 18px;">Solvent Base, Pint Container. </span></strong></span></p>
+<p><span class="faq_q"><strong><span style="font-size: 18px;">Net Weight 20 ounces.</span></strong></span></p>
+<p><span class="style22"><span style="font-size: 16px;">Genuine wood flour combined with special bonding agents makes</span></span> <span class="style21"><strong>Wood-Tex<sup>®</sup> Synthetic Wood</strong></span> <span class="style22"><span style="font-size: 16px;">handle like wood itself. Stain it, sand it, drill it, or plane it — just like real wood.</span></span></p>
+<p><span class="faq_q"><strong><span style="color: #ff0000;">FOR AIR SHIPMENTS, this product is considered Hazardous.  Additional UPS Hazmat shipping fees added.  See Terms and Conditions.</span></strong></span> </p>
+<ul>
+<li class="style22"><strong>Waterproof </strong></li>
+<li class="style22"><strong>Fast setting </strong></li>
+<li class="style22"><strong>Minimum shrinkage </strong></li>
+<li class="style22"><strong>Stains like real wood</strong></li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>famowood wood filler</s:tag>
+    <s:tag>Wood &amp; Grain Filler</s:tag>
+    <s:tag>wood filler</s:tag>
+    <s:tag>wood tex</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/9933805002</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.96</s:price>
+      <s:sku></s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/9911863754</id>
+    <published>2016-09-29T14:37:00-04:00</published>
+    <updated>2016-09-29T14:37:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/famowood-wood-filler-solvent-based-23-ounces-natural-tupelo-36021126"/>
+    <title>Famowood Wood Filler Natural/Tupelo/White Pine 23oz  36021126</title>
+    <s:type>Famowood Wood Filler</s:type>
+    <s:vendor>Eclectic Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/Famowood_23oz_1c54d4a9-360e-4e71-8ef4-d1a07f5b944e.jpg?v=1527227747"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eclectic Products<br>
+        <strong>Type: </strong>Famowood Wood Filler<br>
+        <strong>Price: </strong>
+            6.53
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span class="faq_q"><span style="font-size: 24px;"><strong>Famowood  Professional Wood Filler #36021126</strong></span></span></p>
+<p><strong>Color:  Natural/Tupelo/White Pine,  23 oz can, Solvent Base</strong><br></p>
+<p><strong>FAMOWOOD Original Wood Filler has been the choice of professional woodworkers for over 70 years! It doesn't matter whether you are masking small or large defects, FAMOWOOD can handle the job. It spreads smoothly into cracks and holes, takes stains and paints evenly and resists cracking. Perfect for any type of custom wood project. </strong><br><br></p>
+<ul>
+<li><strong>Dries in 30 minutes </strong></li>
+<li><strong>Won't crack or shrink </strong></li>
+<li><strong>Can be sanded, drilled or planed </strong></li>
+<li><strong>Stainable and paintable </strong></li>
+<li><strong>Interior/exterior use</strong></li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>famowood wood filler</s:tag>
+    <s:tag>Natural/Tupelo wood filler</s:tag>
+    <s:tag>wood filler</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/9911863754</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.53</s:price>
+      <s:sku></s:sku>
+      <s:grams>862</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/9172216586</id>
+    <published>2016-09-29T14:37:00-04:00</published>
+    <updated>2016-09-29T14:37:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/amazing-goop-3-7-ounce-tube-140211"/>
+    <title>Amazing Goop, 3.7 ounce Tube # 140211 (2 Tubes)</title>
+    <s:type>Amazing Goop</s:type>
+    <s:vendor>Eclectic Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/140211.jpg?v=1527225433"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eclectic Products<br>
+        <strong>Type: </strong>Amazing Goop<br>
+        <strong>Price: </strong>
+            7.96
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="box-sizing: border-box; margin: 0px 0px 10px; padding: 0px; border: 0px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-numeric: inherit; font-weight: normal; font-stretch: inherit; font-size: 14px; line-height: inherit; font-family: 'Century Gothic', Verdana, Arial, Helvetica, sans-serif, 'Avant Garde'; vertical-align: baseline; color: #000000; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff;"><span class="hd1_red" style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: 24px; line-height: inherit; font-family: inherit; vertical-align: baseline;"><strong style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: bold; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">Amazing Goop, All Purpose  #140211<br></strong></span></span></p>
+<p style="box-sizing: border-box; margin: 0px 0px 10px; padding: 0px; border: 0px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-numeric: inherit; font-weight: normal; font-stretch: inherit; font-size: 14px; line-height: inherit; font-family: 'Century Gothic', Verdana, Arial, Helvetica, sans-serif, 'Avant Garde'; vertical-align: baseline; color: #000000; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff;"><span class="hd1_red" style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: 24px; line-height: inherit; font-family: inherit; vertical-align: baseline;"><strong style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: bold; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">Minimum order 2 Tube</strong></span></span></p>
+<p style="box-sizing: border-box; margin: 0px 0px 10px; padding: 0px; border: 0px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-numeric: inherit; font-weight: normal; font-stretch: inherit; font-size: 14px; line-height: inherit; font-family: 'Century Gothic', Verdana, Arial, Helvetica, sans-serif, 'Avant Garde'; vertical-align: baseline; color: #000000; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff;"><span class="hd1_red" style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: 24px; line-height: inherit; font-family: inherit; vertical-align: baseline;"><strong style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: bold; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">3.7</strong></span></span><span class="hd1_red" style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: 24px; line-height: inherit; font-family: inherit; vertical-align: baseline;"><strong style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: bold; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;"> ounce Tube</strong></span></span></p>
+<p style="box-sizing: border-box; margin: 0px 0px 10px; padding: 0px; border: 0px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-numeric: inherit; font-weight: normal; font-stretch: inherit; font-size: 14px; line-height: inherit; font-family: 'Century Gothic', Verdana, Arial, Helvetica, sans-serif, 'Avant Garde'; vertical-align: baseline; color: #000000; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff;"><span class="hd1_red" style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;"><img id="dnn_ctr447__ProductMainData_imgProductImage" alt="" src="http://www.creativewholesale.com/Portals/6/Amazing%20Goop.jpg" data-pin-nopin="true" style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: middle;"></span></p>
+<p style="box-sizing: border-box; margin: 0px 0px 10px; padding: 0px; border: 0px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-numeric: inherit; font-weight: normal; font-stretch: inherit; font-size: 14px; line-height: inherit; font-family: 'Century Gothic', Verdana, Arial, Helvetica, sans-serif, 'Avant Garde'; vertical-align: baseline; color: #000000; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff;"><span style="font-size: inherit;"><strong><span class="hd1_red" style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-stretch: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">One of the strongest, most flexible, all-purpose adhesives ever created.</span></strong></span></p>
+<p style="box-sizing: border-box; margin: 0px 0px 10px; padding: 0px; border: 0px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-numeric: inherit; font-weight: normal; font-stretch: inherit; font-size: 14px; line-height: inherit; font-family: 'Century Gothic', Verdana, Arial, Helvetica, sans-serif, 'Avant Garde'; vertical-align: baseline; color: #000000; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff;"><span style="font-size: inherit;"><strong><span class="hd1_red" style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-stretch: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">Strongest single component adhesive.<br style="box-sizing: border-box;">Bonds to practically anything.<br style="box-sizing: border-box;">Fixes practically everything.<br style="box-sizing: border-box;">Seals with a flexible, waterproof hold.<br style="box-sizing: border-box;">Won't crack or break like superglue.<br style="box-sizing: border-box;">Withstands heat up to 150¬ F.</span></strong></span></p>
+<p style="box-sizing: border-box; margin: 0px 0px 10px; padding: 0px; border: 0px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-numeric: inherit; font-weight: normal; font-stretch: inherit; font-size: 14px; line-height: inherit; font-family: 'Century Gothic', Verdana, Arial, Helvetica, sans-serif, 'Avant Garde'; vertical-align: baseline; color: #000000; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff;"><span style="font-size: inherit;"><strong><span class="hd1_red" style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-stretch: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">Mend vacuum cleaner attachments.<br style="box-sizing: border-box;">Seal worn or cracked water hoses.<br style="box-sizing: border-box;">Repair broken ceramic flowerpots.<br style="box-sizing: border-box;">Fix and tighten loose towel racks.<br style="box-sizing: border-box;">Adhere new handles onto garden tools.</span></strong></span></p>
+<p style="box-sizing: border-box; margin: 0px 0px 10px; padding: 0px; border: 0px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-numeric: inherit; font-weight: normal; font-stretch: inherit; font-size: 14px; line-height: inherit; font-family: 'Century Gothic', Verdana, Arial, Helvetica, sans-serif, 'Avant Garde'; vertical-align: baseline; color: #000000; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff;"><strong style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: bold; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline; color: #ff0000;">FOR AIR SHIPMENTS, this product is classified as Hazardous.  Additional HazMat Fees Apply. See Terms and Conditions.</span></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>amazing goop</s:tag>
+    <s:tag>goop</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/9172216586</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.96</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/8231781191</id>
+    <published>2016-08-01T11:33:00-04:00</published>
+    <updated>2016-08-01T11:33:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/famowood-glaze-coat-epoxy-coating"/>
+    <title>Famowood Glaze Coat Epoxy Coating One Gallon Kit 5050110</title>
+    <s:type>Epoxy Resin, Art Resin</s:type>
+    <s:vendor>Eclectic Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/Glazecoat_gallon.jpg?v=1534177039"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eclectic Products<br>
+        <strong>Type: </strong>Epoxy Resin, Art Resin<br>
+        <strong>Price: </strong>
+            66.81
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>FAMOWOOD GLAZE COAT Epoxy Coating One Gallon Kit, 5050110</strong></p>
+<p><strong>Kit contains 64 ounces Resin, 64 ounces Hardener.</strong></p>
+<p><strong>Coverage  approximately 25.6 square feet</strong></p>
+<p><strong><a href="https://cdn.shopify.com/s/files/1/1352/9355/files/glazecoat_instructions_2020.pdf?75">Application Instructions </a>                      </strong></p>
+<p><strong><a href="https://cdn.shopify.com/s/files/1/1352/9355/files/glaze_coat_tds-3.pdf?945686059322388281">SDS</a></strong></p>
+<p><strong>Ultra Clear, High Gloss Finish.  A two part epoxy used on thousands of projects to achieve a high-gloss finish or where embedding or preservation are desired.  Coat, embed, and preserve Home Decor, Furniture, Jewelry, Craft and many more projects!  Use on wood, metal, rock/masonry, cloth, furniture, leather, pine cones, Styrfoam, seashells, decals, oil paints &amp; more.  The perfect coating for Unicorn Spit.</strong></p>
+<p><strong>This ultra-clear, high gloss finishing epoxy is ideal for home improvement and craft projects. FAMOWOOD Glaze Coat is a pour-on epoxy coating that can be used on most surfaces – rough or smooth, stained or painted. It's great for coating tables or bar tops, preserving photographs or imbedding decorative items. Just one coat equals 70 coats of varnish! </strong><br> <br><strong> • Easy 1:1 mixing ratio </strong><br><strong> • Versatile – use on any non waxy material </strong><br><strong> • Self-leveling – minimal spreading required </strong><br><strong> • Indoor use </strong><br><strong> • Resists temperatures up to 120 °F</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ART  RESIN</s:tag>
+    <s:tag>epoxy coating</s:tag>
+    <s:tag>famowood glaze coat</s:tag>
+    <s:tag>Fluid Art</s:tag>
+    <s:tag>glaze coat</s:tag>
+    <s:tag>Liquid Art</s:tag>
+    <s:tag>pour on</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/8231781191</id>
+      <title>Default Title</title>
+      <s:price currency="USD">66.81</s:price>
+      <s:sku></s:sku>
+      <s:grams>5439</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/7886248711</id>
+    <published>2016-07-14T15:18:00-04:00</published>
+    <updated>2016-07-14T15:18:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/kleer-kote-epoxy-resin-coating"/>
+    <title>Klear Kote Epoxy Resin Coating 2 gallon kit KK603</title>
+    <s:type>Epoxy Resin</s:type>
+    <s:vendor>CreativeWholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/Klear_kote_new_packaging_96bd7e97-93c8-4aeb-89b0-217f1fc3589f.jpg?v=1548085236"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CreativeWholesale<br>
+        <strong>Type: </strong>Epoxy Resin<br>
+        <strong>Price: </strong>
+            96.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="box-sizing: border-box; margin: 0px 0px 10px; padding: 0px; border: 0px; font-style: normal; font-variant: normal; font-weight: normal; font-stretch: inherit; font-size: 14px; line-height: 20px; font-family: 'Century Gothic', Verdana, Arial, Helvetica, sans-serif, 'Avant Garde'; vertical-align: baseline; color: #000000; letter-spacing: normal; orphans: auto; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff;"><span id="dnn_ctr436_ProductPage_lblItemHtmlHolder" style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;"><span class="faq_q" style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: 24px; line-height: inherit; font-family: inherit; vertical-align: baseline;"><strong style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: bold; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">Klear Kote <span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: 18px; line-height: inherit; font-family: inherit; vertical-align: baseline;">by Whitaker. KK603<br></span></strong></span></span></span></p>
+<p style="box-sizing: border-box; margin: 0px 0px 10px; padding: 0px; border: 0px; font-style: normal; font-variant: normal; font-weight: normal; font-stretch: inherit; font-size: 14px; line-height: 20px; font-family: 'Century Gothic', Verdana, Arial, Helvetica, sans-serif, 'Avant Garde'; vertical-align: baseline; color: #000000; letter-spacing: normal; orphans: auto; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;"><span class="faq_q" style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;"><strong style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: bold; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: 18px; line-height: inherit; font-family: inherit; vertical-align: baseline;">High Gloss Epoxy Coating</span></strong></span></span></p>
+<p style="box-sizing: border-box; margin: 0px 0px 10px; padding: 0px; border: 0px; font-style: normal; font-variant: normal; font-weight: normal; font-stretch: inherit; font-size: 14px; line-height: 20px; font-family: 'Century Gothic', Verdana, Arial, Helvetica, sans-serif, 'Avant Garde'; vertical-align: baseline; color: #000000; letter-spacing: normal; orphans: auto; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff;"><span class="faq_q" style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;"><strong style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: bold; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">Two Gallon Kit, (Contains 1 Gallon Resin, 1 Gallon Hardener.)</strong></span> </p>
+<p style="box-sizing: border-box; margin: 0px 0px 10px; padding: 0px; border: 0px; font-style: normal; font-variant: normal; font-weight: normal; font-stretch: inherit; font-size: 14px; line-height: 20px; font-family: 'Century Gothic', Verdana, Arial, Helvetica, sans-serif, 'Avant Garde'; vertical-align: baseline; color: #000000; letter-spacing: normal; orphans: auto; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff;"><span class="faq_q" style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;"><strong style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: bold; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">Klear Kote Epoxy Coating is an clear, high gloss finishing epoxy,  ideal as a table top epoxy, bar top epoxy, art epoxy, and for home improvements, craft projects, and many other finishes.</strong></span> </p>
+<h2><span class="hd1_red">Please choose UPS ground or USPS retail ground only for this product.  See our terms and conditions for aerosols and ORM-D products.  This product is unable to ship priority mail or first class mail</span></h2>
+<p style="box-sizing: border-box; margin: 0px 0px 10px; padding: 0px; border: 0px; font-style: normal; font-variant: normal; font-weight: normal; font-stretch: inherit; font-size: 14px; line-height: 20px; font-family: 'Century Gothic', Verdana, Arial, Helvetica, sans-serif, 'Avant Garde'; vertical-align: baseline; color: #000000; letter-spacing: normal; orphans: auto; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff;"><strong><a href="https://cdn.shopify.com/s/files/1/1352/9355/files/Klear_Kote_Application_Instructions.pdf?1519444598431424447">Klear Kote Application Instructions</a></strong></p>
+<p><a href="https://cdn.shopify.com/s/files/1/1352/9355/files/Klear_Kote_Hardener_04.22.2016.pdf?2025242826608387043"><strong>SDS for Klear Kote Hardener</strong></a></p>
+<p style="box-sizing: border-box; margin: 0px 0px 10px; padding: 0px; border: 0px; font-style: normal; font-variant: normal; font-weight: normal; font-stretch: inherit; font-size: 14px; line-height: 20px; font-family: 'Century Gothic', Verdana, Arial, Helvetica, sans-serif, 'Avant Garde'; vertical-align: baseline; color: #000000; letter-spacing: normal; orphans: auto; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff;"><a href="https://cdn.shopify.com/s/files/1/1352/9355/files/Klear_Kote_Resin_04.20.2016.pdf?2025242826608387043"><strong>SDS for Klear Kote Resin</strong></a></p>
+<p style="box-sizing: border-box; margin: 0px 0px 10px; padding: 0px; border: 0px; font-style: normal; font-variant: normal; font-weight: normal; font-stretch: inherit; font-size: 14px; line-height: 20px; font-family: 'Century Gothic', Verdana, Arial, Helvetica, sans-serif, 'Avant Garde'; vertical-align: baseline; color: #000000; letter-spacing: normal; orphans: auto; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff;"> </p>
+<p style="box-sizing: border-box; margin: 0px 0px 10px; padding: 0px; border: 0px; font-style: normal; font-variant: normal; font-weight: normal; font-stretch: inherit; font-size: 14px; line-height: 20px; font-family: 'Century Gothic', Verdana, Arial, Helvetica, sans-serif, 'Avant Garde'; vertical-align: baseline; color: #000000; letter-spacing: normal; orphans: auto; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: #ffffff;"><strong style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: bold; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline; color: #ff0000;">ORM-D, Consumer Commodity product.  FOR AIR SHIPMENTS ONLY this product is classified as Hazardous.  Additional HazMat Fees Apply.  See Terms and Conditions.</span></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Epoxy Coating</s:tag>
+    <s:tag>Epoxy Resins</s:tag>
+    <s:tag>fluid art</s:tag>
+    <s:tag>Liquid Art</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7886248711</id>
+      <title>Default Title</title>
+      <s:price currency="USD">96.00</s:price>
+      <s:sku>KK603</s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/7878948807</id>
+    <published>2016-07-10T16:45:00-04:00</published>
+    <updated>2016-07-10T16:45:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/bernzomatic-trigger-start-hose-torch-kit-bz8250ht"/>
+    <title>BernzOmatic Hose &amp; Trigger Start Torch Kit  BZ8250HT</title>
+    <s:type>Epoxy Resin</s:type>
+    <s:vendor>CreativeWholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/BZ8250HT.jpg?v=1527225492"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CreativeWholesale<br>
+        <strong>Type: </strong>Epoxy Resin<br>
+        <strong>Price: </strong>
+            69.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-size: 24px;"><strong><span style="font-size: 16px;">BernzOmatic Trigger Start Hose Torch Kit # BZ8250HT, with 5 foot hose &amp; belt holder for propane canister.  </span></strong></span><strong><span style="font-size: 16px;">Great torch for removing bubbles from Epoxy Coatings.  Has swirl flame, stainless steel burn tube, adjustable flame control button, lock Button, instant on/off trigger igniter.</span></strong></p>
+<p><strong><span style="font-size: 16px;">Propane Canister Not Included.</span></strong></p>
+<p><strong><span style="font-size: 16px;"><!-- Detailed Description End --> <!-- Tab Strip Begin 
+           Add tabs with text or controls (Related Products, Reviews, Also Purchased Products, Media Gallery Items etc) via [Main Data] page of module CAT_Products. 
+           If there is no tab with Text_HTML but tabs with other content controls and there is any text outside the TABS section, the text would be displayed in the lblItemHtmlHolder label --> <!-- Tab Strip End --> <!-- Additional Fields Begin 
+           Additonal Field setup can be found on the [Attributes] page of module CAT_Products  (CATALooK.netStore / Products / Search for a product / Full Page Edit / Attributes / 'Tokens / Additional Fields').
+           Search Token (Additional Field) selectors will also be displayed on the [Advanced Categories] page of module CAT_Products depending on the currently selected Advanced Categories.
+           Setup search for additional fields via module CAT_SearchNF / Select [View Options] from the module action menu / Token (Additional Field) search 
+           To not display additonal fields turn off the option 'Show tokens (additional fields) on product detail page?' in the module option. --> <!-- Additional Fields End --> <!-- Product Configurator (Configurable Items And Product Bundles Only) Begin 
+           To setup image size and viewer select [View Options] from the module menu of the CAT_ItemPaneNF module / 'Parameters for Images from [Image Options], [Additional Images] and Configurable Product Slot Images'. 
+           To find more options perform a search for 'config' on the module options page. 
+           Please find sample scenarios for configurable products and product bundles in chapter: 'Configurable product example' and 'Bundled Products'. --> <!-- Product Configurator (Configurable Items And Product Bundles Only) End --></span></strong></p>
+<div class="CATClearFloat"></div>
+<div class="MDView">
+<!-- Reviews 
+                    To turn on the review display select 'Reviews' from the 'Welcome, and Product Detail Content' selector on the CAT_StoreSettings module (CATALooK.netStore / Store Settings). 
+                    Reviews must be approved via CATALooK.netStore / Reviews before they will be posted. 
+                    To Edit the layout of the ReviewList control, login as Host, select [Edit Skin Files] from the module menu of the CAT_StoreSettings module and select '_ReviewList2' from the [Skin File] selector.
+                    The name of the ascx file in the skin folder \DesktopModules\CATALooKStore\Skins\Name of the currently selected skin in the store settings or the module options is: ~/desktopmodules/catalookstore/skins/cat_grey-css_bs3/_ReviewList2.ascx. 
+                    -->
+<div class="CATInlineItemLeft"></div>
+<!-- Related Products 
+                    To turn on the Related Products display select 'Related Products' from the 'Welcome, and Product Detail Content' selector on the CAT_StoreSettings module (CATALooK.netStore / Store Settings). 
+                    Product relations can be setup via module CAT_RelatedProducts (CATALooK.netStore / Related Products) 
+                    To Edit the layout of the Related Products (MINIDASHBOARD) control, login as Host, select [Edit Skin Files] from the module menu of the CAT_StoreSettings module and select '_MiniDashBoard' from the [Skin File] selector.
+                    The name of the ascx file in the skin folder \DesktopModules\CATALooKStore\Skins\Name of the currently selected skin in the store settings or the module options is: ~/desktopmodules/catalookstore/skins/cat_grey-css_bs3/_MiniDashBoard.ascx. 
+                    Select [View Options] from the module action menu and find more options in section: 'MiniDashBoard Options'. -->
+<div class="CATInlineItemLeft">
+<div class="CATSectionBorder" id="dnn_ctr464_ProductPage_RelatedProducts_pnlModuleContent">
+<div class="CATIPHeader"><span id="dnn_ctr464_ProductPage_RelatedProducts_lblTitle"></span></div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Propane torch hose</s:tag>
+    <s:tag>Torch</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7878948807</id>
+      <title>Default Title</title>
+      <s:price currency="USD">69.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/7813740295</id>
+    <published>2016-07-10T16:45:00-04:00</published>
+    <updated>2016-07-10T16:45:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/copy-of-mixing-cup-set-6-cups-6-stir-sticks-and-3-brushes-1013"/>
+    <title>Epoxy Spreader   TRL1</title>
+    <s:type>Plastic Trowel</s:type>
+    <s:vendor>CreativeWholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/TRL_Spreader.jpg?v=1527227708"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CreativeWholesale<br>
+        <strong>Type: </strong>Plastic Trowel<br>
+        <strong>Price: </strong>
+            0.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong><span style="font-size: 18px;">Epoxy-Spreader   </span></strong></p>
+<p><strong><span style="font-size: 18px;">Spreader is 4"x4",  with 1/4", 1/8", 1/16" notches and a flat side for thin or skim coats</span></strong></p>
+<p><strong><span style="font-size: 18px;">Use this trowel to spread Epoxy Coatings over your project</span></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Epocy spreader</s:tag>
+    <s:tag>trowel</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7813740295</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.99</s:price>
+      <s:sku>TRL1</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/7762419271</id>
+    <published>2016-07-10T16:45:00-04:00</published>
+    <updated>2016-07-10T16:45:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/castin-craft-clear-polyester-casting-resin-with-catalyst"/>
+    <title>Castin&apos; Craft Clear Casting Resin W/Catalyst Gallon Kit 34128</title>
+    <s:type>Clear Casting Resin</s:type>
+    <s:vendor>Environmental Technology</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/Castin_Craft_Clear_Casting_Resin_2f85cd91-615d-40c6-b904-4127c7785dee.jpg?v=1527225525"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Environmental Technology<br>
+        <strong>Type: </strong>Clear Casting Resin<br>
+        <strong>Price: </strong>
+            66.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="font: 14px/20px 'Century Gothic', Verdana, Arial, Helvetica, sans-serif, 'Avant Garde'; margin: 0px 0px 10px; padding: 0px; border: 0px currentColor; text-align: left; color: #000000; text-transform: none; text-indent: 0px; letter-spacing: normal; word-spacing: 0px; vertical-align: baseline; white-space: normal; box-sizing: border-box; widows: 1; font-size-adjust: none; font-stretch: inherit; background-color: #ffffff; -webkit-text-stroke-width: 0px;"><strong style="margin: 0px; padding: 0px; border: 0px currentColor; line-height: inherit; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; vertical-align: baseline; box-sizing: border-box; font-stretch: inherit;"><span style="margin: 0px; padding: 0px; border: 0px currentColor; line-height: inherit; font-family: inherit; font-size: 24px; font-style: inherit; font-variant: inherit; font-weight: inherit; vertical-align: baseline; box-sizing: border-box; font-stretch: inherit;"><span class="style1" style="font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; vertical-align: baseline; box-sizing: border-box; font-size-adjust: inherit; font-stretch: inherit;"><span style="margin: 0px; padding: 0px; border: 0px currentColor; line-height: inherit; font-family: Verdana; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; vertical-align: baseline; box-sizing: border-box; font-stretch: inherit;"><span style="font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; color: #0000ff; vertical-align: baseline; box-sizing: border-box; font-size-adjust: inherit; font-stretch: inherit;"><span style="margin: 0px; padding: 0px; border: 0px currentColor; line-height: inherit; font-family: 'Times New Roman'; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: inherit; vertical-align: baseline; box-sizing: border-box; font-stretch: inherit;"><em style="margin: 0px; padding: 0px; border: 0px currentColor; line-height: inherit; font-family: inherit; font-size: inherit; font-style: italic; font-variant: inherit; font-weight: inherit; vertical-align: baseline; box-sizing: border-box; font-stretch: inherit;">Castin'Craft</em></span></span></span></span></span></strong></p>
+<p style="font: 14px/20px 'Century Gothic', Verdana, Arial, Helvetica, sans-serif, 'Avant Garde'; margin: 0px 0px 10px; padding: 0px; border: 0px currentColor; text-align: left; color: #000000; text-transform: none; text-indent: 0px; letter-spacing: normal; word-spacing: 0px; vertical-align: baseline; white-space: normal; box-sizing: border-box; widows: 1; font-size-adjust: none; font-stretch: inherit; background-color: #ffffff; -webkit-text-stroke-width: 0px;"><span style="margin: 0px; padding: 0px; border: 0px currentColor; line-height: inherit; font-family: inherit; font-size: 18px; font-style: inherit; font-variant: inherit; font-weight: inherit; vertical-align: baseline; box-sizing: border-box; font-stretch: inherit;"><em style="margin: 0px; padding: 0px; border: 0px currentColor; line-height: inherit; font-family: inherit; font-size: inherit; font-style: italic; font-variant: inherit; font-weight: inherit; vertical-align: baseline; box-sizing: border-box; font-stretch: inherit;"><strong style="margin: 0px; padding: 0px; border: 0px currentColor; line-height: inherit; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; vertical-align: baseline; box-sizing: border-box; font-stretch: inherit;"><span class="style1" style="font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; vertical-align: baseline; box-sizing: border-box; font-size-adjust: inherit; font-stretch: inherit;">Clear Polyester Casting Resin with Catalyst</span>:</strong></em></span></p>
+<p style="font: 14px/20px 'Century Gothic', Verdana, Arial, Helvetica, sans-serif, 'Avant Garde'; margin: 0px 0px 10px; padding: 0px; border: 0px currentColor; text-align: left; color: #000000; text-transform: none; text-indent: 0px; letter-spacing: normal; word-spacing: 0px; vertical-align: baseline; white-space: normal; box-sizing: border-box; widows: 1; font-size-adjust: none; font-stretch: inherit; background-color: #ffffff; -webkit-text-stroke-width: 0px;"><strong style="margin: 0px; padding: 0px; border: 0px currentColor; line-height: inherit; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; vertical-align: baseline; box-sizing: border-box; font-stretch: inherit;">1 Gallon resin with 1 ounce catalyst</strong></p>
+<p style="font: 14px/20px 'Century Gothic', Verdana, Arial, Helvetica, sans-serif, 'Avant Garde'; margin: 0px 0px 10px; padding: 0px; border: 0px currentColor; text-align: left; color: #000000; text-transform: none; text-indent: 0px; letter-spacing: normal; word-spacing: 0px; vertical-align: baseline; white-space: normal; box-sizing: border-box; widows: 1; font-size-adjust: none; font-stretch: inherit; background-color: #ffffff; -webkit-text-stroke-width: 0px;"><strong>Resin casting is an exciting and fun craft that allows you to embed or encase almost any object in crystal clear plastic. Coins, shells, rocks, dried flowers, butterflies and insects are just a few of the examples of embedment possibilities. This convenient new package includes catalyst in a clear bubble top cap.</strong></p>
+<p style="font: 14px/20px 'Century Gothic', Verdana, Arial, Helvetica, sans-serif, 'Avant Garde'; margin: 0px 0px 10px; padding: 0px; border: 0px currentColor; text-align: left; color: #000000; text-transform: none; text-indent: 0px; letter-spacing: normal; word-spacing: 0px; vertical-align: baseline; white-space: normal; box-sizing: border-box; widows: 1; font-size-adjust: none; font-stretch: inherit; background-color: #ffffff; -webkit-text-stroke-width: 0px;"><span style="font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; color: #ff0000; vertical-align: baseline; box-sizing: border-box; font-size-adjust: inherit; font-stretch: inherit;"><strong style="margin: 0px; padding: 0px; border: 0px currentColor; line-height: inherit; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; vertical-align: baseline; box-sizing: border-box; font-stretch: inherit;">FOR AIR SHIPMENTS AND SHIPMENTS TO ALASKA, HAWAII &amp; PUERTO RICO, this product is considered Hazardous.  Additional HazMat Fees Apply.  See Terms and Conditions.</strong></span></p>
+<p style="font: 14px/20px 'Century Gothic', Verdana, Arial, Helvetica, sans-serif, 'Avant Garde'; margin: 0px 0px 10px; padding: 0px; border: 0px currentColor; text-align: left; color: #000000; text-transform: none; text-indent: 0px; letter-spacing: normal; word-spacing: 0px; vertical-align: baseline; white-space: normal; box-sizing: border-box; widows: 1; font-size-adjust: none; font-stretch: inherit; background-color: #ffffff; -webkit-text-stroke-width: 0px;"><span style="font-size: inherit;"><a href="https://cdn.shopify.com/s/files/1/1352/9355/files/Casting-Resin-Instructions.pdf?v=1584450860" title="Castin Resin Instructions"><span style="font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; font-family: inherit; margin: 0px; padding: 0px; border: 0px currentcolor; color: #ff0000; vertical-align: baseline; box-sizing: border-box; font-stretch: inherit;"><strong style="margin: 0px; padding: 0px; border: 0px currentColor; line-height: inherit; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; vertical-align: baseline; box-sizing: border-box; font-stretch: inherit;">Instructions for use Click Here:</strong></span></a></span></p>
+<p style="font: 14px/20px 'Century Gothic', Verdana, Arial, Helvetica, sans-serif, 'Avant Garde'; margin: 0px 0px 10px; padding: 0px; border: 0px currentColor; text-align: left; color: #000000; text-transform: none; text-indent: 0px; letter-spacing: normal; word-spacing: 0px; vertical-align: baseline; white-space: normal; box-sizing: border-box; widows: 1; font-size-adjust: none; font-stretch: inherit; background-color: #ffffff; -webkit-text-stroke-width: 0px;"><span style="font-size: inherit;"><span style="font-style: inherit; font-variant: inherit; font-weight: inherit; line-height: inherit; font-family: inherit; margin: 0px; padding: 0px; border: 0px currentcolor; color: #ff0000; vertical-align: baseline; box-sizing: border-box; font-stretch: inherit;"><strong style="margin: 0px; padding: 0px; border: 0px currentColor; line-height: inherit; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; vertical-align: baseline; box-sizing: border-box; font-stretch: inherit;"><a href="https://cdn.shopify.com/s/files/1/1352/9355/files/Casting_Resin_Bulletin_-_2016-03.pdf?v=1584452318" title="Castin Craft Casting Resin Technical Data Sheet">Technical Data Sheet</a></strong></span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Castin Craft</s:tag>
+    <s:tag>casting resin</s:tag>
+    <s:tag>Polymer casting resin</s:tag>
+    <s:tag>Resin</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7762419271</id>
+      <title>Default Title</title>
+      <s:price currency="USD">66.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>4990</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/7341928647</id>
+    <published>2016-06-24T11:00:00-04:00</published>
+    <updated>2016-06-24T11:00:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/ex-74-two-gallon-kit-117-99"/>
+    <title>EX-74 Epoxy resin for Resin Art Bars Tables 2 Gallon Kit $117.99</title>
+    <s:type>Epoxy Resin, Art Resin</s:type>
+    <s:vendor>Environmental Technology</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/EX_74_Epoxy_Resin_Two_Gallon_Kit.JPG?v=1527227709"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Environmental Technology<br>
+        <strong>Type: </strong>Epoxy Resin, Art Resin<br>
+        <strong>Price: </strong>
+            117.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>EX-74 Epoxy Coating.  Two Gallon Kit. (One gallon of Resin, One gallon of Hardener).</p>
+<p style="font: 14px/20px 'Century Gothic',Verdana,Arial,Helvetica,sans-serif,'Avant Garde'; margin: 0px 0px 10px; padding: 0px; border: 0px currentColor; text-align: left; color: #000000; text-transform: none; text-indent: 0px; letter-spacing: normal; word-spacing: 0px; vertical-align: baseline; white-space: normal; box-sizing: border-box; font-size-adjust: none; font-stretch: inherit; font-feature-settings: normal; background-color: #ffffff; font-kerning: auto; font-language-override: normal; font-synthesis: weight style;"><strong style="margin: 0px; padding: 0px; border: 0px currentColor; line-height: inherit; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; vertical-align: baseline; box-sizing: border-box; font-stretch: inherit;"><span style="margin: 0px; padding: 0px; border: 0px currentColor; line-height: inherit; font-family: inherit; font-size: 18px; font-style: inherit; font-variant: inherit; font-weight: inherit; vertical-align: baseline; box-sizing: border-box; font-stretch: inherit;">EX-74 is the preferred product for Resin Art, table tops, bar top, and counter tops.  and artifacts.  EX-74 is the art resin preferred product used by artists to provide a high gloss, glass like finish to their paintings.    </span><span style="margin: 0px; padding: 0px; border: 0px currentColor; line-height: inherit; font-family: Verdana; font-size: 16px; font-style: inherit; font-variant: inherit; font-weight: inherit; vertical-align: baseline; box-sizing: border-box; font-stretch: inherit;">EX-74 has been formulated for improved UV resistance to reduce yellowing and surface degradation from UV exposure.</span></strong></p>
+<p style="font: 14px/20px 'Century Gothic',Verdana,Arial,Helvetica,sans-serif,'Avant Garde'; margin: 0px 0px 10px; padding: 0px; border: 0px currentColor; text-align: left; color: #000000; text-transform: none; text-indent: 0px; letter-spacing: normal; word-spacing: 0px; vertical-align: baseline; white-space: normal; box-sizing: border-box; font-size-adjust: none; font-stretch: inherit; font-feature-settings: normal; background-color: #ffffff; font-kerning: auto; font-language-override: normal; font-synthesis: weight style;"><strong style="margin: 0px; padding: 0px; border: 0px currentColor; line-height: inherit; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; vertical-align: baseline; box-sizing: border-box; font-stretch: inherit;"><span style="margin: 0px; padding: 0px; border: 0px currentColor; line-height: inherit; font-family: Verdana; font-size: 16px; font-style: inherit; font-variant: inherit; font-weight: inherit; vertical-align: baseline; box-sizing: border-box; font-stretch: inherit;"><span style="margin: 0px; padding: 0px; border: 0px currentColor; color: #0000ff; line-height: inherit; font-family: inherit; font-size: 13px; font-style: inherit; font-variant: inherit; font-weight: inherit; vertical-align: baseline; box-sizing: border-box; font-stretch: inherit;"><span style="margin: 0px; padding: 0px; border: 0px currentColor; color: #333333; line-height: inherit; letter-spacing: -0.35pt; font-family: Verdana,sans-serif; font-size: 10pt; font-style: inherit; font-variant: inherit; font-weight: inherit; vertical-align: baseline; box-sizing: border-box; font-stretch: inherit;">EX-74 is an extremely clear, tough, high gloss surface coating formulated to produce deep glass like appearance in a single layer on a sealed surface. Two or more layers are often applied for added depth and protection. EX-74 has been formulated for improved UV resistance to reduce yellowing and surface degradation from UV exposure. EX-74 has an extended "open time" which allows up to 5 minutes in the mixing container at 70º F and up to one hour working time on the surface being coated. EX-74 is waterproof, heat &amp; alcohol resistant.</span></span></span></strong></p>
+<p style="font: 14px/20px 'Century Gothic',Verdana,Arial,Helvetica,sans-serif,'Avant Garde'; margin: 0px 0px 10px; padding: 0px; border: 0px currentColor; text-align: left; color: #000000; text-transform: none; text-indent: 0px; letter-spacing: normal; word-spacing: 0px; vertical-align: baseline; white-space: normal; box-sizing: border-box; font-size-adjust: none; font-stretch: inherit; font-feature-settings: normal; background-color: #ffffff; font-kerning: auto; font-language-override: normal; font-synthesis: weight style;"><strong style="margin: 0px; padding: 0px; border: 0px currentColor; line-height: inherit; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; vertical-align: baseline; box-sizing: border-box; font-stretch: inherit;"><span style="margin: 0px; padding: 0px; border: 0px currentColor; line-height: inherit; font-family: Verdana; font-size: 16px; font-style: inherit; font-variant: inherit; font-weight: inherit; vertical-align: baseline; box-sizing: border-box; font-stretch: inherit;"><span style="margin: 0px; padding: 0px; border: 0px currentColor; color: #0000ff; line-height: inherit; font-family: inherit; font-size: 13px; font-style: inherit; font-variant: inherit; font-weight: inherit; vertical-align: baseline; box-sizing: border-box; font-stretch: inherit;"><span style="margin: 0px; padding: 0px; border: 0px currentColor; color: #333333; line-height: inherit; letter-spacing: -0.35pt; font-family: Verdana,sans-serif; font-size: 10pt; font-style: inherit; font-variant: inherit; font-weight: inherit; vertical-align: baseline; box-sizing: border-box; font-stretch: inherit;">Coverage:  Two gallons will cover approximately 64 square feet @ 1/16" inch.</span></span></span></strong></p>
+<h4 style="font: 14px/20px 'Century Gothic',Verdana,Arial,Helvetica,sans-serif,'Avant Garde'; margin: 0px 0px 10px; padding: 0px; border: 0px currentColor; text-align: left; color: #000000; text-transform: none; text-indent: 0px; letter-spacing: normal; word-spacing: 0px; vertical-align: baseline; white-space: normal; box-sizing: border-box; font-size-adjust: none; font-stretch: inherit; font-feature-settings: normal; background-color: #ffffff; font-kerning: auto; font-language-override: normal; font-synthesis: weight style;"><span class="style1" style="margin: 0px; padding: 0px; border: 0px currentColor; color: #ff0000; line-height: inherit; font-family: inherit; font-size: 13px; font-style: inherit; font-variant: inherit; font-weight: inherit; vertical-align: baseline; box-sizing: border-box; font-stretch: inherit; background-color: #ffffff;"><strong style="margin: 0px; padding: 0px; border: 0px currentColor; line-height: inherit; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; vertical-align: baseline; box-sizing: border-box; font-stretch: inherit;">Notice:   For Air Shipments, this product is classified as Hazardous.  Additional HazMat Fees apply.  This fee is in addition to the shipping fee shown at checkout, and will be added to your total .   See Terms and Conditions. <span style="font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; color: #0000ff; vertical-align: baseline; box-sizing: border-box; font-size-adjust: inherit; font-stretch: inherit;"> No extra charge for ground shipments</span></strong></span></h4>
+<p style="font: 14px/20px 'Century Gothic',Verdana,Arial,Helvetica,sans-serif,'Avant Garde'; margin: 0px 0px 10px; padding: 0px; border: 0px currentColor; text-align: left; color: #000000; text-transform: none; text-indent: 0px; letter-spacing: normal; word-spacing: 0px; vertical-align: baseline; white-space: normal; box-sizing: border-box; font-size-adjust: none; font-stretch: inherit; font-feature-settings: normal; background-color: #ffffff; font-kerning: auto; font-language-override: normal; font-synthesis: weight style;"><span style="margin: 0px; padding: 0px; border: 0px currentColor; color: #0000ff; line-height: inherit; font-family: inherit; font-size: 13px; font-style: inherit; font-variant: inherit; font-weight: inherit; vertical-align: baseline; box-sizing: border-box; font-stretch: inherit;"><span style="margin: 0px; padding: 0px; border: 0px currentColor; color: #333333; line-height: inherit; letter-spacing: -0.35pt; font-family: Verdana,sans-serif; font-size: 10pt; font-style: inherit; font-variant: inherit; font-weight: inherit; vertical-align: baseline; box-sizing: border-box; font-stretch: inherit;"><strong style="margin: 0px; padding: 0px; border: 0px currentColor; line-height: inherit; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; vertical-align: baseline; box-sizing: border-box; font-stretch: inherit;"> </strong></span></span></p>
+<p style="font: 14px/20px 'Century Gothic',Verdana,Arial,Helvetica,sans-serif,'Avant Garde'; margin: 0px 0px 10px; padding: 0px; border: 0px currentColor; text-align: left; color: #000000; text-transform: none; text-indent: 0px; letter-spacing: normal; word-spacing: 0px; vertical-align: baseline; white-space: normal; box-sizing: border-box; font-size-adjust: none; font-stretch: inherit; font-feature-settings: normal; background-color: #ffffff; font-kerning: auto; font-language-override: normal; font-synthesis: weight style;"><span style="margin: 0px; padding: 0px; border: 0px currentColor; color: #0000ff; line-height: inherit; font-family: inherit; font-size: 13px; font-style: inherit; font-variant: inherit; font-weight: inherit; vertical-align: baseline; box-sizing: border-box; font-stretch: inherit;"><span style="margin: 0px; padding: 0px; border: 0px currentColor; color: #333333; line-height: inherit; letter-spacing: -0.35pt; font-family: Verdana,sans-serif; font-size: 10pt; font-style: inherit; font-variant: inherit; font-weight: inherit; vertical-align: baseline; box-sizing: border-box; font-stretch: inherit;"><strong style="margin: 0px; padding: 0px; border: 0px currentColor; line-height: inherit; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; vertical-align: baseline; box-sizing: border-box; font-stretch: inherit;"><span style="color: #0000ff;"><a href="https://cdn.shopify.com/s/files/1/1352/9355/files/EX74UV-Industrial-Instructions5.pdf?2131359596812071131">EX-74 Application Instruction</a>   </span>     </strong></span></span></p>
+<p style="font: 14px/20px 'Century Gothic',Verdana,Arial,Helvetica,sans-serif,'Avant Garde'; margin: 0px 0px 10px; padding: 0px; border: 0px currentColor; text-align: left; color: #000000; text-transform: none; text-indent: 0px; letter-spacing: normal; word-spacing: 0px; vertical-align: baseline; white-space: normal; box-sizing: border-box; font-size-adjust: none; font-stretch: inherit; font-feature-settings: normal; background-color: #ffffff; font-kerning: auto; font-language-override: normal; font-synthesis: weight style;"><a href="https://cdn.shopify.com/s/files/1/1352/9355/files/20130214-ConcreteCounterTops.pdf?12536346454893814689"><span style="margin: 0px; padding: 0px; border: 0px currentColor; color: #0000ff; line-height: inherit; font-family: inherit; font-size: 13px; font-style: inherit; font-variant: inherit; font-weight: inherit; vertical-align: baseline; box-sizing: border-box; font-stretch: inherit;"><span style="margin: 0px; padding: 0px; border: 0px currentColor; color: #333333; line-height: inherit; letter-spacing: -0.35pt; font-family: Verdana,sans-serif; font-size: 10pt; font-style: inherit; font-variant: inherit; font-weight: inherit; vertical-align: baseline; box-sizing: border-box; font-stretch: inherit;"><strong style="margin: 0px; padding: 0px; border: 0px currentColor; line-height: inherit; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; vertical-align: baseline; box-sizing: border-box; font-stretch: inherit;"><span style="color: #0000ff;">EX-74 Concrete Countertop Application Instructions</span></strong></span></span></a></p>
+<p style="font: 14px/20px 'Century Gothic',Verdana,Arial,Helvetica,sans-serif,'Avant Garde'; margin: 0px 0px 10px; padding: 0px; border: 0px currentColor; text-align: left; color: #000000; text-transform: none; text-indent: 0px; letter-spacing: normal; word-spacing: 0px; vertical-align: baseline; white-space: normal; box-sizing: border-box; font-size-adjust: none; font-stretch: inherit; font-feature-settings: normal; background-color: #ffffff; font-kerning: auto; font-language-override: normal; font-synthesis: weight style;"><a href="https://cdn.shopify.com/s/files/1/1352/9355/files/MSDS-SDS_-_US_ENG_-_EX-74_RESIN_-_2016-03-22_02_81018b7a-cca1-47f2-94ec-b83c1c1b66eb.pdf?2131359596812071131"><span style="margin: 0px; padding: 0px; border: 0px currentColor; color: #ff0000; line-height: inherit; font-family: inherit; font-size: 13px; font-style: inherit; font-variant: inherit; font-weight: inherit; vertical-align: baseline; box-sizing: border-box; font-stretch: inherit;"><span style="margin: 0px; padding: 0px; border: 0px currentColor; line-height: inherit; letter-spacing: -0.35pt; font-family: Verdana,sans-serif; font-size: 10pt; font-style: inherit; font-variant: inherit; font-weight: inherit; vertical-align: baseline; box-sizing: border-box; font-stretch: inherit;"><strong style="margin: 0px; padding: 0px; border: 0px currentColor; line-height: inherit; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; vertical-align: baseline; box-sizing: border-box; font-stretch: inherit;">EX-74 SDS for Resin </strong></span></span></a></p>
+<p style="font: 14px/20px 'Century Gothic',Verdana,Arial,Helvetica,sans-serif,'Avant Garde'; margin: 0px 0px 10px; padding: 0px; border: 0px currentColor; text-align: left; color: #000000; text-transform: none; text-indent: 0px; letter-spacing: normal; word-spacing: 0px; vertical-align: baseline; white-space: normal; box-sizing: border-box; font-size-adjust: none; font-stretch: inherit; font-feature-settings: normal; background-color: #ffffff; font-kerning: auto; font-language-override: normal; font-synthesis: weight style;"><a href="https://cdn.shopify.com/s/files/1/1352/9355/files/MSDS-SDS_-_US_ENG_-_EX-74_HARDENER_-_2016-03-22_02_a1691aff-5008-45f2-9b05-b485eec19d36.pdf?2131359596812071131"><span style="margin: 0px; padding: 0px; border: 0px currentColor; color: #ff0000; line-height: inherit; font-family: inherit; font-size: 13px; font-style: inherit; font-variant: inherit; font-weight: inherit; vertical-align: baseline; box-sizing: border-box; font-stretch: inherit;"><span style="margin: 0px; padding: 0px; border: 0px currentColor; line-height: inherit; letter-spacing: -0.35pt; font-family: Verdana,sans-serif; font-size: 10pt; font-style: inherit; font-variant: inherit; font-weight: inherit; vertical-align: baseline; box-sizing: border-box; font-stretch: inherit;"><strong style="margin: 0px; padding: 0px; border: 0px currentColor; line-height: inherit; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; vertical-align: baseline; box-sizing: border-box; font-stretch: inherit;">EX-74 SDS for Hardener</strong></span></span></a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Art Resin</s:tag>
+    <s:tag>Bar Top Epoxy</s:tag>
+    <s:tag>Epoxy Coating</s:tag>
+    <s:tag>EX-74</s:tag>
+    <s:tag>EX74</s:tag>
+    <s:tag>fluid art</s:tag>
+    <s:tag>Liquid Art</s:tag>
+    <s:tag>Resin Art</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7341928647</id>
+      <title>Default Title</title>
+      <s:price currency="USD">117.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+  </entry>
+</feed>

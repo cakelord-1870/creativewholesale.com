@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://creativewholesale.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://creativewholesale.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://creativewholesale.com/collections/ring-beads.atom"/>
+  <title>Creative Wholesale</title>
+  <updated>2016-06-21T13:51:00-04:00</updated>
+  <author>
+    <name>Creative Wholesale</name>
+  </author>
+  <entry>
+    <id>https://creativewholesale.com/products/7287559431</id>
+    <published>2016-06-21T13:51:00-04:00</published>
+    <updated>2016-06-21T13:51:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/16mm-ring-bead-144-per-package-846"/>
+    <title>Ring Bead 16mm 144 Per Package #846 DISCONTINUED</title>
+    <s:type>Ring Beads</s:type>
+    <s:vendor>Creative Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/846-017_Ruby.jpg?v=1579534124"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Creative Wholesale<br>
+        <strong>Type: </strong>Ring Beads<br>
+        <strong>Price: </strong>
+            0.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ring Bead 16mm, 144 Per Package #846</p>
+<p>DISCONTINUED ITEM</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>16mm ring beads</s:tag>
+    <s:tag>Ring Beads</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287559431</id>
+      <title>Crystal</title>
+      <s:price currency="USD">0.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287559431</id>
+      <title>Dk Amethyst</title>
+      <s:price currency="USD">0.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287559431</id>
+      <title>Dk Yellow</title>
+      <s:price currency="USD">0.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287559431</id>
+      <title>Pink</title>
+      <s:price currency="USD">0.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287559431</id>
+      <title>Mint</title>
+      <s:price currency="USD">0.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287559431</id>
+      <title>Opaque White</title>
+      <s:price currency="USD">0.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287559431</id>
+      <title>Opaque Black</title>
+      <s:price currency="USD">0.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287559431</id>
+      <title>Ruby</title>
+      <s:price currency="USD">0.99</s:price>
+      <s:sku>846-017</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287559431</id>
+      <title>Yellow</title>
+      <s:price currency="USD">0.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+</feed>

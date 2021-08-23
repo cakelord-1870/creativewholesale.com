@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://creativewholesale.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://creativewholesale.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://creativewholesale.com/collections/craft-sticks.atom"/>
+  <title>Creative Wholesale</title>
+  <updated>2020-11-22T21:45:39-05:00</updated>
+  <author>
+    <name>Creative Wholesale</name>
+  </author>
+  <entry>
+    <id>https://creativewholesale.com/products/4970801168486</id>
+    <published>2020-11-22T21:45:39-05:00</published>
+    <updated>2020-11-22T21:45:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/medium-spring-clothespins-by-simply-art-40-count-10278-discontinued"/>
+    <title>Medium Spring Clothespins  by Simply Art 40 Count 10278  (DISCONTINUED)</title>
+    <s:type>Medium spring clothepins</s:type>
+    <s:vendor>Loew Cornell</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/1021178.jpg?v=1605557912"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Loew Cornell<br>
+        <strong>Type: </strong>Medium spring clothepins<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Medium Spring Clothespins by Simply Art 40 Count 10278 (DISCONTINUED)</p>
+<p>40 Count </p>
+<p>(DISCONTINUED)</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>clothespins</s:tag>
+    <s:tag>medium clothespins</s:tag>
+    <s:tag>wood clothespins</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/4970801168486</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.99</s:price>
+      <s:sku>1021178</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/10051254026</id>
+    <published>2017-01-30T14:49:00-05:00</published>
+    <updated>2017-01-30T14:49:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/clothespins-no-roll-by-simply-art-40-count-1021218"/>
+    <title>Clothespins No-Roll by Simply Art 40 Count 1021218  (DISCONTINUED)</title>
+    <s:type>No roll clothespin</s:type>
+    <s:vendor>Loew Cornell</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/No_Roll_Slotted_Clothespins_1021210_d5154c86-ac21-46b6-ae58-7d7f34718773.png?v=1527225535"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Loew Cornell<br>
+        <strong>Type: </strong>No roll clothespin<br>
+        <strong>Price: </strong>
+            1.79
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Clothespins No-Roll by Simply Art 40 Count 1021218</p>
+<p>40 count  </p>
+<p>(DISCONTINUED)</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>clothespins</s:tag>
+    <s:tag>no roll clothespins</s:tag>
+    <s:tag>wood clothespins</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/10051254026</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.79</s:price>
+      <s:sku></s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/10051117898</id>
+    <published>2017-01-30T14:49:00-05:00</published>
+    <updated>2017-01-30T14:49:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/dowels-square-assorted-by-simply-art-10-count-1021231"/>
+    <title>Dowels Square Assorted by Simply Art 10 Count 1021231  (DISCONTINUED)</title>
+    <s:type>Dowel Rods</s:type>
+    <s:vendor>Loew Cornell</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/1021231_SAWood_SqDowels.png?v=1527227670"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Loew Cornell<br>
+        <strong>Type: </strong>Dowel Rods<br>
+        <strong>Price: </strong>
+            0.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Dowels Square Assorted by Simply Art 10 Count 1021231</p>
+<p>10 Count Assorted</p>
+<p>12" Long</p>
+<p>(DISCONTINUED)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dowel rods</s:tag>
+    <s:tag>Dowels</s:tag>
+    <s:tag>square dowels</s:tag>
+    <s:tag>wood dowels</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/10051117898</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.99</s:price>
+      <s:sku>1021231</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/10050947594</id>
+    <published>2017-01-30T14:49:00-05:00</published>
+    <updated>2017-01-30T14:49:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/dowels-1-8-x-12-by-simply-art-22-count-1021225"/>
+    <title>Dowels 1/8&quot; X 12&quot; by Simply Art 22 Count 1021225  (DISCONTINUED)</title>
+    <s:type>Dowel Rods</s:type>
+    <s:vendor>Loew Cornell</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/1021225.jpg?v=1527227667"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Loew Cornell<br>
+        <strong>Type: </strong>Dowel Rods<br>
+        <strong>Price: </strong>
+            0.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Dowels 1/8" X 12" by Simply Art 22 Count 1021225</p>
+<p>22 Count</p>
+<p>1/8" X 12"Craft Sticks</p>
+<p>(DISCONTINUED)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dowel rods</s:tag>
+    <s:tag>Dowels</s:tag>
+    <s:tag>wood dowels</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/10050947594</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.99</s:price>
+      <s:sku>1021225</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/10050576842</id>
+    <published>2017-01-30T14:49:00-05:00</published>
+    <updated>2017-01-30T14:49:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/clothespins-no-roll-by-simply-art-30-count-1021210"/>
+    <title>Clothespins No-Roll by Simply Art 30 Count 1021210  (DISCONTINUED)</title>
+    <s:type>Craft Sticks</s:type>
+    <s:vendor>Creative Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/No_Roll_Slotted_Clothespins_1021210.png?v=1527225534"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Creative Wholesale<br>
+        <strong>Type: </strong>Craft Sticks<br>
+        <strong>Price: </strong>
+            1.79
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Clothespins No-Roll by Simply Art 30 Count 1021210</p>
+<p>3/4"</p>
+<p>(DISCONTINUED)</p>
+<p>30 count </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>clothespins</s:tag>
+    <s:tag>no roll clothespins</s:tag>
+    <s:tag>wood clothespins</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/10050576842</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.79</s:price>
+      <s:sku>1021210</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/10030173642</id>
+    <published>2017-01-30T14:49:00-05:00</published>
+    <updated>2017-01-30T14:49:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/round-doll-pins-stands-by-simply-art-20-count-1021199"/>
+    <title>Round Doll Pins Stands by Simply Art 20 Count 1021199  (DISCONTINUED)</title>
+    <s:type>Doll Pin Stands</s:type>
+    <s:vendor>Loew Cornell</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/doll_pin_stands_1021199.png?v=1579534129"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Loew Cornell<br>
+        <strong>Type: </strong>Doll Pin Stands<br>
+        <strong>Price: </strong>
+            1.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Round Doll Pins Stands by Simply Art   1021199</p>
+<p>20 Count</p>
+<p>Size  1 1/8" x 1/2"</p>
+<p>(DISCONTINUED)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>doll pin stands</s:tag>
+    <s:tag>round doll pin stands</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/10030173642</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.49</s:price>
+      <s:sku>1021199</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/10029591562</id>
+    <published>2017-01-30T14:49:00-05:00</published>
+    <updated>2017-01-30T14:49:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/colored-tiny-spring-clothespins-by-simply-art-50-count-1021198"/>
+    <title>Colored  Tiny Spring Clothespins 50 Count 1021198  (DISCONTINUED)</title>
+    <s:type>Tiny Spring Clothespins</s:type>
+    <s:vendor>Loew Cornell</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/colored_tiny_spring_clothespins_1021198.png?v=1527225538"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Loew Cornell<br>
+        <strong>Type: </strong>Tiny Spring Clothespins<br>
+        <strong>Price: </strong>
+            0.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Colored Tiny Spring Clothespins by Simply Art</p>
+<p>50 Count </p>
+<p> </p>
+<p>  (DISCONTINUED)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>clothespins</s:tag>
+    <s:tag>colored clothespins</s:tag>
+    <s:tag>mini spring clothespins</s:tag>
+    <s:tag>Tiny Spring Clothespins</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/10029591562</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.99</s:price>
+      <s:sku>1021198</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/10029586698</id>
+    <published>2017-01-30T14:49:00-05:00</published>
+    <updated>2017-01-30T14:49:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/tiny-spring-clothespins-by-simply-art-50-count-1021192"/>
+    <title>Tiny Spring Clothespins  by Simply Art 50 Count 1021192  (DISCONTINUED)</title>
+    <s:type>Tiny Spring Clothespins</s:type>
+    <s:vendor>Loew Cornell</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/tiny_spring_clothespin_1021192_d2adf5fd-81f3-47f7-a4c6-ffa700aebc51.png?v=1579535743"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Loew Cornell<br>
+        <strong>Type: </strong>Tiny Spring Clothespins<br>
+        <strong>Price: </strong>
+            0.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tiny Spring Clothespins by Simply Art   1021192</p>
+<p>50 Count </p>
+<p>(DISCONTINUED)</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>clothespins</s:tag>
+    <s:tag>mini spring clothespins</s:tag>
+    <s:tag>Tiny Spring Clothespins</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/10029586698</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.99</s:price>
+      <s:sku>1021192</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/10022951562</id>
+    <published>2017-01-30T14:49:00-05:00</published>
+    <updated>2017-01-30T14:49:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/large-spring-clothespins-by-simply-art-24-count-1021193"/>
+    <title>Large Spring Clothespins  by Simply Art 24 Count 1021193  (DISCONTINUED)</title>
+    <s:type>large spring clothepins</s:type>
+    <s:vendor>Loew Cornell</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/lg_spring_clothespin_1021193.png?v=1548085237"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Loew Cornell<br>
+        <strong>Type: </strong>large spring clothepins<br>
+        <strong>Price: </strong>
+            1.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Large Spring Clothespins by Simply Art  #1021193</p>
+<p>24 Count </p>
+<p>(DISCONTINUED)</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>clothespins</s:tag>
+    <s:tag>Large Clothespins</s:tag>
+    <s:tag>wood clothespins</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/10022951562</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.29</s:price>
+      <s:sku>1021193</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/10001606090</id>
+    <published>2017-01-30T14:49:00-05:00</published>
+    <updated>2017-01-30T14:49:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/spring-clothespins-medium-simply-art-40-count-1021178"/>
+    <title>Mini Spring Clothespins  by Simply Art 24 Count 1021179  (DISCONTINUED)</title>
+    <s:type>Mini Spring Clothespins</s:type>
+    <s:vendor>Loew Cornell</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/mini_spring_clothespin_1021179.png?v=1579534161"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Loew Cornell<br>
+        <strong>Type: </strong>Mini Spring Clothespins<br>
+        <strong>Price: </strong>
+            0.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mini Spring Clothespinsby Simply Art  #1021179</p>
+<p>24 Count</p>
+<p><strong> (DISCONTINUED)</strong></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>clothespins</s:tag>
+    <s:tag>mini spring clothespins</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/10001606090</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.89</s:price>
+      <s:sku>1021179</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/9999607498</id>
+    <published>2017-01-30T14:49:00-05:00</published>
+    <updated>2017-01-30T14:49:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/jumbo-craft-sticks-natural-by-simply-art-75-count-1021169"/>
+    <title>Colored Craft Sticks by Simply Art 75 Count 1021166 DISCONTINUED</title>
+    <s:type>Craft Sticks</s:type>
+    <s:vendor>Creative Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/colored_craft_sticks_1021166.png?v=1579533695"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Creative Wholesale<br>
+        <strong>Type: </strong>Craft Sticks<br>
+        <strong>Price: </strong>
+            0.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Crafts Sticks Natural by Simply Art #1021166</p>
+<p>150 Count</p>
+<p>4 1/2" X 3/8" X 1/12"</p>
+<p>DISCONTINUED</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>colored craft sticks</s:tag>
+    <s:tag>craft sticks</s:tag>
+    <s:tag>natural craft sticks</s:tag>
+    <s:tag>wood craft sticks</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/9999607498</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.69</s:price>
+      <s:sku></s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/9999321930</id>
+    <published>2017-01-30T14:49:00-05:00</published>
+    <updated>2017-01-30T14:49:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/colored-jumbo-craft-sticks-by-simply-art-75-count-1021168"/>
+    <title>Colored Jumbo Craft Sticks by Simply Art 75 Count 1021168 DISCONTINUED</title>
+    <s:type>Craft Sticks</s:type>
+    <s:vendor>Creative Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/colored_jumbo_craft_sticks_1021168.png?v=1579533696"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Creative Wholesale<br>
+        <strong>Type: </strong>Craft Sticks<br>
+        <strong>Price: </strong>
+            0.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Colored Jumbo Crafts Sticks by Simply Art  #1021168</p>
+<p>75 Count</p>
+<p>6" X 3/4" </p>
+<p>DISCONTINUED</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>colored craft sticks</s:tag>
+    <s:tag>craft sticks</s:tag>
+    <s:tag>jumbo craft sticks</s:tag>
+    <s:tag>wood craft sticks</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/9999321930</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.69</s:price>
+      <s:sku></s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/9999173898</id>
+    <published>2017-01-30T14:49:00-05:00</published>
+    <updated>2017-01-30T14:49:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/craft-sticks-by-simply-art-150-count-1021167"/>
+    <title>Craft Sticks Natural by Simply Art 150 Count 1021167 DISCONTINUED</title>
+    <s:type>Craft Sticks</s:type>
+    <s:vendor>Creative Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/craft_sticks_1021167.png?v=1527227656"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Creative Wholesale<br>
+        <strong>Type: </strong>Craft Sticks<br>
+        <strong>Price: </strong>
+            0.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Crafts Sticks Natural by Simply Art</p>
+<p>DISCONTINUED</p>
+<p>150 Count</p>
+<p>4 1/2" X 3/8" X 1/12"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>craft sticks</s:tag>
+    <s:tag>natural craft sticks</s:tag>
+    <s:tag>wood craft sticks</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/9999173898</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+</feed>

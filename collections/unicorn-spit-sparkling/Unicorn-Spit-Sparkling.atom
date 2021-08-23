@@ -1,0 +1,755 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://creativewholesale.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://creativewholesale.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://creativewholesale.com/collections/unicorn-spit-sparkling.atom"/>
+  <title>Creative Wholesale</title>
+  <updated>2018-07-02T12:41:39-04:00</updated>
+  <author>
+    <name>Creative Wholesale</name>
+  </author>
+  <entry>
+    <id>https://creativewholesale.com/products/1303577919590</id>
+    <published>2018-07-02T12:41:39-04:00</published>
+    <updated>2018-07-02T12:41:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/unicorn-spit-sparkling-color-collection-6-8-oz-bottles-577coll8"/>
+    <title>Unicorn Spit Sparkling Color Collection  6 - 8 oz bottles 577COLL8</title>
+    <s:type>Paint, stain</s:type>
+    <s:vendor>Creative Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/5776000_ucspit_Sparkling_8_oz_Family.jpg?v=1579535770"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Creative Wholesale<br>
+        <strong>Type: </strong>Paint, stain<br>
+        <strong>Price: </strong>
+            69.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1>Unicorn Spit Sparkling Colors 8 oz Bottles    #577COLL8</h1>
+<h1>6 Sparkling Colors Paint Collection.</h1>
+<h4>Colors Included:  Sapphire Swift, Violet Vulture, Dolly Firebird, Golden Gosling, Lavish Lovebirds, and Starling Sasha.</h4>
+<h4>Turn ordinary objects into holographic-like <strong>MASTERPIECES. </strong>Use on wood, glass, metal, fabric, concrete, canvas, laminate &amp; more. Ideal for creating new - or - refinishing thousands of projects. Excellent for crafters, hobbyists, DIYers and pros alike!</h4>
+<div class="product attribute overview">
+<div class="value" itemprop="description">
+<ul>
+<li><span>PAINT, GEL STAIN and GLAZE in one!</span></li>
+<li><span>Available in 6 vivid colors</span></li>
+<li><span>Vibrant as your dreams require</span></li>
+<li><span>Stains deep into the pores of bare wood and other materials, embedding brilliant sparkles and shimmer </span></li>
+<li><span>Use over existing finishes as a luminous glaze </span></li>
+<li><span>Provides a 3-dimensional effect</span></li>
+<li><span>Refreshing Lemongrass scent</span></li>
+</ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Unicorn Spit</s:tag>
+    <s:tag>Unicorn Spit Sparkling</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/1303577919590</id>
+      <title>Default Title</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>577COLL8</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/1303207772262</id>
+    <published>2018-07-02T12:25:00-04:00</published>
+    <updated>2018-07-02T12:25:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/unicorn-spit-6-sparkling-colors-4-oz-bottle-577colors"/>
+    <title>Unicorn Spit Sparkling Color Collection  6 - 4 oz bottles 577COLL4</title>
+    <s:type>Paint, stain</s:type>
+    <s:vendor>Creative Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/5775000_ucspit_SparklingFamily_300dpi.jpg?v=1579535770"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Creative Wholesale<br>
+        <strong>Type: </strong>Paint, stain<br>
+        <strong>Price: </strong>
+            51.39
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1>Unicorn Spit Sparkling Colors 4 oz Bottles    #577COLL4</h1>
+<h1>6 Sparkling Colors Paint Collection.</h1>
+<h4>Colors Included:  Sapphire Swift, Violet Vulture, Dolly Firebird, Golden Gosling, Lavish Lovebirds, and Starling Sasha.</h4>
+<h4>Turn ordinary objects into holographic-like <strong>MASTERPIECES. </strong>Use on wood, glass, metal, fabric, concrete, canvas, laminate &amp; more. Ideal for creating new - or - refinishing thousands of projects. Excellent for crafters, hobbyists, DIYers and pros alike!</h4>
+<div class="product attribute overview">
+<div class="value" itemprop="description">
+<ul>
+<li><span>PAINT, GEL STAIN and GLAZE in one!</span></li>
+<li><span>Available in 6 vivid colors</span></li>
+<li><span>Vibrant as your dreams require</span></li>
+<li><span>Stains deep into the pores of bare wood and other materials, embedding brilliant sparkles and shimmer </span></li>
+<li><span>Use over existing finishes as a luminous glaze </span></li>
+<li><span>Provides a 3-dimensional effect</span></li>
+<li><span>Refreshing Lemongrass scent</span></li>
+</ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Unicorn Spit</s:tag>
+    <s:tag>Unicorn Spit Sparkling</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/1303207772262</id>
+      <title>Default Title</title>
+      <s:price currency="USD">51.39</s:price>
+      <s:sku>577COLORS</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/1302341091430</id>
+    <published>2018-07-02T12:24:15-04:00</published>
+    <updated>2018-07-02T12:24:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/unicorn-spit-sparkling-starling-sasha-8-oz-bottle-5776006"/>
+    <title>Unicorn Spit Sparkling Starling Sasha 8 oz bottle 5776006</title>
+    <s:type>Paint, stain</s:type>
+    <s:vendor>Eclectic Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/5776006_ucspit-spkl_starling_sasha-8ozbot_US_150dpi.jpg?v=1579535777"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eclectic Products<br>
+        <strong>Type: </strong>Paint, stain<br>
+        <strong>Price: </strong>
+            13.96
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Unicorn Spit Sparkling Starling Sasha</h2>
+<h2>8 Ounce Bottle, # 5776006</h2>
+<div class="product attribute overview">
+<div class="value" itemprop="description">
+<p>Turn ordinary objects into holographic-like <strong>MASTERPIECES. </strong>Use on wood, glass, metal, fabric, concrete, canvas, laminate &amp; more. Ideal for creating new - or - refinishing thousands of projects. Excellent for crafters, hobbyists, DIYers and pros alike!<br><br></p>
+<ul>
+<li><span>PAINT, GEL STAIN and GLAZE in one!</span></li>
+<li><span>Available in 6 vivid colors</span></li>
+<li><span>Vibrant as your dreams require</span></li>
+<li><span>Stains deep into the pores of bare wood and other materials, embedding brilliant sparkles and shimmer </span></li>
+<li><span>Use over existing finishes as a luminous glaze </span></li>
+<li><span>Provides a 3-dimensional effect</span></li>
+<li><span>Refreshing Lemongrass scent</span></li>
+</ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Unicorn Spit</s:tag>
+    <s:tag>Unicorn Spit Sparkling</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/1302341091430</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.96</s:price>
+      <s:sku></s:sku>
+      <s:grams>369</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/1302340829286</id>
+    <published>2018-07-02T12:23:44-04:00</published>
+    <updated>2018-07-02T12:23:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/unicorn-spit-sparkling-violetlavish-lovebirds-8-oz-bottle-5776005"/>
+    <title>Unicorn Spit Sparkling Lavish Lovebirds 8 oz bottle 5776005</title>
+    <s:type>Paint, stain</s:type>
+    <s:vendor>Eclectic Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/5776005_ucspit-spkl_lavish_lovebirds-8ozbot_US__150dpi.jpg?v=1579535775"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eclectic Products<br>
+        <strong>Type: </strong>Paint, stain<br>
+        <strong>Price: </strong>
+            13.96
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2>Unicorn Spit Sparkling Lavish Lovebirds</h2>
+<h2>8 Ounce Bottle, # 5776005</h2>
+<div class="product attribute overview">
+<div class="value" itemprop="description">
+<p>Turn ordinary objects into holographic-like <strong>MASTERPIECES. </strong>Use on wood, glass, metal, fabric, concrete, canvas, laminate &amp; more. Ideal for creating new - or - refinishing thousands of projects. Excellent for crafters, hobbyists, DIYers and pros alike!<br><br></p>
+<ul>
+<li><span>PAINT, GEL STAIN and GLAZE in one!</span></li>
+<li><span>Available in 6 vivid colors</span></li>
+<li><span>Vibrant as your dreams require</span></li>
+<li><span>Stains deep into the pores of bare wood and other materials, embedding brilliant sparkles and shimmer </span></li>
+<li><span>Use over existing finishes as a luminous glaze </span></li>
+<li><span>Provides a 3-dimensional effect</span></li>
+<li><span>Refreshing Lemongrass scent</span></li>
+</ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Unicorn Spit</s:tag>
+    <s:tag>Unicorn Spit Sparkling</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/1302340829286</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.96</s:price>
+      <s:sku></s:sku>
+      <s:grams>369</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/1302340632678</id>
+    <published>2018-07-02T12:23:26-04:00</published>
+    <updated>2018-07-02T12:23:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/unicorn-spit-sparkling-violet-golden-gosling-8-oz-bottle-5776004"/>
+    <title>Unicorn Spit Sparkling Golden Gosling 8 oz bottle 5776004</title>
+    <s:type>Paint, stain</s:type>
+    <s:vendor>Eclectic Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/5776004_ucspit-spkl_golden_gosling-8ozbot_US_150dpi.jpg?v=1579535774"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eclectic Products<br>
+        <strong>Type: </strong>Paint, stain<br>
+        <strong>Price: </strong>
+            13.96
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1>Unicorn Spit Sparkling Golden Gosling</h1>
+<h1>8 Ounce Bottle, # 577604</h1>
+<div class="product attribute overview">
+<div class="value" itemprop="description">
+<p>Turn ordinary objects into holographic-like <strong>MASTERPIECES. </strong>Use on wood, glass, metal, fabric, concrete, canvas, laminate &amp; more. Ideal for creating new - or - refinishing thousands of projects. Excellent for crafters, hobbyists, DIYers and pros alike!<br><br></p>
+<ul>
+<li><span>PAINT, GEL STAIN and GLAZE in one!</span></li>
+<li><span>Available in 6 vivid colors</span></li>
+<li><span>Vibrant as your dreams require</span></li>
+<li><span>Stains deep into the pores of bare wood and other materials, embedding brilliant sparkles and shimmer </span></li>
+<li><span>Use over existing finishes as a luminous glaze </span></li>
+<li><span>Provides a 3-dimensional effect</span></li>
+<li><span>Refreshing Lemongrass scent</span></li>
+</ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Unicorn Spit</s:tag>
+    <s:tag>Unicorn Spit Sparkling</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/1302340632678</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.96</s:price>
+      <s:sku></s:sku>
+      <s:grams>369</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/1302336536678</id>
+    <published>2018-07-02T12:23:09-04:00</published>
+    <updated>2018-07-02T12:23:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/unicorn-spit-sparkling-golden-gosling-4-oz-bottle-5775004"/>
+    <title>Unicorn Spit Sparkling Golden Gosling 4 oz bottle 5775004</title>
+    <s:type>Paint, stain</s:type>
+    <s:vendor>Eclectic Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/5775004_ucspit-spkl_golden_gosling-4ozbot_US_150dpi.jpg?v=1579535774"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eclectic Products<br>
+        <strong>Type: </strong>Paint, stain<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1>Unicorn Spit Sparkling Golden Gosling</h1>
+<h1>4 oz bottle   #5775004</h1>
+<div class="product attribute overview">
+<div class="value" itemprop="description">
+<p>Turn ordinary objects into holographic-like <strong>MASTERPIECES. </strong>Use on wood, glass, metal, fabric, concrete, canvas, laminate &amp; more. Ideal for creating new - or - refinishing thousands of projects. Excellent for crafters, hobbyists, DIYers and pros alike!<br><br></p>
+<ul>
+<li><span>PAINT, GEL STAIN and GLAZE in one!</span></li>
+<li><span>Available in 6 vivid colors</span></li>
+<li><span>Vibrant as your dreams require</span></li>
+<li><span>Stains deep into the pores of bare wood and other materials, embedding brilliant sparkles and shimmer </span></li>
+<li><span>Use over existing finishes as a luminous glaze </span></li>
+<li><span>Provides a 3-dimensional effect</span></li>
+<li><span>Refreshing Lemongrass scent</span></li>
+</ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Unicorn Spit</s:tag>
+    <s:tag>Unicorn Spit Sparkling</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/1302336536678</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>184</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/1302340468838</id>
+    <published>2018-07-02T12:22:35-04:00</published>
+    <updated>2018-07-02T12:22:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/unicorn-spit-sparkling-violet-dolly-firebird-8-oz-bottle-5776003"/>
+    <title>Unicorn Spit Sparkling Dolly Firebird 8 oz bottle 5776003</title>
+    <s:type>Paint, stain</s:type>
+    <s:vendor>Eclectic Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/5776003_ucspit-spkl_dolly_firebird-8ozbot_US_150dpi.jpg?v=1579535773"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eclectic Products<br>
+        <strong>Type: </strong>Paint, stain<br>
+        <strong>Price: </strong>
+            13.96
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1>Unicorn Spit Sparkling Dolly Firebird</h1>
+<h1>8 oz bottle   #5776003</h1>
+<div class="product attribute overview">
+<div class="value" itemprop="description">
+<p>Turn ordinary objects into holographic-like <strong>MASTERPIECES. </strong>Use on wood, glass, metal, fabric, concrete, canvas, laminate &amp; more. Ideal for creating new - or - refinishing thousands of projects. Excellent for crafters, hobbyists, DIYers and pros alike!<br><br></p>
+<ul>
+<li><span>PAINT, GEL STAIN and GLAZE in one!</span></li>
+<li><span>Available in 6 vivid colors</span></li>
+<li><span>Vibrant as your dreams require</span></li>
+<li><span>Stains deep into the pores of bare wood and other materials, embedding brilliant sparkles and shimmer </span></li>
+<li><span>Use over existing finishes as a luminous glaze </span></li>
+<li><span>Provides a 3-dimensional effect</span></li>
+<li><span>Refreshing Lemongrass scent</span></li>
+</ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Unicorn spit</s:tag>
+    <s:tag>Unicorn Spit Sparkling</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/1302340468838</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.96</s:price>
+      <s:sku></s:sku>
+      <s:grams>369</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/1302340337766</id>
+    <published>2018-07-02T12:22:14-04:00</published>
+    <updated>2018-07-02T12:22:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/unicorn-spit-sparkling-violet-vulture-swift-8-oz-bottle-5776002"/>
+    <title>Unicorn Spit Sparkling Violet Vulture 8 oz bottle 5776002</title>
+    <s:type>Paint, stain</s:type>
+    <s:vendor>Eclectic Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/5776002_ucspit-spkl_violet_vulture-8ozbot_US_150dpi.jpg?v=1579535778"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eclectic Products<br>
+        <strong>Type: </strong>Paint, stain<br>
+        <strong>Price: </strong>
+            13.96
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1>Unicorn Spit Sparkling Violet Vulture</h1>
+<h1>8 oz bottle   #5776002</h1>
+<div class="product attribute overview">
+<div class="value" itemprop="description">
+<p>Turn ordinary objects into holographic-like <strong>MASTERPIECES. </strong>Use on wood, glass, metal, fabric, concrete, canvas, laminate &amp; more. Ideal for creating new - or - refinishing thousands of projects. Excellent for crafters, hobbyists, DIYers and pros alike!<br><br></p>
+<ul>
+<li><span>PAINT, GEL STAIN and GLAZE in one!</span></li>
+<li><span>Available in 6 vivid colors</span></li>
+<li><span>Vibrant as your dreams require</span></li>
+<li><span>Stains deep into the pores of bare wood and other materials, embedding brilliant sparkles and shimmer </span></li>
+<li><span>Use over existing finishes as a luminous glaze </span></li>
+<li><span>Provides a 3-dimensional effect</span></li>
+<li><span>Refreshing Lemongrass scent</span></li>
+</ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Unicorn Spit</s:tag>
+    <s:tag>Unicorn Spit Sparkling</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/1302340337766</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.96</s:price>
+      <s:sku></s:sku>
+      <s:grams>369</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/1302340075622</id>
+    <published>2018-07-02T12:21:52-04:00</published>
+    <updated>2018-07-02T12:21:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/unicorn-spit-sparkling-sapphire-swift-8-oz-bottle-5776001"/>
+    <title>Unicorn Spit Sparkling Sapphire Swift 8 oz bottle 5776001</title>
+    <s:type>Paint, stain</s:type>
+    <s:vendor>Eclectic Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/5776001_ucspit-spkl_sapphire_swift-8ozbot_US_150dpi.jpg?v=1579535776"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eclectic Products<br>
+        <strong>Type: </strong>Paint, stain<br>
+        <strong>Price: </strong>
+            13.96
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1>Unicorn Spit Sparkling Sapphire Swift</h1>
+<h1>8 oz bottle   #5776001</h1>
+<div class="product attribute overview">
+<div class="value" itemprop="description">
+<p>Turn ordinary objects into holographic-like <strong>MASTERPIECES. </strong>Use on wood, glass, metal, fabric, concrete, canvas, laminate &amp; more. Ideal for creating new - or - refinishing thousands of projects. Excellent for crafters, hobbyists, DIYers and pros alike!<br><br></p>
+<ul>
+<li><span>PAINT, GEL STAIN and GLAZE in one!</span></li>
+<li><span>Available in 6 vivid colors</span></li>
+<li><span>Vibrant as your dreams require</span></li>
+<li><span>Stains deep into the pores of bare wood and other materials, embedding brilliant sparkles and shimmer </span></li>
+<li><span>Use over existing finishes as a luminous glaze </span></li>
+<li><span>Provides a 3-dimensional effect</span></li>
+<li><span>Refreshing Lemongrass scent</span></li>
+</ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Unicorn Spit</s:tag>
+    <s:tag>Unicorn Spit Sparkling</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/1302340075622</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.96</s:price>
+      <s:sku></s:sku>
+      <s:grams>369</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/1302337028198</id>
+    <published>2018-07-02T12:21:28-04:00</published>
+    <updated>2018-07-02T12:21:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/unicorn-spit-sparkling-starling-sasha-4-oz-bottle-5775006"/>
+    <title>Unicorn Spit Sparkling Starling Sasha 4 oz bottle 5775006</title>
+    <s:type>Paint, stain</s:type>
+    <s:vendor>Eclectic Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/5775006_ucspit-spkl_starling_sasha-4ozbot_US_150dpi.jpg?v=1579535777"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eclectic Products<br>
+        <strong>Type: </strong>Paint, stain<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1>Unicorn Spit Sparkling Starling Sasha</h1>
+<h1>4 oz bottle   #5775006</h1>
+<div class="product attribute overview">
+<div class="value" itemprop="description">
+<p>Turn ordinary objects into holographic-like <strong>MASTERPIECES. </strong>Use on wood, glass, metal, fabric, concrete, canvas, laminate &amp; more. Ideal for creating new - or - refinishing thousands of projects. Excellent for crafters, hobbyists, DIYers and pros alike!<br><br></p>
+<ul>
+<li><span>PAINT, GEL STAIN and GLAZE in one!</span></li>
+<li><span>Available in 6 vivid colors</span></li>
+<li><span>Vibrant as your dreams require</span></li>
+<li><span>Stains deep into the pores of bare wood and other materials, embedding brilliant sparkles and shimmer </span></li>
+<li><span>Use over existing finishes as a luminous glaze </span></li>
+<li><span>Provides a 3-dimensional effect</span></li>
+<li><span>Refreshing Lemongrass scent</span></li>
+</ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Unicorn Spit</s:tag>
+    <s:tag>Unicorn Spit Sparkling</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/1302337028198</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>184</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/1302336831590</id>
+    <published>2018-07-02T12:21:01-04:00</published>
+    <updated>2018-07-02T12:21:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/unicorn-spit-sparkling-lavish-lovebirds-4-oz-bottle-5775005"/>
+    <title>Unicorn Spit Sparkling Lavish Lovebirds 4 oz bottle 5775005</title>
+    <s:type>Paint, stain</s:type>
+    <s:vendor>Eclectic Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/5775005_ucspit-spkl_lavish_lovebirds-4ozbot_US__150dpi.jpg?v=1579535774"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eclectic Products<br>
+        <strong>Type: </strong>Paint, stain<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1>Unicorn Spit Sparkling Lavish Lovebirds</h1>
+<h1>4 oz bottle   #5775005</h1>
+<div class="product attribute overview">
+<div class="value" itemprop="description">
+<p>Turn ordinary objects into holographic-like <strong>MASTERPIECES. </strong>Use on wood, glass, metal, fabric, concrete, canvas, laminate &amp; more. Ideal for creating new - or - refinishing thousands of projects. Excellent for crafters, hobbyists, DIYers and pros alike!<br><br></p>
+<ul>
+<li><span>PAINT, GEL STAIN and GLAZE in one!</span></li>
+<li><span>Available in 6 vivid colors</span></li>
+<li><span>Vibrant as your dreams require</span></li>
+<li><span>Stains deep into the pores of bare wood and other materials, embedding brilliant sparkles and shimmer </span></li>
+<li><span>Use over existing finishes as a luminous glaze </span></li>
+<li><span>Provides a 3-dimensional effect</span></li>
+<li><span>Refreshing Lemongrass scent</span></li>
+</ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Unicorn Spit</s:tag>
+    <s:tag>Unicorn Spit Sparkling</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/1302336831590</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>184</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/1302319431782</id>
+    <published>2018-07-02T12:20:38-04:00</published>
+    <updated>2018-07-02T12:20:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/unicorn-spit-sparkling-dolly-firebird-4-oz-bottle-5775003"/>
+    <title>Unicorn Spit Sparkling Dolly Firebird 4 oz bottle 5775003</title>
+    <s:type>Paint, stain</s:type>
+    <s:vendor>Eclectic Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/5775003_ucspit-spkl_dolly_firebird4ozbot_US_150dpi.jpg?v=1579535772"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eclectic Products<br>
+        <strong>Type: </strong>Paint, stain<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1>Unicorn Spit Sparkling Dolly Firebird</h1>
+<h1>4 oz bottle   #5775003</h1>
+<div class="product attribute overview">
+<div class="value" itemprop="description">
+<p>Turn ordinary objects into holographic-like <strong>MASTERPIECES. </strong>Use on wood, glass, metal, fabric, concrete, canvas, laminate &amp; more. Ideal for creating new - or - refinishing thousands of projects. Excellent for crafters, hobbyists, DIYers and pros alike!<br><br></p>
+<ul>
+<li><span>PAINT, GEL STAIN and GLAZE in one!</span></li>
+<li><span>Available in 6 vivid colors</span></li>
+<li><span>Vibrant as your dreams require</span></li>
+<li><span>Stains deep into the pores of bare wood and other materials, embedding brilliant sparkles and shimmer </span></li>
+<li><span>Use over existing finishes as a luminous glaze </span></li>
+<li><span>Provides a 3-dimensional effect</span></li>
+<li><span>Refreshing Lemongrass scent</span></li>
+</ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Unicorn Spit</s:tag>
+    <s:tag>Unicorn Spit Sparkling</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/1302319431782</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>184</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/1302318219366</id>
+    <published>2018-07-02T12:19:57-04:00</published>
+    <updated>2018-07-02T12:19:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/unicorn-spit-sparkling-violet-vulture-4-oz-bottle-5775002"/>
+    <title>Unicorn Spit Sparkling Violet Vulture 4 oz bottle 5775002</title>
+    <s:type>Paint, stain</s:type>
+    <s:vendor>Eclectic Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/5775002_ucspit-spkl_violet_vulture-4ozbot_US_150dpi.jpg?v=1579535778"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eclectic Products<br>
+        <strong>Type: </strong>Paint, stain<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1>Unicorn Spit Sparkling Violet Vulture</h1>
+<h1>4 oz bottle   #5775002</h1>
+<div class="product attribute overview">
+<div class="value" itemprop="description">
+<p>Turn ordinary objects into holographic-like <strong>MASTERPIECES. </strong>Use on wood, glass, metal, fabric, concrete, canvas, laminate &amp; more. Ideal for creating new - or - refinishing thousands of projects. Excellent for crafters, hobbyists, DIYers and pros alike!<br><br></p>
+<ul>
+<li><span>PAINT, GEL STAIN and GLAZE in one!</span></li>
+<li><span>Available in 6 vivid colors</span></li>
+<li><span>Vibrant as your dreams require</span></li>
+<li><span>Stains deep into the pores of bare wood and other materials, embedding brilliant sparkles and shimmer </span></li>
+<li><span>Use over existing finishes as a luminous glaze </span></li>
+<li><span>Provides a 3-dimensional effect</span></li>
+<li><span>Refreshing Lemongrass scent</span></li>
+</ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Unicorn Spit</s:tag>
+    <s:tag>Unicorn Spit Sparkling</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/1302318219366</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>184</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/1302315794534</id>
+    <published>2018-07-02T12:19:22-04:00</published>
+    <updated>2018-07-02T12:19:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/unicorn-spit-sparkling-sapphire-swift-4-oz-bottle-5775001"/>
+    <title>Unicorn Spit Sparkling Sapphire Swift 4 oz bottle 5775001</title>
+    <s:type>Paint, stain</s:type>
+    <s:vendor>Eclectic Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/5775001_ucspit-spkl_sapphire_swift-4ozbot_US_150dpi.jpg?v=1579535776"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eclectic Products<br>
+        <strong>Type: </strong>Paint, stain<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2> UNICORN SPiT SPARKLiNG  Sapphire Swift</h2>
+<div class="page-title-wrapper product">
+<h2><span class="base" data-ui-id="page-title-wrapper" itemprop="name">4 Ounce Bottle  # 5775001</span></h2>
+<h4 class="page-title">Turn ordinary objects into holographic-like <strong>MASTERPIECES. </strong>Use on wood, glass, metal, fabric, concrete, canvas, laminate &amp; more. Ideal for creating new - or - refinishing thousands of projects. Excellent for crafters, hobbyists, DIYers and pros alike!</h4>
+</div>
+<div class="product attribute overview">
+<ul>
+<li><span>PAINT, GEL STAIN and GLAZE in one!</span></li>
+<li><span>Available in 6 vivid colors</span></li>
+<li><span>Vibrant as your dreams require</span></li>
+<li><span>Stains deep into the pores of bare wood and other materials, embedding brilliant sparkles and shimmer </span></li>
+<li><span>Use over existing finishes as a luminous glaze </span></li>
+<li><span>Provides a 3-dimensional effect</span></li>
+<li><span>Refreshing Lemongrass scent</span></li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Unicorn Spit</s:tag>
+    <s:tag>Unicorn Spit Sparkling</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/1302315794534</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>184</s:grams>
+    </s:variant>
+  </entry>
+</feed>

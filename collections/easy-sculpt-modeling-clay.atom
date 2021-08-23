@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://creativewholesale.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://creativewholesale.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://creativewholesale.com/collections/easy-sculpt-modeling-clay.atom"/>
+  <title>Creative Wholesale</title>
+  <updated>2016-06-21T13:27:00-04:00</updated>
+  <author>
+    <name>Creative Wholesale</name>
+  </author>
+  <entry>
+    <id>https://creativewholesale.com/products/7287122503</id>
+    <published>2016-06-21T13:27:00-04:00</published>
+    <updated>2016-06-21T13:27:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/easy-sculpt-epoxy-clay-et02664-four-pound-kit"/>
+    <title>Easy Sculpt®  Epoxy Modeling Clay 4 Pound Kit  ET02664</title>
+    <s:type>Specialty Clays</s:type>
+    <s:vendor>Environmental Technology</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/easysculpt_fa272e77-393f-4367-a9a4-4d7876d8a51f.jpeg?v=1527227695"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Environmental Technology<br>
+        <strong>Type: </strong>Specialty Clays<br>
+        <strong>Price: </strong>
+            39.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>EasySculpt® Self Hardening Epoxy Modeling Clay is a professional grade sculpting clay which cures without firing.   Four Pound Kit.</p>
+<ul>
+<li>Tough &amp; durable, stronger than fired clays</li>
+<li>Chemical &amp; heat resistant, waterproof</li>
+<li>Can be sanded, drilled and shaped when cured</li>
+<li>Cured pieces can be painted or finished with most paints and finishes</li>
+<li>Up to two hours working time.</li>
+<li>Will not shrink</li>
+<li>Professional Grade</li>
+<li>Smooth porcelain like texture</li>
+<li>Press and form EasySculpt® in molds</li>
+<li>Excellent adhesion to stones, crystals, glass, metal, wood, etc.</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Easy Sculpt</s:tag>
+    <s:tag>Easy Sculpt Epoxy Modeling Clay</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287122503</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.75</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+</feed>

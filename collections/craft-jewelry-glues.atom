@@ -1,0 +1,1276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://creativewholesale.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://creativewholesale.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://creativewholesale.com/collections/craft-jewelry-glues.atom"/>
+  <title>Creative Wholesale</title>
+  <updated>2020-07-02T15:37:01-04:00</updated>
+  <author>
+    <name>Creative Wholesale</name>
+  </author>
+  <entry>
+    <id>https://creativewholesale.com/products/4874197827686</id>
+    <published>2020-07-02T15:37:01-04:00</published>
+    <updated>2020-07-02T15:37:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/e6000-fray-lock-2-ounce-565200c-case-6"/>
+    <title>E6000 Fray Lock 2 ounce 565200C, Case/6</title>
+    <s:type>Amazing Goop</s:type>
+    <s:vendor>Eclectic Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/565200_94c3ba56-4db1-4b5a-8921-d470c9781104.jpg?v=1593718474"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eclectic Products<br>
+        <strong>Type: </strong>Amazing Goop<br>
+        <strong>Price: </strong>
+            23.77
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="page-title-wrapper product">
+<div class="page-title-wrapper product">
+<div class="page-title-wrapper product">
+<h1 class="page-title">
+<span class="base" data-ui-id="page-title-wrapper" itemprop="name">E6000 Fray Lock, 2 ounce  </span>  565200</h1>
+<h1 class="page-title">Case of 6 tubes</h1>
+</div>
+<div class="product attribute overview">
+<div class="value" itemprop="description">
+<p><strong>Fray Lock permanently seals raw edges and locks knots - even on buttons. It's ideal for quilting, embroidery, sewing and cross-stitching.</strong></p>
+<ul>
+<li><strong>Works great on thread knots and frayed fabric</strong></li>
+<li><strong>Dries crystal clear</strong></li>
+<li><strong>Acid-Free</strong></li>
+<li><strong>Washable</strong></li>
+<li><strong>Permanent</strong></li>
+<li><strong>Soft and Flexible</strong></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="product attribute overview">
+<div class="value" itemprop="description">
+<ul></ul>
+<br>
+</div>
+</div>
+</div>
+<div class="product attribute overview">
+<div class="value" itemprop="description">
+<ul></ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>amazing goop</s:tag>
+    <s:tag>goop</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/4874197827686</id>
+      <title>Default Title</title>
+      <s:price currency="USD">23.77</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/4874196779110</id>
+    <published>2020-07-02T15:33:32-04:00</published>
+    <updated>2020-07-02T15:33:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/e6000-fray-lock-2-ounce-565200"/>
+    <title>E6000 Fray Lock 2 ounce 565200</title>
+    <s:type>Amazing Goop</s:type>
+    <s:vendor>Eclectic Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/565200.jpg?v=1593718339"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eclectic Products<br>
+        <strong>Type: </strong>Amazing Goop<br>
+        <strong>Price: </strong>
+            4.24
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="page-title-wrapper product">
+<div class="page-title-wrapper product">
+<div class="page-title-wrapper product">
+<h1 class="page-title">
+<span class="base" data-ui-id="page-title-wrapper" itemprop="name">E6000 Fray Lock, 2 ounce  </span>  565200</h1>
+</div>
+<div class="product attribute overview">
+<div class="value" itemprop="description">
+<p><strong>Fray Lock permanently seals raw edges and locks knots - even on buttons. It's ideal for quilting, embroidery, sewing and cross-stitching.</strong></p>
+<ul>
+<li><strong>Works great on thread knots and frayed fabric</strong></li>
+<li><strong>Dries crystal clear</strong></li>
+<li><strong>Acid-Free</strong></li>
+<li><strong>Washable</strong></li>
+<li><strong>Permanent</strong></li>
+<li><strong>Soft and Flexible</strong></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="product attribute overview">
+<div class="value" itemprop="description">
+<ul></ul>
+<br>
+</div>
+</div>
+</div>
+<div class="product attribute overview">
+<div class="value" itemprop="description">
+<ul></ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>amazing goop</s:tag>
+    <s:tag>goop</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/4874196779110</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.24</s:price>
+      <s:sku></s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/4874196058214</id>
+    <published>2020-07-02T15:31:27-04:00</published>
+    <updated>2020-07-02T15:31:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/e6000-fray-lock-4-ounce-565204"/>
+    <title>E6000 Fray Lock 4 ounce 565204.</title>
+    <s:type>Amazing Goop</s:type>
+    <s:vendor>Eclectic Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/565204_618d958d-c939-4c0a-8075-76d60541d5b6.jpg?v=1593718172"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eclectic Products<br>
+        <strong>Type: </strong>Amazing Goop<br>
+        <strong>Price: </strong>
+            5.31
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="page-title-wrapper product">
+<div class="page-title-wrapper product">
+<div class="page-title-wrapper product">
+<h1 class="page-title">
+<span class="base" data-ui-id="page-title-wrapper" itemprop="name">E6000 Fray Lock, 4 ounce  </span>  565204C</h1>
+</div>
+<div class="product attribute overview">
+<div class="value" itemprop="description">
+<p><strong>Fray Lock permanently seals raw edges and locks knots - even on buttons. It's ideal for quilting, embroidery, sewing and cross-stitching.</strong></p>
+<ul>
+<li><strong>Works great on thread knots and frayed fabric</strong></li>
+<li><strong>Dries crystal clear</strong></li>
+<li><strong>Acid-Free</strong></li>
+<li><strong>Washable</strong></li>
+<li><strong>Permanent</strong></li>
+<li><strong>Soft and Flexible</strong></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="product attribute overview">
+<div class="value" itemprop="description">
+<ul></ul>
+<br>
+</div>
+</div>
+</div>
+<div class="product attribute overview">
+<div class="value" itemprop="description">
+<ul></ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>amazing goop</s:tag>
+    <s:tag>goop</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/4874196058214</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.31</s:price>
+      <s:sku></s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/4874194780262</id>
+    <published>2020-07-02T15:28:57-04:00</published>
+    <updated>2020-07-02T15:28:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/e6000-fray-lock-4-ounce-565204c-case-of-6-tubes"/>
+    <title>E6000 Fray Lock 4 ounce 565204C. Case of 6 tubes</title>
+    <s:type>Amazing Goop</s:type>
+    <s:vendor>Eclectic Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/565204.jpg?v=1593718043"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eclectic Products<br>
+        <strong>Type: </strong>Amazing Goop<br>
+        <strong>Price: </strong>
+            29.76
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="page-title-wrapper product">
+<div class="page-title-wrapper product">
+<div class="page-title-wrapper product">
+<h1 class="page-title"><span class="base" data-ui-id="page-title-wrapper" itemprop="name">E6000 Fray Lock, 4 ounce </span></h1>
+<h1 class="page-title"><span class="base" data-ui-id="page-title-wrapper" itemprop="name">Case of 6 tubes.   565204C</span></h1>
+</div>
+<div class="product attribute overview">
+<div class="value" itemprop="description">
+<p><strong>Fray Lock permanently seals raw edges and locks knots - even on buttons. It's ideal for quilting, embroidery, sewing and cross-stitching.</strong></p>
+<ul>
+<li><strong>Works great on thread knots and frayed fabric</strong></li>
+<li><strong>Dries crystal clear</strong></li>
+<li><strong>Acid-Free</strong></li>
+<li><strong>Washable</strong></li>
+<li><strong>Permanent</strong></li>
+<li><strong>Soft and Flexible</strong></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="product attribute overview">
+<div class="value" itemprop="description">
+<ul></ul>
+<br>
+</div>
+</div>
+</div>
+<div class="product attribute overview">
+<div class="value" itemprop="description">
+<ul></ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>amazing goop</s:tag>
+    <s:tag>goop</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/4874194780262</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.76</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/4874186784870</id>
+    <published>2020-07-02T15:23:09-04:00</published>
+    <updated>2020-07-02T15:23:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/e6000-fabri-tack-4-ounce-565104-case-of-6-tubes"/>
+    <title>E6000 Fabri-Tack 4 ounce 565104C. Case of 6 tubes</title>
+    <s:type>Amazing Goop</s:type>
+    <s:vendor>Eclectic Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/565104.jpg?v=1593717289"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eclectic Products<br>
+        <strong>Type: </strong>Amazing Goop<br>
+        <strong>Price: </strong>
+            24.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="page-title-wrapper product">
+<div class="page-title-wrapper product">
+<h1 class="page-title"><span class="base" data-ui-id="page-title-wrapper" itemprop="name">E6000 Extreme Tack, 4 ounce</span></h1>
+<h1 class="page-title"><span class="base" data-ui-id="page-title-wrapper" itemprop="name"> Case of 6 tubes  #565104C</span></h1>
+</div>
+<div class="product attribute overview">
+<div class="value" itemprop="description">
+<p><strong>Extreme Tack is a unique adhesive that allows you to make your own glue dots! It dries tacky for repositioning - ideal for mounting paper and lightweight materials to scrapbooks, walls, home décor items and more.</strong></p>
+<ul>
+<li><strong>Stays permanently tacky!</strong></li>
+<li><strong>Excellent on all types of fabric and just about any substrate</strong></li>
+<li><strong>Make adhesive dots or lines of any size<br></strong></li>
+<li><strong>Use over and over!</strong></li>
+<li><strong>Dries clear</strong></li>
+<li><strong>Acid-Free</strong></li>
+<li><strong>Washable</strong></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="product attribute overview">
+<div class="value" itemprop="description">
+<ul></ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>amazing goop</s:tag>
+    <s:tag>goop</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/4874186784870</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/4874185932902</id>
+    <published>2020-07-02T15:22:44-04:00</published>
+    <updated>2020-07-02T15:22:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/e6000-fabri-tack-ounce-565100-case-of-6-tubes"/>
+    <title>E6000 Fabri-Tack 2 ounce 565100. Case of 6 tubes</title>
+    <s:type>Amazing Goop</s:type>
+    <s:vendor>Eclectic Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/565100_301fec63-fdfe-407e-8b6d-af4ade16b461.jpg?v=1593716950"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eclectic Products<br>
+        <strong>Type: </strong>Amazing Goop<br>
+        <strong>Price: </strong>
+            19.78
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="page-title-wrapper product">
+<div class="page-title-wrapper product">
+<h1 class="page-title"><span class="base" data-ui-id="page-title-wrapper" itemprop="name">E6000 Extreme Tack, 2 ounce</span></h1>
+</div>
+<div class="product attribute overview">
+<div class="value" itemprop="description">
+<p><strong>Extreme Tack is a unique adhesive that allows you to make your own glue dots! It dries tacky for repositioning - ideal for mounting paper and lightweight materials to scrapbooks, walls, home décor items and more.</strong></p>
+<ul>
+<li><strong>Stays permanently tacky!</strong></li>
+<li><strong>Excellent on all types of fabric and just about any substrate</strong></li>
+<li><strong>Make adhesive dots or lines of any size<br></strong></li>
+<li><strong>Use over and over!</strong></li>
+<li><strong>Dries clear</strong></li>
+<li><strong>Acid-Free</strong></li>
+<li><strong>Washable</strong></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="product attribute overview">
+<div class="value" itemprop="description">
+<ul></ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>amazing goop</s:tag>
+    <s:tag>goop</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/4874185932902</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.78</s:price>
+      <s:sku></s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/4874191175782</id>
+    <published>2020-07-02T15:17:22-04:00</published>
+    <updated>2020-07-02T15:17:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/e6000-fabri-tack-4-ounce-565104"/>
+    <title>E6000 Fabri-Tack 4 ounce 565104</title>
+    <s:type>Amazing Goop</s:type>
+    <s:vendor>Eclectic Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/565104_55f99039-61ad-4077-a216-c58e683cf64e.jpg?v=1593717364"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eclectic Products<br>
+        <strong>Type: </strong>Amazing Goop<br>
+        <strong>Price: </strong>
+            4.36
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="page-title-wrapper product">
+<div class="page-title-wrapper product">
+<h1 class="page-title"><span class="base" data-ui-id="page-title-wrapper" itemprop="name">E6000 Extreme Tack, 4 ounce</span></h1>
+<h1 class="page-title"><span class="base" data-ui-id="page-title-wrapper" itemprop="name">#565104C</span></h1>
+</div>
+<div class="product attribute overview">
+<div class="value" itemprop="description">
+<p><strong>Extreme Tack is a unique adhesive that allows you to make your own glue dots! It dries tacky for repositioning - ideal for mounting paper and lightweight materials to scrapbooks, walls, home décor items and more.</strong></p>
+<ul>
+<li><strong>Stays permanently tacky!</strong></li>
+<li><strong>Excellent on all types of fabric and just about any substrate</strong></li>
+<li><strong>Make adhesive dots or lines of any size<br></strong></li>
+<li><strong>Use over and over!</strong></li>
+<li><strong>Dries clear</strong></li>
+<li><strong>Acid-Free</strong></li>
+<li><strong>Washable</strong></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="product attribute overview">
+<div class="value" itemprop="description">
+<ul></ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>amazing goop</s:tag>
+    <s:tag>goop</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/4874191175782</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.36</s:price>
+      <s:sku></s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/4874184458342</id>
+    <published>2020-07-02T15:06:55-04:00</published>
+    <updated>2020-07-02T15:06:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/e6000-extreme-tack-2-ounce-565100"/>
+    <title>E6000 Extreme Tack  2 ounce 565100</title>
+    <s:type>Amazing Goop</s:type>
+    <s:vendor>Eclectic Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/565100.jpg?v=1593716770"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eclectic Products<br>
+        <strong>Type: </strong>Amazing Goop<br>
+        <strong>Price: </strong>
+            3.53
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="page-title-wrapper product">
+<div class="page-title-wrapper product">
+<h1 class="page-title"><span class="base" data-ui-id="page-title-wrapper" itemprop="name">E6000 Extreme Tack, 2 ounce 565100</span></h1>
+</div>
+<div class="product attribute overview">
+<div class="value" itemprop="description">
+<p><strong>Extreme Tack is a unique adhesive that allows you to make your own glue dots! It dries tacky for repositioning - ideal for mounting paper and lightweight materials to scrapbooks, walls, home décor items and more.</strong></p>
+<ul>
+<li><strong>Stays permanently tacky!</strong></li>
+<li><strong>Excellent on all types of fabric and just about any substrate</strong></li>
+<li><strong>Make adhesive dots or lines of any size<br></strong></li>
+<li><strong>Use over and over!</strong></li>
+<li><strong>Dries clear</strong></li>
+<li><strong>Acid-Free</strong></li>
+<li><strong>Washable</strong></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="product attribute overview">
+<div class="value" itemprop="description">
+<ul></ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>amazing goop</s:tag>
+    <s:tag>goop</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/4874184458342</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.53</s:price>
+      <s:sku></s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/4874181705830</id>
+    <published>2020-07-02T15:01:44-04:00</published>
+    <updated>2020-07-02T15:01:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/e6000-fabri-fuse-2-ounce-565000-case-of-6-tubes"/>
+    <title>E6000 Fabri-Fuse 2 ounce 565000. Case of 6 tubes</title>
+    <s:type>Amazing Goop</s:type>
+    <s:vendor>Eclectic Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/565000_7f2ca155-0bdc-4d07-ba07-c5e237a04560.jpg?v=1593716216"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eclectic Products<br>
+        <strong>Type: </strong>Amazing Goop<br>
+        <strong>Price: </strong>
+            19.78
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="page-title-wrapper product">
+<h1 class="page-title"><span class="base" data-ui-id="page-title-wrapper" itemprop="name">E6000 Fabri-Fuse, 2 ounce. </span></h1>
+<h1 class="page-title"><span class="base" data-ui-id="page-title-wrapper" itemprop="name">Case of 6 tubes</span></h1>
+</div>
+<div class="product attribute overview">
+<div class="value" itemprop="description">
+<p><strong>Fabri-Fuse is an exceptional adhesive choice for all types of fabric and decorative items. Its extreme flexibility allows fabric to move and stretch - even after washing!</strong></p>
+<ul>
+<li><strong>Great for projects using fabric, felt, metal, wood, glass, rubber and much more</strong></li>
+<li><strong>Dries clear</strong></li>
+<li><strong>Acid-Free</strong></li>
+<li><strong>Washable</strong></li>
+<li><strong>Low Odor</strong></li>
+</ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>amazing goop</s:tag>
+    <s:tag>goop</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/4874181705830</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.78</s:price>
+      <s:sku></s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/4874178003046</id>
+    <published>2020-07-02T14:53:17-04:00</published>
+    <updated>2020-07-02T14:53:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/e6000-fabri-fuse-2-ounce-565000"/>
+    <title>E6000 Fabri-Fuse 2 ounce 565000</title>
+    <s:type>Amazing Goop</s:type>
+    <s:vendor>Eclectic Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/565000.jpg?v=1593715651"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eclectic Products<br>
+        <strong>Type: </strong>Amazing Goop<br>
+        <strong>Price: </strong>
+            3.53
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="page-title-wrapper product">
+<h1 class="page-title"><span class="base" data-ui-id="page-title-wrapper" itemprop="name">E6000 Fabri-Fuse, 2 ounce</span></h1>
+</div>
+<div class="product attribute overview">
+<div class="value" itemprop="description">
+<p>Fabri-Fuse is an exceptional adhesive choice for all types of fabric and decorative items. Its extreme flexibility allows fabric to move and stretch - even after washing!</p>
+<ul>
+<li><span>Great for projects using fabric, felt, metal, wood, glass, rubber and much more</span></li>
+<li><span>Dries clear</span></li>
+<li><span>Acid-Free</span></li>
+<li><span>Washable</span></li>
+<li><span>Low Odor</span></li>
+</ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>amazing goop</s:tag>
+    <s:tag>goop</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/4874178003046</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.53</s:price>
+      <s:sku></s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/4871593590886</id>
+    <published>2020-06-29T10:17:21-04:00</published>
+    <updated>2020-06-29T10:17:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/e6000-craft-glue-white-2-oz-237040"/>
+    <title>E6000 Craft Glue WHITE 2 oz  #237040</title>
+    <s:type>Adhesives, Glue</s:type>
+    <s:vendor>Eclectic Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/e6-craft-2_0oz-cardedtube-US-300dpi-White_78e70741-0f26-43ce-9afc-cd70624ff134.jpg?v=1593441302"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eclectic Products<br>
+        <strong>Type: </strong>Adhesives, Glue<br>
+        <strong>Price: </strong>
+            3.63
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">E6000® CRAFT Glue, BLACK,   2 ounce tube #237032<br><br>
+<div class="product attribute overview">
+<div class="value" itemprop="description">
+<p><span>Our best selling Craft adhesive – E6000 Craft – is known for its exceptional strength, flexibility and toughness. Formulated to meet high-performance industrial requirements, it's versatile, flexible and adheres to most substrates. E6000 has exceptional adhesion to wood, metal, glass, fiberglass, ceramics, masonry and concrete. It also adheres strongly to leather, rubber, vinyl and many plastics. It will not break down or become brittle with temperature extremes. E6000 Bonds Everything So You Can Create Anything™. </span><br><br></p>
+<ul>
+<li><span>Extreme strength - forms a tough, permanent bond</span></li>
+<li><span>Creates a flexible hold that won't crack, yellow or become brittle under stress</span></li>
+<li><span>Indoor/Outdoor - withstands temperatures from -40 to 180 °F (10 to 32 °C)</span></li>
+<li><span>Photo safe </span></li>
+<li><span>Dries clear/Paintable </span></li>
+<li><span>Washer/Dryer safe</span></li>
+<li><span>Non-flammable once cured</span></li>
+</ul>
+</div>
+</div>
+<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Adhesive</s:tag>
+    <s:tag>E6000</s:tag>
+    <s:tag>E6000 GLUE</s:tag>
+    <s:tag>glue</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/4871593590886</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.63</s:price>
+      <s:sku></s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/4871592706150</id>
+    <published>2020-06-29T10:14:24-04:00</published>
+    <updated>2020-06-29T10:14:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/e6000-craft-glue-black-2-oz-237039"/>
+    <title>E6000 Craft Glue BLACK 2 oz  #237039</title>
+    <s:type>Adhesives, Glue</s:type>
+    <s:vendor>Eclectic Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/e6-craft-2_0oz-cardedtube-us-black237039_cd5987dd-21ad-4f4e-9693-0d9ca69fb77a.jpg?v=1593442066"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eclectic Products<br>
+        <strong>Type: </strong>Adhesives, Glue<br>
+        <strong>Price: </strong>
+            3.63
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">E6000® CRAFT Glue, BLACK,   2 ounce tube #237032<br><br>
+<div class="product attribute overview">
+<div class="value" itemprop="description">
+<p><span>Our best selling Craft adhesive – E6000 Craft – is known for its exceptional strength, flexibility and toughness. Formulated to meet high-performance industrial requirements, it's versatile, flexible and adheres to most substrates. E6000 has exceptional adhesion to wood, metal, glass, fiberglass, ceramics, masonry and concrete. It also adheres strongly to leather, rubber, vinyl and many plastics. It will not break down or become brittle with temperature extremes. E6000 Bonds Everything So You Can Create Anything™. </span><br><br></p>
+<ul>
+<li><span>Extreme strength - forms a tough, permanent bond</span></li>
+<li><span>Creates a flexible hold that won't crack, yellow or become brittle under stress</span></li>
+<li><span>Indoor/Outdoor - withstands temperatures from -40 to 180 °F (10 to 32 °C)</span></li>
+<li><span>Photo safe </span></li>
+<li><span>Dries clear/Paintable </span></li>
+<li><span>Washer/Dryer safe</span></li>
+<li><span>Non-flammable once cured</span></li>
+</ul>
+</div>
+</div>
+<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Adhesive</s:tag>
+    <s:tag>E6000</s:tag>
+    <s:tag>E6000 GLUE</s:tag>
+    <s:tag>glue</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/4871592706150</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.63</s:price>
+      <s:sku></s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/4871586840678</id>
+    <published>2020-06-29T10:01:15-04:00</published>
+    <updated>2020-06-29T10:01:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/e6000-craft-glue-white-2-ounce-tube-6-per-case-237040c"/>
+    <title>E6000 CRAFT Glue WHITE 2 oz. Tube 6 Per Case  #237040C</title>
+    <s:type>Adhesives, Glue</s:type>
+    <s:vendor>Eclectic Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/e6-craft-2_0oz-cardedtube-US-300dpi-White.jpg?v=1593441250"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eclectic Products<br>
+        <strong>Type: </strong>Adhesives, Glue<br>
+        <strong>Price: </strong>
+            20.32
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">E6000® Glue, WHITE,  2 ounce tube. 6 Per Case<br><br>
+<div class="product attribute overview">
+<div class="value" itemprop="description">
+<p><span>Our best selling Craft adhesive – E6000 Craft – is known for its exceptional strength, flexibility and toughness. Formulated to meet high-performance industrial requirements, it's versatile, flexible and adheres to most substrates. E6000 has exceptional adhesion to wood, metal, glass, fiberglass, ceramics, masonry and concrete. It also adheres strongly to leather, rubber, vinyl and many plastics. It will not break down or become brittle with temperature extremes. E6000 Bonds Everything So You Can Create Anything™. </span><br><br></p>
+<ul>
+<li><span>Extreme strength - forms a tough, permanent bond</span></li>
+<li><span>Creates a flexible hold that won't crack, yellow or become brittle under stress</span></li>
+<li><span>Indoor/Outdoor - withstands temperatures from -40 to 180 °F (10 to 32 °C)</span></li>
+<li><span>Photo safe </span></li>
+<li><span>Dries clear/Paintable </span></li>
+<li><span>Washer/Dryer safe</span></li>
+<li><span>Non-flammable once cured</span></li>
+</ul>
+</div>
+</div>
+<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Adhesive</s:tag>
+    <s:tag>E6000</s:tag>
+    <s:tag>E6000 GLUE</s:tag>
+    <s:tag>glue</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/4871586840678</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.32</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/4871584088166</id>
+    <published>2020-06-29T09:51:26-04:00</published>
+    <updated>2020-06-29T09:51:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/e6000-craft-glue-blace-2-ounce-tube-6-per-case-237039c"/>
+    <title>E6000 CRAFT Glue BLACK 2 oz. Tube 6 Per Case  #237039C</title>
+    <s:type>Adhesives, Glue</s:type>
+    <s:vendor>Eclectic Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/e6-craft-2_0oz-cardedtube-us-black237039.jpg?v=1593441993"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eclectic Products<br>
+        <strong>Type: </strong>Adhesives, Glue<br>
+        <strong>Price: </strong>
+            20.32
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">E6000® Glue, BLACK, Low Viscosity, 2 ounce tube. 6 Per Case<br><br>
+<div class="product attribute overview">
+<div class="value" itemprop="description">
+<p><span>Our best selling Craft adhesive – E6000 Craft – is known for its exceptional strength, flexibility and toughness. Formulated to meet high-performance industrial requirements, it's versatile, flexible and adheres to most substrates. E6000 has exceptional adhesion to wood, metal, glass, fiberglass, ceramics, masonry and concrete. It also adheres strongly to leather, rubber, vinyl and many plastics. It will not break down or become brittle with temperature extremes. E6000 Bonds Everything So You Can Create Anything™. </span><br><br></p>
+<ul>
+<li><span>Extreme strength - forms a tough, permanent bond</span></li>
+<li><span>Creates a flexible hold that won't crack, yellow or become brittle under stress</span></li>
+<li><span>Indoor/Outdoor - withstands temperatures from -40 to 180 °F (10 to 32 °C)</span></li>
+<li><span>Photo safe </span></li>
+<li><span>Dries clear/Paintable </span></li>
+<li><span>Washer/Dryer safe</span></li>
+<li><span>Non-flammable once cured</span></li>
+</ul>
+</div>
+</div>
+<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Adhesive</s:tag>
+    <s:tag>E6000</s:tag>
+    <s:tag>E6000 GLUE</s:tag>
+    <s:tag>glue</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/4871584088166</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.32</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/3929462276198</id>
+    <published>2019-07-15T13:42:04-04:00</published>
+    <updated>2019-07-15T13:42:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/e6000-craft-glue-clear-med-viscosity-3-7-oz-tube-230010c"/>
+    <title>E6000® CRAFT Glue Clear Med Viscosity 3.7 oz tube Case/12 #230010C</title>
+    <s:type>Glues, Adhesives</s:type>
+    <s:vendor>Eclectic Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/e6-craft-3_7floz-tube-US-300dpi_230010_d17a425b-1e12-4840-85b8-115c8ee1db50.jpg?v=1563811638"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eclectic Products<br>
+        <strong>Type: </strong>Glues, Adhesives<br>
+        <strong>Price: </strong>
+            48.63
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>E6000® CRAFT Glue, CLEAR, Medium Viscosity, 3.7 ounce tube #230010C</p>
+<p>CASE OF 12 TUBES <br><br>E6000®  Glue was manufactured and sold as a high-performance industrial adhesive for over 25 years, E-6000® became a hit in the craft market with its superior performance, flexibility and versatility.</p>
+<p>E6000® Dries Clear &amp; Paintable, Washer/Dryer Safe, Photograph Safe, &amp; Waterproof.<br><br>E6000® Self-Leveling Formula<br>An indispensable maintenance tool, E6000® allows the kind of permanent repair and maintenance of equipment that may have been too expensive or difficult in the past. E6000® provides adhesion strength and versatility not found in silicones and rubber cements. Its strength in adhering metals, glass, rubber and plastics makes it a universal vehicle maintenance and repair solution. Also, because it's self-leveling, E6000® may be used as potting material in electrical and computer applications.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>E6000</s:tag>
+    <s:tag>E6000 GLUE</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/3929462276198</id>
+      <title>Default Title</title>
+      <s:price currency="USD">48.63</s:price>
+      <s:sku></s:sku>
+      <s:grams>3175</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/3929461358694</id>
+    <published>2019-07-15T13:37:32-04:00</published>
+    <updated>2019-07-15T13:37:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/copy-of-e6000-glue-clear-med-viscosity-3-7-oz-tube-230021"/>
+    <title>E6000® CRAFT Glue Clear Med Viscosity 3.7 oz tube #230010 (2 Tubes)</title>
+    <s:type>Glues, Adhesives</s:type>
+    <s:vendor>Eclectic Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/e6-craft-3_7floz-tube-US-300dpi_230010.jpg?v=1563811637"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eclectic Products<br>
+        <strong>Type: </strong>Glues, Adhesives<br>
+        <strong>Price: </strong>
+            8.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>E6000® CRAFT Glue, CLEAR, Medium Viscosity, 3.7</p>
+<p><strong>Minimum 2 Tubes </strong></p>
+<p> <br>E6000®  Glue was manufactured and sold as a high-performance industrial adhesive for over 25 years, E-6000® became a hit in the craft market with its superior performance, flexibility and versatility.</p>
+<p>E6000® Dries Clear &amp; Paintable, Washer/Dryer Safe, Photograph Safe, &amp; Waterproof.<br><br>E6000® Self-Leveling Formula<br>An indispensable maintenance tool, E6000® allows the kind of permanent repair and maintenance of equipment that may have been too expensive or difficult in the past. E6000® provides adhesion strength and versatility not found in silicones and rubber cements. Its strength in adhering metals, glass, rubber and plastics makes it a universal vehicle maintenance and repair solution. Also, because it's self-leveling, E6000® may be used as potting material in electrical and computer applications.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>E6000</s:tag>
+    <s:tag>E6000 GLUE</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/3929461358694</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.69</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/9935108746</id>
+    <published>2017-01-23T10:48:00-05:00</published>
+    <updated>2017-01-23T10:48:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/fray-lock-4-fl-ounce-hang-bottle-565202"/>
+    <title>Fray Lock 4 fl ounce Hang Bottle 565202</title>
+    <s:type>Adhesives Glue</s:type>
+    <s:vendor>Eclectic Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/Fray_Lock_565202.jpg?v=1527227777"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eclectic Products<br>
+        <strong>Type: </strong>Adhesives Glue<br>
+        <strong>Price: </strong>
+            5.31
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1 class="product-name" style="text-align: left;">E6000 Fray Lock</h1>
+<p class="product-name" style="text-align: left;">4 ounce Hang bottle.</p>
+<p class="short-description" style="text-align: left;">Fray Lock permanently seals raw edges and locks knots - even on buttons. It's ideal for quilting, embroidery, sewing and cross-stitching.</p>
+<div class="short-description" style="text-align: left;"></div>
+<p class="short-description" style="text-align: left;">• Works great on thread knots and frayed fabric<br>• Dries crystal clear<br>• Acid-Free<br>• Washable<br>• Permanent<br>• Soft and Flexible</p>
+<p style="text-align: left;"> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Extreme Tack</s:tag>
+    <s:tag>Fabric Glue</s:tag>
+    <s:tag>Fray Lock</s:tag>
+    <s:tag>glue</s:tag>
+    <s:tag>washable fabric glue</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/9935108746</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.31</s:price>
+      <s:sku></s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/9934828810</id>
+    <published>2017-01-23T10:48:00-05:00</published>
+    <updated>2017-01-23T10:48:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/extreme-tack-4-fl-ounce-hang-bottle-565102"/>
+    <title>Extreme Tack 4 fl ounce Hang Bottle 565102</title>
+    <s:type>Adhesives Glue</s:type>
+    <s:vendor>Eclectic Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/extreme_tack_565102.jpg?v=1527227712"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eclectic Products<br>
+        <strong>Type: </strong>Adhesives Glue<br>
+        <strong>Price: </strong>
+            4.13
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="text-align: left;"><span style="font-size: 18px;"><em><strong>E6000 Extreme Tack</strong></em>, (fabric glue) 4 ounce Hang bottle. </span> </p>
+<p style="text-align: left;"><span style="font-size: 18px;"><strong><em>E6000 Extreme Tack; </em></strong> Make your own glue dots!  great for fabrics, crafts, even wood.  Reposition &amp; mount paper/lightweight materials to scrapbooks, walls and more!  Perfect for posters, ribbons and beads.  Acid Free</span></p>
+<ul>
+<li>
+<div style="text-align: left;">
+<div class="short-description">
+<p><strong>Extreme Tack is a unique adhesive that allows you to make your own glue dots! It dries tacky for repositioning - ideal for mounting paper and lightweight materials to scrapbooks, walls, home décor items and more.</strong></p>
+<strong></strong>
+<p><strong>•  14X stronger than adhesive dots!<br>•  Excellent on all types of fabric and just about any substrate<br>•  Remains tacky after drying<br>•  Make adhesive  dots or lines of any size<br>•  Dries clear<br>•  Acid-Free<br>•  Washable</strong></p>
+</div>
+</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Extreme Tack</s:tag>
+    <s:tag>Fabric Glue</s:tag>
+    <s:tag>glue</s:tag>
+    <s:tag>washable fabric glue</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/9934828810</id>
+      <title>Default Title</title>
+      <s:price currency="USD">4.13</s:price>
+      <s:sku></s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/9911226378</id>
+    <published>2016-09-29T14:37:00-04:00</published>
+    <updated>2016-09-29T14:37:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/jewelry-and-bead-glue-1-ounce-242001c"/>
+    <title>Jewelry and Bead CRAFT Glue 1 oz. 6 Per Case 242001C</title>
+    <s:type>Adhesives, Glue</s:type>
+    <s:vendor>Eclectic Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/Jewelry_Bead_Glue_242001_591681a5-806d-46f8-909f-83a6d3a50f0b.jpg?v=1579535831"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eclectic Products<br>
+        <strong>Type: </strong>Adhesives, Glue<br>
+        <strong>Price: </strong>
+            19.05
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; vertical-align: baseline; box-sizing: border-box; font-size-adjust: inherit; font-stretch: inherit;">
+<h3></h3>
+<blockquote style="margin-right: 0px;" dir="ltr">
+<div class="page-title-wrapper product">
+<h1 class="page-title"><span class="base" data-ui-id="page-title-wrapper" itemprop="name">E6000 Jewelry &amp; Bead</span></h1>
+<p><span class="base" data-ui-id="page-title-wrapper" itemprop="name">Each package contains one, 1 ounce tube of glue, plus 3 precision tips.  Case of 6 tubes.</span></p>
+</div>
+<div class="product attribute overview">
+<div class="value" itemprop="description">
+<p><span>E6000 Jewelry &amp; Bead gives you the control you need for precise, no-mess applications. The applicator tips are perfect for permanently bonding stones, gems, beads and most types of jewelry metals. </span><br><br></p>
+<ul>
+<li><span>Includes four precision tips </span></li>
+<li><span>Easily bonds to polymer clay, metals, wood, leather and much more! </span></li>
+<li><span>Dries clear </span></li>
+<li><span>Maximum flexibility </span></li>
+<li><span>Waterproof – bond remains secure even when exposed to water</span></li>
+</ul>
+</div>
+</div>
+<br>
+</blockquote>
+<blockquote style="border-width: 0px 0px 0px 5px; margin: 0px 0px 20px; padding: 10px 20px; text-align: left; color: #777777; text-transform: none; line-height: 24px; text-indent: 0px; letter-spacing: normal; font-family: 'Century Gothic', Verdana, Arial, Helvetica, sans-serif, 'Avant Garde'; font-size: 17.5px; font-style: italic; font-weight: normal; word-spacing: 0px; vertical-align: baseline; border-left-color: #eeeeee; border-left-style: solid; white-space: normal; box-sizing: border-box; orphans: 2; widows: 2; quotes: none; font-stretch: inherit; background-color: #ffffff; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-numeric: inherit; -webkit-text-stroke-width: 0px;" dir="ltr">
+<table style="width: 434.5px; border-collapse: collapse; box-sizing: border-box; border-spacing: 0px; background-color: transparent;" cellspacing="0" cellpadding="0" border="0">
+<colgroup style="box-sizing: border-box;"><col style="box-sizing: border-box;"></colgroup>
+<tbody style="box-sizing: border-box;">
+<tr style="box-sizing: border-box;">
+<td style="padding: 0px; width: 434.5px; box-sizing: border-box;" height="100%"></td>
+</tr>
+</tbody>
+</table>
+</blockquote>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>amazing goop</s:tag>
+    <s:tag>goop</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/9911226378</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.05</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/9911100106</id>
+    <published>2016-09-29T14:37:00-04:00</published>
+    <updated>2016-09-29T14:37:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/jewelry-and-bead-glue-1-ounce-242001"/>
+    <title>Jewelry and Bead Craft Glue 1 oz. 242001</title>
+    <s:type>Adhesives, Glue</s:type>
+    <s:vendor>Eclectic Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/Jewelry_Bead_Glue_242001.jpg?v=1579535830"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eclectic Products<br>
+        <strong>Type: </strong>Adhesives, Glue<br>
+        <strong>Price: </strong>
+            3.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; vertical-align: baseline; box-sizing: border-box; font-size-adjust: inherit; font-stretch: inherit;">
+<h3></h3>
+<blockquote style="margin-right: 0px;" dir="ltr">
+<div class="page-title-wrapper product">
+<h2 class="page-title"><span class="base" data-ui-id="page-title-wrapper" itemprop="name">E6000 Jewelry &amp; Bead</span></h2>
+<h4 class="page-title"><span class="base" data-ui-id="page-title-wrapper" itemprop="name">Each package contains One, 1 ounce tube of glue, plus 3 precision tips.</span></h4>
+</div>
+<div class="product attribute overview">
+<div class="value" itemprop="description">
+<p><span>E6000 Jewelry &amp; Bead gives you the control you need for precise, no-mess applications. The applicator tips are perfect for permanently bonding stones, gems, beads and most types of jewelry metals. </span><br><br></p>
+<ul>
+<li><span>Includes four precision tips </span></li>
+<li><span>Easily bonds to polymer clay, metals, wood, leather and much more! </span></li>
+<li><span>Dries clear </span></li>
+<li><span>Maximum flexibility </span></li>
+<li><span>Waterproof – bond remains secure even when exposed to water</span></li>
+</ul>
+</div>
+</div>
+<p> </p>
+</blockquote>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>amazing goop</s:tag>
+    <s:tag>goop</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/9911100106</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.40</s:price>
+      <s:sku></s:sku>
+      <s:grams>65</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/7989882567</id>
+    <published>2016-06-21T13:26:00-04:00</published>
+    <updated>2016-06-21T13:26:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/e6000-glue-clear-2-ounce-tube-237032"/>
+    <title>E6000 Craft Glue CLEAR 2 oz  #237032</title>
+    <s:type>Adhesives, Glue</s:type>
+    <s:vendor>Eclectic Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/237032_2_oz_E6000_94e4cc04-8e08-45b0-af5f-020483859ef8.jpg?v=1579535829"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eclectic Products<br>
+        <strong>Type: </strong>Adhesives, Glue<br>
+        <strong>Price: </strong>
+            3.63
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">E6000® CRAFT Glue, CLEAR,  Low Viscosity, 2 ounce tube #237032<br><br>
+<div class="product attribute overview">
+<div class="value" itemprop="description">
+<p><span>Our best selling Craft adhesive – E6000 Craft – is known for its exceptional strength, flexibility and toughness. Formulated to meet high-performance industrial requirements, it's versatile, flexible and adheres to most substrates. E6000 has exceptional adhesion to wood, metal, glass, fiberglass, ceramics, masonry and concrete. It also adheres strongly to leather, rubber, vinyl and many plastics. It will not break down or become brittle with temperature extremes. E6000 Bonds Everything So You Can Create Anything™. </span><br><br></p>
+<ul>
+<li><span>Extreme strength - forms a tough, permanent bond</span></li>
+<li><span>Creates a flexible hold that won't crack, yellow or become brittle under stress</span></li>
+<li><span>Indoor/Outdoor - withstands temperatures from -40 to 180 °F (10 to 32 °C)</span></li>
+<li><span>Photo safe </span></li>
+<li><span>Dries clear/Paintable </span></li>
+<li><span>Washer/Dryer safe</span></li>
+<li><span>Non-flammable once cured</span></li>
+</ul>
+</div>
+</div>
+<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Adhesive</s:tag>
+    <s:tag>E6000</s:tag>
+    <s:tag>E6000 GLUE</s:tag>
+    <s:tag>glue</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7989882567</id>
+      <title>Default Title</title>
+      <s:price currency="USD">3.63</s:price>
+      <s:sku></s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/7287112263</id>
+    <published>2016-06-21T13:26:00-04:00</published>
+    <updated>2016-06-21T13:26:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/e6000-glue-clear-medium-viscosity-2-ounce-tube"/>
+    <title>E6000 CRAFT Glue CLEAR 2 oz. Tube 6 Per Case  #237032C</title>
+    <s:type>Adhesives, Glue</s:type>
+    <s:vendor>Eclectic Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/237032_2_oz_E6000.jpg?v=1579535828"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eclectic Products<br>
+        <strong>Type: </strong>Adhesives, Glue<br>
+        <strong>Price: </strong>
+            20.32
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">E6000® Glue, CLEAR,  2 ounce tube. 6 Per Case<br><br>
+<div class="product attribute overview">
+<div class="value" itemprop="description">
+<p><span>Our best selling Craft adhesive – E6000 Craft – is known for its exceptional strength, flexibility and toughness. Formulated to meet high-performance industrial requirements, it's versatile, flexible and adheres to most substrates. E6000 has exceptional adhesion to wood, metal, glass, fiberglass, ceramics, masonry and concrete. It also adheres strongly to leather, rubber, vinyl and many plastics. It will not break down or become brittle with temperature extremes. E6000 Bonds Everything So You Can Create Anything™. </span><br><br></p>
+<ul>
+<li><span>Extreme strength - forms a tough, permanent bond</span></li>
+<li><span>Creates a flexible hold that won't crack, yellow or become brittle under stress</span></li>
+<li><span>Indoor/Outdoor - withstands temperatures from -40 to 180 °F (10 to 32 °C)</span></li>
+<li><span>Photo safe </span></li>
+<li><span>Dries clear/Paintable </span></li>
+<li><span>Washer/Dryer safe</span></li>
+<li><span>Non-flammable once cured</span></li>
+</ul>
+</div>
+</div>
+<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Adhesive</s:tag>
+    <s:tag>E6000</s:tag>
+    <s:tag>E6000 GLUE</s:tag>
+    <s:tag>glue</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287112263</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.32</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+</feed>

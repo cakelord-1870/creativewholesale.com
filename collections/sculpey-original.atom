@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://creativewholesale.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://creativewholesale.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://creativewholesale.com/collections/sculpey-original.atom"/>
+  <title>Creative Wholesale</title>
+  <updated>2020-02-25T10:34:00-05:00</updated>
+  <author>
+    <name>Creative Wholesale</name>
+  </author>
+  <entry>
+    <id>https://creativewholesale.com/products/4638570250342</id>
+    <published>2020-02-25T10:34:00-05:00</published>
+    <updated>2020-02-25T10:34:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/sculpey-original-granite-1-lb-s01gr"/>
+    <title>Sculpey Original Clay Granite 1 lb S01GR</title>
+    <s:type>Sculpey Original</s:type>
+    <s:vendor>Polyform</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/so1gr.png?v=1595602317"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Polyform<br>
+        <strong>Type: </strong>Sculpey Original<br>
+        <strong>Price: </strong>
+            5.06
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span align="left"><span><span style="font-size: large;" size="4">Sculpey Original Clay White, 1 Pound S01gr</span></span></span></p>
+<p><span id="dnn_ctr436_ContentPane" align="left"><span id="dnn_ctr436_ProductPage_lblItemHtmlHolder"><span style="font-size: large;" size="4">America's original Sculpey oven bake clay! Sculpey Original is soft and pliable, works and feels like ceramic clay, but will not dry out when exposed to air. Shape it into your desired form and bake according to package instructions. Once cool, Sculpey Original can be sanded, drilled, carved, and painted with waterbased acrylics or Sculpey brand glaze. Sculpey Original is ideal for sculpture and children's projects.</span></span></span></p>
+<p><span align="left"><span><span style="font-size: large;" size="4">Sculpey Original is available in White, Terra Cotta &amp; Gray.</span></span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clay</s:tag>
+    <s:tag>Craft Clay</s:tag>
+    <s:tag>Granite</s:tag>
+    <s:tag>Polymer Clay</s:tag>
+    <s:tag>Sculpey</s:tag>
+    <s:tag>Sculpey Original</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/4638570250342</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.06</s:price>
+      <s:sku></s:sku>
+      <s:grams>510</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/7287224263</id>
+    <published>2018-05-24T17:14:17-04:00</published>
+    <updated>2018-05-24T17:14:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/sculpey-original-white-1-75-poundsamerica-s-original-sculpey-oven-bake-clay-sculpey-is-soft-and-pliable-works-and-feels-like-ceramic-clay-but-will-not-dry-out-when-exposed-to-air-shape-it-into-your-desired-form-and-bake-according-to-package-instructions-o"/>
+    <title>Sculpey Original White, 1.75 pounds  S2</title>
+    <s:type>Sculpey Original</s:type>
+    <s:vendor>Polyform</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/s2-w.jpeg?v=1580140291"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Polyform<br>
+        <strong>Type: </strong>Sculpey Original<br>
+        <strong>Price: </strong>
+            8.37
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span id="dnn_ctr436_ContentPane" align="left"><span id="dnn_ctr436_ProductPage_lblItemHtmlHolder"><span style="font-size: large;" size="4"> Sculpey Original White, 1.75 pounds S2</span></span></span></p>
+<p><span id="dnn_ctr436_ContentPane" align="left"><span id="dnn_ctr436_ProductPage_lblItemHtmlHolder"><span style="font-size: large;" size="4">America's original Sculpey oven bake clay! Sculpey is soft and pliable, works and feels like ceramic clay, but will not dry out when exposed to air. Shape it into your desired form and bake according to package instructions. Once cool, Sculpey can be sanded, drilled, carved, and painted with waterbased acrylics or Sculpey brand glaze. Sculpey is ideal for sculpture and children's projects.</span></span></span></p>
+<p><span align="left"><span style="font-size: large;" size="4">Sculpey Original is available in White and Terra Cotta.</span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Craft Clay</s:tag>
+    <s:tag>Polymer Clay</s:tag>
+    <s:tag>Sculpey</s:tag>
+    <s:tag>Sculpey Original</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287224263</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.37</s:price>
+      <s:sku></s:sku>
+      <s:grams>862</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/7287223943</id>
+    <published>2018-03-19T11:36:36-04:00</published>
+    <updated>2018-03-19T11:36:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/sculpey-original-terra-cotta-1-75-pounds"/>
+    <title>Sculpey Original Terra Cotta, 1.75 pounds  S2T</title>
+    <s:type>Polymer Clay</s:type>
+    <s:vendor>Polyform</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/s2-t.jpeg?v=1580140290"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Polyform<br>
+        <strong>Type: </strong>Polymer Clay<br>
+        <strong>Price: </strong>
+            8.37
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span align="left"><span><span style="font-size: large;" size="4">Sculpey Original Terra Cotta, 1.75 pounds S2T</span></span></span></p>
+<p><span id="dnn_ctr436_ContentPane" align="left"><span id="dnn_ctr436_ProductPage_lblItemHtmlHolder"><span style="font-size: large;" size="4">America's original Sculpey oven bake clay! Sculpey is soft and pliable, works and feels like ceramic clay, but will not dry out when exposed to air. Shape it into your desired form and bake according to package instructions. Once cool, Sculpey can be sanded, drilled, carved, and painted with waterbased acrylics or Sculpey brand glaze. Sculpey is ideal for sculpture and children's projects.</span></span></span></p>
+<p><span align="left"><span style="font-size: large;" size="4">Sculpey Original is available in White and Terra Cotta</span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Craft Clay</s:tag>
+    <s:tag>Polymer Clay</s:tag>
+    <s:tag>Sculpey</s:tag>
+    <s:tag>Sculpey Original</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287223943</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.37</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/7287222215</id>
+    <published>2018-02-09T08:10:00-05:00</published>
+    <updated>2018-02-09T08:10:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/sculpey-original-white-24-pounds"/>
+    <title>Sculpey Original White, 24 pounds  S24</title>
+    <s:type>Polymer Clay</s:type>
+    <s:vendor>Polyform</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/White_24lbBox.jpeg?v=1580140292"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Polyform<br>
+        <strong>Type: </strong>Polymer Clay<br>
+        <strong>Price: </strong>
+            98.58
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span align="left"><span><strong><span size="4"><span size="4" style="font-size: large;">Sculpey Original White, 24 pounds S24</span></span></strong></span></span></p>
+<p><span id="dnn_ctr436_ContentPane" align="left"><span id="dnn_ctr436_ProductPage_lblItemHtmlHolder"><strong><span size="4"><span size="4" style="font-size: large;">America's original Sculpey oven bake clay! Sculpey Original is soft and pliable, works and feels like ceramic clay, but will not dry out when exposed to air. Shape it into your desired form and bake according to package instructions. Once cool, Sculpey Original can be sanded, drilled, carved, and painted with waterbased acrylics or Sculpey brand glaze. Sculpey Original is ideal for sculpture and children's projects.  Used by <span style="line-height: 25.2px;">Veterinarians</span> for Paw Prints.</span></span></strong></span></span></p>
+<p><span align="left"><span><strong><span style="font-size: large;" size="4">Sculpey Original 24 pound is available in White and Terra Cotta.</span></strong></span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Craft Clay</s:tag>
+    <s:tag>Paw Print Clay</s:tag>
+    <s:tag>Polymer Clay</s:tag>
+    <s:tag>Sculpey</s:tag>
+    <s:tag>Sculpey Original</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287222215</id>
+      <title>Default Title</title>
+      <s:price currency="USD">98.58</s:price>
+      <s:sku></s:sku>
+      <s:grams>11113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/7287222791</id>
+    <published>2018-01-15T13:58:34-05:00</published>
+    <updated>2018-01-15T13:58:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/sculpey-original-terra-cotta-8-pounds"/>
+    <title>Sculpey Original Terra Cotta, 8 Pounds  S8T</title>
+    <s:type>Polymer Clay</s:type>
+    <s:vendor>Polyform</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/s8T.jpeg?v=1580140290"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Polyform<br>
+        <strong>Type: </strong>Polymer Clay<br>
+        <strong>Price: </strong>
+            35.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span align="left"><span><strong><span style="font-size: large;" size="4">Sculpey Original Terra Cotta, 8 Pounds S8T</span></strong></span></span></p>
+<p><span id="dnn_ctr436_ContentPane" align="left"><span id="dnn_ctr436_ProductPage_lblItemHtmlHolder"><strong><span style="font-size: large;" size="4">America's original Sculpey oven bake clay! Sculpey is soft and pliable, works and feels like ceramic clay, but will not dry out when exposed to air. Shape it into your desired form and bake according to package instructions. Once cool, Sculpey can be sanded, drilled, carved, and painted with waterbased acrylics or Sculpey brand glaze. Sculpey is ideal for sculpture and children's projects.</span></strong></span></span></p>
+<p><span align="left"><span><strong><span style="font-size: large;" size="4">Sculpey Original 8 pound is available in White and Terra Cotta.</span></strong></span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Craft Clay</s:tag>
+    <s:tag>paw print clay</s:tag>
+    <s:tag>Polymer Clay</s:tag>
+    <s:tag>Sculpey</s:tag>
+    <s:tag>Sculpey Original</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287222791</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35.20</s:price>
+      <s:sku></s:sku>
+      <s:grams>3856</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/7287223303</id>
+    <published>2018-01-15T13:58:10-05:00</published>
+    <updated>2018-01-15T13:58:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/sculpey-original-white-8-pounds"/>
+    <title>Sculpey Original White, 8 pounds  S8</title>
+    <s:type>Polymer Clay</s:type>
+    <s:vendor>Polyform</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/s8w.jpeg?v=1580140293"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Polyform<br>
+        <strong>Type: </strong>Polymer Clay<br>
+        <strong>Price: </strong>
+            35.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span align="left"><span><span style="font-size: large;" size="4">Sculpey Original White, 8 pounds S8</span></span></span></p>
+<p><span id="dnn_ctr436_ContentPane" align="left"><span id="dnn_ctr436_ProductPage_lblItemHtmlHolder"><span style="font-size: large;" size="4">America's original Sculpey oven bake clay! Sculpey is soft and pliable, works and feels like ceramic clay, but will not dry out when exposed to air. Shape it into your desired form and bake according to package instructions. Once cool, Sculpey can be sanded, drilled, carved, and painted with waterbased acrylics or Sculpey brand glaze. Sculpey is ideal for sculpture and children's projects.</span></span></span></p>
+<p><span align="left"><span style="font-size: large;" size="4">Sculpey Original 8 pound is available in White and Terra Cotta.</span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Craft Clay</s:tag>
+    <s:tag>Paw Print Clay</s:tag>
+    <s:tag>Polymer Clay</s:tag>
+    <s:tag>Sculpey</s:tag>
+    <s:tag>Sculpey Original</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287223303</id>
+      <title>Default Title</title>
+      <s:price currency="USD">35.20</s:price>
+      <s:sku></s:sku>
+      <s:grams>3856</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/7287224775</id>
+    <published>2016-06-21T13:32:00-04:00</published>
+    <updated>2016-06-21T13:32:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/sculpey-original-terra-cotta-1-pound"/>
+    <title>Sculpey Original Terra Cotta, 1 Pound   S01T</title>
+    <s:type>Polymer Clay</s:type>
+    <s:vendor>Polyform</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/s01t-orsc-terra_1lb.jpeg?v=1580140289"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Polyform<br>
+        <strong>Type: </strong>Polymer Clay<br>
+        <strong>Price: </strong>
+            5.09
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul>
+<ul>
+<ul>Sculpey Original Terra Cotta, 1 Pound S01T</ul>
+</ul>
+</ul>
+<ul>
+<li><span align="left"><span><span style="font-size: large;" size="4">Sculpey Original Terra Cotta, 1 Pound</span></span></span></li>
+<li><span id="dnn_ctr436_ContentPane" align="left"><span id="dnn_ctr436_ProductPage_lblItemHtmlHolder"><span style="font-size: large;" size="4">America's original Sculpey oven bake clay! Sculpey is soft and pliable, works and feels like ceramic clay, but will not dry out when exposed to air. Shape it into your desired form and bake according to package instructions. Once cool, Sculpey can be sanded, drilled, carved, and painted with waterbased acrylics or Sculpey brand glaze. Sculpey is ideal for sculpture and children's projects.</span></span></span></li>
+<li><span align="left"><span><span style="font-size: large;" size="4">Sculpey Original is available in White and Terra Cotta and Gray.</span></span></span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287224775</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.09</s:price>
+      <s:sku></s:sku>
+      <s:grams>499</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/7287224711</id>
+    <published>2016-06-21T13:32:00-04:00</published>
+    <updated>2016-06-21T13:32:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/sculpey-original-white-1-pound"/>
+    <title>Sculpey Original White, 1 Pound  S01</title>
+    <s:type>Sculpey Original</s:type>
+    <s:vendor>Polyform</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/s01-orsc-white_1lb.jpeg?v=1580140291"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Polyform<br>
+        <strong>Type: </strong>Sculpey Original<br>
+        <strong>Price: </strong>
+            5.09
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span align="left"><span><span style="font-size: large;" size="4">Sculpey Original White, 1 Pound S01</span></span></span></p>
+<p><span id="dnn_ctr436_ContentPane" align="left"><span id="dnn_ctr436_ProductPage_lblItemHtmlHolder"><span style="font-size: large;" size="4">America's original Sculpey oven bake clay! Sculpey Original is soft and pliable, works and feels like ceramic clay, but will not dry out when exposed to air. Shape it into your desired form and bake according to package instructions. Once cool, Sculpey Original can be sanded, drilled, carved, and painted with waterbased acrylics or Sculpey brand glaze. Sculpey Original is ideal for sculpture and children's projects.</span></span></span></p>
+<p><span align="left"><span><span style="font-size: large;" size="4">Sculpey Original is available in White, Terra Cotta &amp; Gray.</span></span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clay</s:tag>
+    <s:tag>Craft Clay</s:tag>
+    <s:tag>Polymer Clay</s:tag>
+    <s:tag>Sculpey</s:tag>
+    <s:tag>Sculpey Original</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287224711</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.09</s:price>
+      <s:sku></s:sku>
+      <s:grams>510</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/7287223559</id>
+    <published>2016-06-21T13:32:00-04:00</published>
+    <updated>2016-06-21T13:32:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/sculpey-original-white-3-75-pounds"/>
+    <title>Sculpey Original White, 3.75 pounds   S375</title>
+    <s:type>Polymer Clay</s:type>
+    <s:vendor>Polyform</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/11-s375-os-3_75lb-wht.jpeg?v=1580140293"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Polyform<br>
+        <strong>Type: </strong>Polymer Clay<br>
+        <strong>Price: </strong>
+            17.44
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span align="left"><span><span style="font-size: large;" size="4">Sculpey Original White, 3.75 pounds S375</span></span></span></p>
+<p><span id="dnn_ctr436_ContentPane" align="left"><span id="dnn_ctr436_ProductPage_lblItemHtmlHolder"><span style="font-size: large;" size="4">America's original Sculpey oven bake clay! Sculpey is soft and pliable, works and feels like ceramic clay, but will not dry out when exposed to air. Shape it into your desired form and bake according to package instructions. Once cool, Sculpey can be sanded, drilled, carved, and painted with waterbased acrylics or Sculpey brand glaze. Sculpey is ideal for sculpture and children's projects.</span></span></span></p>
+<p><span align="left"><span style="font-size: large;" size="4">Sculpey Original is available in 1 pound, 1.75 pound, 3.75 pound, 8 pound and 24 pound packages.</span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Craft Clay</s:tag>
+    <s:tag>Polymer Clay</s:tag>
+    <s:tag>Sculpey</s:tag>
+    <s:tag>Sculpey Original</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287223559</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.44</s:price>
+      <s:sku></s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+</feed>

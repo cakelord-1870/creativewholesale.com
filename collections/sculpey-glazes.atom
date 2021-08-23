@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://creativewholesale.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://creativewholesale.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://creativewholesale.com/collections/sculpey-glazes.atom"/>
+  <title>Creative Wholesale</title>
+  <updated>2018-04-11T13:45:25-04:00</updated>
+  <author>
+    <name>Creative Wholesale</name>
+  </author>
+  <entry>
+    <id>https://creativewholesale.com/products/7287115847</id>
+    <published>2018-04-11T13:45:25-04:00</published>
+    <updated>2018-04-11T13:45:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/sculpey-gloss-glaze-asg33g"/>
+    <title>Sculpey Gloss Glaze,  ASG33G</title>
+    <s:type>Sculpey Glazes</s:type>
+    <s:vendor>Polyform</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/18-asg33g-sc-glaze-gloss_2.png?v=1579534140"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Polyform<br>
+        <strong>Type: </strong>Sculpey Glazes<br>
+        <strong>Price: </strong>
+            2.34
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong><a href="http://www.sculpey.com/product/sculpey-satin-glaze-2-oz/">Sculpey® Gloss Glaze, ASG33G</a></strong></p>
+<div class="col-sm-7">
+<div class="product-number">ASG33G   1 fluid ounce</div>
+<div class="post-content">
+<div class="content-text">
+<p>Adds a durable seal or finish to baked clay items.</p>
+</div>
+</div>
+</div>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sculpey Gloss Glaze</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287115847</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.34</s:price>
+      <s:sku></s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/7287115527</id>
+    <published>2018-04-03T13:55:08-04:00</published>
+    <updated>2018-04-03T13:55:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/copy-of-sculpey-gloss-glaze-asg33g"/>
+    <title>Sculpey Satin Glaze,  ASG33M</title>
+    <s:type>Sculpey Glazes</s:type>
+    <s:vendor>Polyform</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/18-asg33g-sc-glaze-satin.png?v=1580140297"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Polyform<br>
+        <strong>Type: </strong>Sculpey Glazes<br>
+        <strong>Price: </strong>
+            2.34
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong><a href="http://www.sculpey.com/product/sculpey-satin-glaze-2-oz/">Sculpey® Satin Glaze, ASG33M</a></strong></p>
+<div class="col-sm-7">
+<div class="product-number">ASG33M   1 fluid ounce</div>
+<div class="post-content">
+<div class="content-text">
+<p>Adds a durable seal or finish to baked clay items.</p>
+</div>
+</div>
+</div>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sculpey Gloss Glaze</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287115527</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.34</s:price>
+      <s:sku></s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+</feed>

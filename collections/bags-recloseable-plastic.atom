@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://creativewholesale.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://creativewholesale.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://creativewholesale.com/collections/bags-recloseable-plastic.atom"/>
+  <title>Creative Wholesale</title>
+  <updated>2016-06-21T13:26:21-04:00</updated>
+  <author>
+    <name>Creative Wholesale</name>
+  </author>
+  <entry>
+    <id>https://creativewholesale.com/products/7287102727</id>
+    <published>2016-06-21T13:26:21-04:00</published>
+    <updated>2016-06-21T13:26:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/mini-grip-recloseable-bags-mg23-100"/>
+    <title>Mini Grip Reclosable Bags, 2 Mil 2&quot; X 3&quot;, 100 Per Package #MG23-100</title>
+    <s:type>Mini Grip Bags</s:type>
+    <s:vendor>Creative Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/MG23-100.jpeg?v=1501857694"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Creative Wholesale<br>
+        <strong>Type: </strong>Mini Grip Bags<br>
+        <strong>Price: </strong>
+            1.73
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mini Grip Reclosable Bags, 2 Mil 2" X 3", 100 Per Package</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>mini grip bags</s:tag>
+    <s:tag>plastic bags</s:tag>
+    <s:tag>zip closure bags</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287102727</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1.73</s:price>
+      <s:sku></s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/7287102087</id>
+    <published>2016-06-21T13:26:20-04:00</published>
+    <updated>2016-06-21T13:26:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/mini-grip-reclosable-bags-mg23-1000"/>
+    <title>Mini Grip Reclosable Bags, 2 Mil 2&quot; X 3&quot;, 1000 Per Package #MG23-1000</title>
+    <s:type>Mini Grip Bags</s:type>
+    <s:vendor>Creative Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/MG23-100_b0f882d4-387b-4456-ad24-b191de03d83e.jpeg?v=1501857695"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Creative Wholesale<br>
+        <strong>Type: </strong>Mini Grip Bags<br>
+        <strong>Price: </strong>
+            12.24
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mini Grip Reclosable Bags, 2 Mil 2" X 3", 1000 Per Package</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>mini grip bags</s:tag>
+    <s:tag>plastic bags</s:tag>
+    <s:tag>zip closure bags</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287102087</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.24</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/7287101575</id>
+    <published>2016-06-21T13:26:19-04:00</published>
+    <updated>2016-06-21T13:26:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/mini-grip-reclosable-bags-mg33-100"/>
+    <title>Mini Grip Reclosable Bags, 2 Mil 3&quot; X 3&quot;, 100 Per Package #MG33-100</title>
+    <s:type>Mini Grip Bags</s:type>
+    <s:vendor>Creative Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/MG33-100.jpeg?v=1479746030"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Creative Wholesale<br>
+        <strong>Type: </strong>Mini Grip Bags<br>
+        <strong>Price: </strong>
+            2.07
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mini Grip Reclosable Bags, 2 Mil 3" X 3", 100 Per Package</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>mini grip bags</s:tag>
+    <s:tag>plastic bags</s:tag>
+    <s:tag>zip closure bags</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287101575</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.07</s:price>
+      <s:sku></s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/7287101319</id>
+    <published>2016-06-21T13:26:17-04:00</published>
+    <updated>2016-06-21T13:26:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/mini-grip-reclosable-bags-mg33-1000"/>
+    <title>Mini Grip Reclosable Bags, 2 Mil 3&quot; X 3&quot;, 1000 Per Package #MG33-1000</title>
+    <s:type>Mini Grip Bags</s:type>
+    <s:vendor>Creative Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/MG33-100_e33c233e-0b41-4e31-b7db-3b2f56ec7344.jpeg?v=1479746034"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Creative Wholesale<br>
+        <strong>Type: </strong>Mini Grip Bags<br>
+        <strong>Price: </strong>
+            14.65
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mini Grip Reclosable Bags, 2 Mil 3" X 3", 1000 Per Package</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>mini grip bags</s:tag>
+    <s:tag>plastic bags</s:tag>
+    <s:tag>zip closure bags</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287101319</id>
+      <title>Default Title</title>
+      <s:price currency="USD">14.65</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/7287100679</id>
+    <published>2016-06-21T13:26:16-04:00</published>
+    <updated>2016-06-21T13:26:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/mini-grip-reclosable-bags-mg34-100"/>
+    <title>Mini Grip Reclosable Bags, 2 Mil 3&quot; X 4&quot;, 100 Per Package #MG34-100</title>
+    <s:type>Mini Grip Bags</s:type>
+    <s:vendor>Creative Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/MG23-100_fcaac24c-fa85-48eb-ae41-4dd6ba00be43.jpeg?v=1479746038"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Creative Wholesale<br>
+        <strong>Type: </strong>Mini Grip Bags<br>
+        <strong>Price: </strong>
+            2.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mini Grip Reclosable Bags, 2 Mil 3" X 4", 100 Per Package</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>mini grip bags</s:tag>
+    <s:tag>plastic bags</s:tag>
+    <s:tag>zip closure bags</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287100679</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.29</s:price>
+      <s:sku></s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/7287100039</id>
+    <published>2016-06-21T13:26:14-04:00</published>
+    <updated>2016-06-21T13:26:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/mini-grip-reclosable-bags-2-mil-3-x-5-100-per-package-mg35-100"/>
+    <title>Mini Grip Reclosable Bags, 2 Mil 3&quot; X 5&quot;, 100 Per Package #MG35-100</title>
+    <s:type>Mini Grip Bags</s:type>
+    <s:vendor>Creative Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/MG23-100_863c0a29-8c1b-4ffb-9ef6-da3f4abea232.jpeg?v=1478534904"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Creative Wholesale<br>
+        <strong>Type: </strong>Mini Grip Bags<br>
+        <strong>Price: </strong>
+            2.51
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mini Grip Reclosable Bags, 2 Mil 3" X 5", 100 Per Package</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>mini grip bags</s:tag>
+    <s:tag>plastic bags</s:tag>
+    <s:tag>zip closure bags</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287100039</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.51</s:price>
+      <s:sku></s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/7287099783</id>
+    <published>2016-06-21T13:26:14-04:00</published>
+    <updated>2016-06-21T13:26:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/mini-grip-reclosable-bags-2-mil-3-x-5-1000-per-package-mg35-1000"/>
+    <title>Mini Grip Reclosable Bags, 2 Mil 3&quot; X 5&quot;, 1000 Per Package #MG35-1000</title>
+    <s:type>Mini Grip Bags</s:type>
+    <s:vendor>Creative Wholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/MG23-100_2413a2db-62f2-4135-be96-621fc8fd1e5f.jpeg?v=1479746053"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Creative Wholesale<br>
+        <strong>Type: </strong>Mini Grip Bags<br>
+        <strong>Price: </strong>
+            17.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mini Grip Reclosable Bags, 2 Mil 3" X 5", 1000 Per Packag</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>mini grip bags</s:tag>
+    <s:tag>plastic bags</s:tag>
+    <s:tag>zip closure bags</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287099783</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.80</s:price>
+      <s:sku></s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+</feed>

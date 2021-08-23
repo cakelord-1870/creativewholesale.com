@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://creativewholesale.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://creativewholesale.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://creativewholesale.com/collections/ex-88.atom"/>
+  <title>Creative Wholesale</title>
+  <updated>2016-07-10T16:45:00-04:00</updated>
+  <author>
+    <name>Creative Wholesale</name>
+  </author>
+  <entry>
+    <id>https://creativewholesale.com/products/7878948807</id>
+    <published>2016-07-10T16:45:00-04:00</published>
+    <updated>2016-07-10T16:45:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/bernzomatic-trigger-start-hose-torch-kit-bz8250ht"/>
+    <title>BernzOmatic Hose &amp; Trigger Start Torch Kit  BZ8250HT</title>
+    <s:type>Epoxy Resin</s:type>
+    <s:vendor>CreativeWholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/BZ8250HT.jpg?v=1527225492"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CreativeWholesale<br>
+        <strong>Type: </strong>Epoxy Resin<br>
+        <strong>Price: </strong>
+            69.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-size: 24px;"><strong><span style="font-size: 16px;">BernzOmatic Trigger Start Hose Torch Kit # BZ8250HT, with 5 foot hose &amp; belt holder for propane canister.  </span></strong></span><strong><span style="font-size: 16px;">Great torch for removing bubbles from Epoxy Coatings.  Has swirl flame, stainless steel burn tube, adjustable flame control button, lock Button, instant on/off trigger igniter.</span></strong></p>
+<p><strong><span style="font-size: 16px;">Propane Canister Not Included.</span></strong></p>
+<p><strong><span style="font-size: 16px;"><!-- Detailed Description End --> <!-- Tab Strip Begin 
+           Add tabs with text or controls (Related Products, Reviews, Also Purchased Products, Media Gallery Items etc) via [Main Data] page of module CAT_Products. 
+           If there is no tab with Text_HTML but tabs with other content controls and there is any text outside the TABS section, the text would be displayed in the lblItemHtmlHolder label --> <!-- Tab Strip End --> <!-- Additional Fields Begin 
+           Additonal Field setup can be found on the [Attributes] page of module CAT_Products  (CATALooK.netStore / Products / Search for a product / Full Page Edit / Attributes / 'Tokens / Additional Fields').
+           Search Token (Additional Field) selectors will also be displayed on the [Advanced Categories] page of module CAT_Products depending on the currently selected Advanced Categories.
+           Setup search for additional fields via module CAT_SearchNF / Select [View Options] from the module action menu / Token (Additional Field) search 
+           To not display additonal fields turn off the option 'Show tokens (additional fields) on product detail page?' in the module option. --> <!-- Additional Fields End --> <!-- Product Configurator (Configurable Items And Product Bundles Only) Begin 
+           To setup image size and viewer select [View Options] from the module menu of the CAT_ItemPaneNF module / 'Parameters for Images from [Image Options], [Additional Images] and Configurable Product Slot Images'. 
+           To find more options perform a search for 'config' on the module options page. 
+           Please find sample scenarios for configurable products and product bundles in chapter: 'Configurable product example' and 'Bundled Products'. --> <!-- Product Configurator (Configurable Items And Product Bundles Only) End --></span></strong></p>
+<div class="CATClearFloat"></div>
+<div class="MDView">
+<!-- Reviews 
+                    To turn on the review display select 'Reviews' from the 'Welcome, and Product Detail Content' selector on the CAT_StoreSettings module (CATALooK.netStore / Store Settings). 
+                    Reviews must be approved via CATALooK.netStore / Reviews before they will be posted. 
+                    To Edit the layout of the ReviewList control, login as Host, select [Edit Skin Files] from the module menu of the CAT_StoreSettings module and select '_ReviewList2' from the [Skin File] selector.
+                    The name of the ascx file in the skin folder \DesktopModules\CATALooKStore\Skins\Name of the currently selected skin in the store settings or the module options is: ~/desktopmodules/catalookstore/skins/cat_grey-css_bs3/_ReviewList2.ascx. 
+                    -->
+<div class="CATInlineItemLeft"></div>
+<!-- Related Products 
+                    To turn on the Related Products display select 'Related Products' from the 'Welcome, and Product Detail Content' selector on the CAT_StoreSettings module (CATALooK.netStore / Store Settings). 
+                    Product relations can be setup via module CAT_RelatedProducts (CATALooK.netStore / Related Products) 
+                    To Edit the layout of the Related Products (MINIDASHBOARD) control, login as Host, select [Edit Skin Files] from the module menu of the CAT_StoreSettings module and select '_MiniDashBoard' from the [Skin File] selector.
+                    The name of the ascx file in the skin folder \DesktopModules\CATALooKStore\Skins\Name of the currently selected skin in the store settings or the module options is: ~/desktopmodules/catalookstore/skins/cat_grey-css_bs3/_MiniDashBoard.ascx. 
+                    Select [View Options] from the module action menu and find more options in section: 'MiniDashBoard Options'. -->
+<div class="CATInlineItemLeft">
+<div class="CATSectionBorder" id="dnn_ctr464_ProductPage_RelatedProducts_pnlModuleContent">
+<div class="CATIPHeader"><span id="dnn_ctr464_ProductPage_RelatedProducts_lblTitle"></span></div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Propane torch hose</s:tag>
+    <s:tag>Torch</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7878948807</id>
+      <title>Default Title</title>
+      <s:price currency="USD">69.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/7878843207</id>
+    <published>2016-07-10T16:45:00-04:00</published>
+    <updated>2016-07-10T16:45:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/bernzomatic-self-igniting-torch-wt2301"/>
+    <title>Bernzomatic Self Igniting Torch  WT2301</title>
+    <s:type>Epoxy Resin</s:type>
+    <s:vendor>CreativeWholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/WT2301.jpg?v=1527225492"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CreativeWholesale<br>
+        <strong>Type: </strong>Epoxy Resin<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>BernzOmatic Self Igniting Torch  # WT2301 with adjustable Flame control</strong></p>
+<p><strong>Great torch for removing bubbles form epoxy coatings</strong></p>
+<p><strong>Combine with WH0159 hose attachment to make your own torch hose kit</strong></p>
+<p><strong>Propane Tank Not included</strong></p>
+<p><strong><span style="font-size: 16px;"><!-- Detailed Description End --> <!-- Tab Strip Begin 
+           Add tabs with text or controls (Related Products, Reviews, Also Purchased Products, Media Gallery Items etc) via [Main Data] page of module CAT_Products. 
+           If there is no tab with Text_HTML but tabs with other content controls and there is any text outside the TABS section, the text would be displayed in the lblItemHtmlHolder label --> <!-- Tab Strip End --> <!-- Additional Fields Begin 
+           Additonal Field setup can be found on the [Attributes] page of module CAT_Products  (CATALooK.netStore / Products / Search for a product / Full Page Edit / Attributes / 'Tokens / Additional Fields').
+           Search Token (Additional Field) selectors will also be displayed on the [Advanced Categories] page of module CAT_Products depending on the currently selected Advanced Categories.
+           Setup search for additional fields via module CAT_SearchNF / Select [View Options] from the module action menu / Token (Additional Field) search 
+           To not display additonal fields turn off the option 'Show tokens (additional fields) on product detail page?' in the module option. --> <!-- Additional Fields End --> <!-- Product Configurator (Configurable Items And Product Bundles Only) Begin 
+           To setup image size and viewer select [View Options] from the module menu of the CAT_ItemPaneNF module / 'Parameters for Images from [Image Options], [Additional Images] and Configurable Product Slot Images'. 
+           To find more options perform a search for 'config' on the module options page. 
+           Please find sample scenarios for configurable products and product bundles in chapter: 'Configurable product example' and 'Bundled Products'. --> <!-- Product Configurator (Configurable Items And Product Bundles Only) End --></span></strong></p>
+<div class="CATClearFloat"></div>
+<div class="MDView">
+<!-- Reviews 
+                    To turn on the review display select 'Reviews' from the 'Welcome, and Product Detail Content' selector on the CAT_StoreSettings module (CATALooK.netStore / Store Settings). 
+                    Reviews must be approved via CATALooK.netStore / Reviews before they will be posted. 
+                    To Edit the layout of the ReviewList control, login as Host, select [Edit Skin Files] from the module menu of the CAT_StoreSettings module and select '_ReviewList2' from the [Skin File] selector.
+                    The name of the ascx file in the skin folder \DesktopModules\CATALooKStore\Skins\Name of the currently selected skin in the store settings or the module options is: ~/desktopmodules/catalookstore/skins/cat_grey-css_bs3/_ReviewList2.ascx. 
+                    -->
+<div class="CATInlineItemLeft"></div>
+<!-- Related Products 
+                    To turn on the Related Products display select 'Related Products' from the 'Welcome, and Product Detail Content' selector on the CAT_StoreSettings module (CATALooK.netStore / Store Settings). 
+                    Product relations can be setup via module CAT_RelatedProducts (CATALooK.netStore / Related Products) 
+                    To Edit the layout of the Related Products (MINIDASHBOARD) control, login as Host, select [Edit Skin Files] from the module menu of the CAT_StoreSettings module and select '_MiniDashBoard' from the [Skin File] selector.
+                    The name of the ascx file in the skin folder \DesktopModules\CATALooKStore\Skins\Name of the currently selected skin in the store settings or the module options is: ~/desktopmodules/catalookstore/skins/cat_grey-css_bs3/_MiniDashBoard.ascx. 
+                    Select [View Options] from the module action menu and find more options in section: 'MiniDashBoard Options'. -->
+<div class="CATInlineItemLeft">
+<div class="CATSectionBorder" id="dnn_ctr464_ProductPage_RelatedProducts_pnlModuleContent">
+<div class="CATIPHeader"><span id="dnn_ctr464_ProductPage_RelatedProducts_lblTitle"></span></div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Propane torch hose</s:tag>
+    <s:tag>Torch</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7878843207</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/7874731463</id>
+    <published>2016-07-10T16:45:00-04:00</published>
+    <updated>2016-07-10T16:45:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/bernzomatic-universal-torch-extension-hose-6"/>
+    <title>BernzOmatic Universal Torch Extension Hose 5&apos;  #WH0159</title>
+    <s:type>Epoxy Resin</s:type>
+    <s:vendor>Worthington</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/WH0159.jpg?v=1527225493"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Worthington<br>
+        <strong>Type: </strong>Epoxy Resin<br>
+        <strong>Price: </strong>
+            23.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-size: 16px;"><strong>BernzOmatic Universal Torch Extension Hose 5'</strong></span></p>
+<p><strong><span style="font-size: 16px;">Add this hose to your present Propane Torch and tanks to assist in large projects.</span></strong></p>
+<p><strong><span style="font-size: 16px;">Perfect for removing bubbles on large Epoxy coating applications.</span></strong></p>
+<p><strong><span style="font-size: 16px;">Make your own torch and hose kit.  See torches WT2301 and UL2317</span></strong></p>
+<p><strong><span style="font-size: 16px;">Propane Canister Not Included.</span></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Propane torch hose</s:tag>
+    <s:tag>Torch</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7874731463</id>
+      <title>Default Title</title>
+      <s:price currency="USD">23.97</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/7813740295</id>
+    <published>2016-07-10T16:45:00-04:00</published>
+    <updated>2016-07-10T16:45:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/copy-of-mixing-cup-set-6-cups-6-stir-sticks-and-3-brushes-1013"/>
+    <title>Epoxy Spreader   TRL1</title>
+    <s:type>Plastic Trowel</s:type>
+    <s:vendor>CreativeWholesale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/TRL_Spreader.jpg?v=1527227708"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CreativeWholesale<br>
+        <strong>Type: </strong>Plastic Trowel<br>
+        <strong>Price: </strong>
+            0.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong><span style="font-size: 18px;">Epoxy-Spreader   </span></strong></p>
+<p><strong><span style="font-size: 18px;">Spreader is 4"x4",  with 1/4", 1/8", 1/16" notches and a flat side for thin or skim coats</span></strong></p>
+<p><strong><span style="font-size: 18px;">Use this trowel to spread Epoxy Coatings over your project</span></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Epocy spreader</s:tag>
+    <s:tag>trowel</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7813740295</id>
+      <title>Default Title</title>
+      <s:price currency="USD">0.99</s:price>
+      <s:sku>TRL1</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/9841766026</id>
+    <published>2016-06-24T11:14:00-04:00</published>
+    <updated>2016-06-24T11:14:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/ex-88-epoxy-coating-case-of-4-gallons"/>
+    <title>EX-88 Epoxy Coating Case of 4 Gallons  01188 CASE</title>
+    <s:type>Epoxy Resin</s:type>
+    <s:vendor>Environmental Technology</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/01188_EX88_CASE.jpg?v=1527227710"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Environmental Technology<br>
+        <strong>Type: </strong>Epoxy Resin<br>
+        <strong>Price: </strong>
+            211.58
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="font: italic 17px/24px 'Century Gothic', Verdana, Arial, Helvetica, sans-serif, 'Avant Garde'; margin: 0px 0px 10px; padding: 0px; border: 0px currentColor; text-align: left; color: #777777; text-transform: none; text-indent: 0px; letter-spacing: normal; word-spacing: 0px; vertical-align: baseline; white-space: normal; box-sizing: border-box; widows: 1; font-size-adjust: none; font-stretch: inherit; background-color: #ffffff; -webkit-text-stroke-width: 0px;"><strong>EX-88 Epoxy Coating, Case of 4 Gallons, (2 gallons Resin, 2 gallons hardener)<br></strong></p>
+<p style="font: italic 17px/24px 'Century Gothic', Verdana, Arial, Helvetica, sans-serif, 'Avant Garde'; margin: 0px 0px 10px; padding: 0px; border: 0px currentColor; text-align: left; color: #777777; text-transform: none; text-indent: 0px; letter-spacing: normal; word-spacing: 0px; vertical-align: baseline; white-space: normal; box-sizing: border-box; widows: 1; font-size-adjust: none; font-stretch: inherit; background-color: #ffffff; -webkit-text-stroke-width: 0px;"><strong>EX</strong><strong style="margin: 0px; padding: 0px; border: 0px currentColor; line-height: inherit; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; vertical-align: baseline; box-sizing: border-box; font-stretch: inherit;">-88 is an extremely clear, tough, high gloss surface coating formulated to produce a deep glass like appearance in a single layer on a sealed surface. EX-88 has an extended “open time” which allows up to 5 minutes in the mixing container at 70º F and up to one hour working time on the surface being coated.</strong></p>
+<p style="font: italic 17px/24px 'Century Gothic', Verdana, Arial, Helvetica, sans-serif, 'Avant Garde'; margin: 0px 0px 10px; padding: 0px; border: 0px currentColor; text-align: left; color: #777777; text-transform: none; text-indent: 0px; letter-spacing: normal; word-spacing: 0px; vertical-align: baseline; white-space: normal; box-sizing: border-box; widows: 1; font-size-adjust: none; font-stretch: inherit; background-color: #ffffff; -webkit-text-stroke-width: 0px;"><strong style="margin: 0px; padding: 0px; border: 0px currentColor; line-height: inherit; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; vertical-align: baseline; box-sizing: border-box; font-stretch: inherit;">Ex-88 is used for creating a deep high gloss coating on bar tops, table tops, plaques, and many other applications.  </strong></p>
+<p style="font: italic 17px/24px 'Century Gothic', Verdana, Arial, Helvetica, sans-serif, 'Avant Garde'; margin: 0px 0px 10px; padding: 0px; border: 0px currentColor; text-align: left; color: #777777; text-transform: none; text-indent: 0px; letter-spacing: normal; word-spacing: 0px; vertical-align: baseline; white-space: normal; box-sizing: border-box; widows: 1; font-size-adjust: none; font-stretch: inherit; background-color: #ffffff; -webkit-text-stroke-width: 0px;"><strong style="margin: 0px; padding: 0px; border: 0px currentColor; line-height: inherit; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; vertical-align: baseline; box-sizing: border-box; font-stretch: inherit;">EX-88 is waterproof, heat &amp; alcohol resistant.</strong></p>
+<p style="font: italic 17px/24px 'Century Gothic', Verdana, Arial, Helvetica, sans-serif, 'Avant Garde'; margin: 0px 0px 10px; padding: 0px; border: 0px currentColor; text-align: left; color: #777777; text-transform: none; text-indent: 0px; letter-spacing: normal; word-spacing: 0px; vertical-align: baseline; white-space: normal; box-sizing: border-box; widows: 1; font-size-adjust: none; font-stretch: inherit; background-color: #ffffff; -webkit-text-stroke-width: 0px;"><strong style="margin: 0px; padding: 0px; border: 0px currentColor; line-height: inherit; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; vertical-align: baseline; box-sizing: border-box; font-stretch: inherit;">Coverage:</strong></p>
+<p style="font: italic 17px/24px 'Century Gothic', Verdana, Arial, Helvetica, sans-serif, 'Avant Garde'; margin: 0px 0px 10px; padding: 0px; border: 0px currentColor; text-align: left; color: #777777; text-transform: none; text-indent: 0px; letter-spacing: normal; word-spacing: 0px; vertical-align: baseline; white-space: normal; box-sizing: border-box; widows: 1; font-size-adjust: none; font-stretch: inherit; background-color: #ffffff; -webkit-text-stroke-width: 0px;"><strong style="margin: 0px; padding: 0px; border: 0px currentColor; line-height: inherit; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; vertical-align: baseline; box-sizing: border-box; font-stretch: inherit;">32 square feet per gallon of mixed product.</strong></p>
+<p style="font: italic 17px/24px 'Century Gothic', Verdana, Arial, Helvetica, sans-serif, 'Avant Garde'; margin: 0px 0px 10px; padding: 0px; border: 0px currentColor; text-align: left; color: #777777; text-transform: none; text-indent: 0px; letter-spacing: normal; word-spacing: 0px; vertical-align: baseline; white-space: normal; box-sizing: border-box; widows: 1; font-size-adjust: none; font-stretch: inherit; background-color: #ffffff; -webkit-text-stroke-width: 0px;"> </p>
+<p style="font: italic 17px/24px 'Century Gothic', Verdana, Arial, Helvetica, sans-serif, 'Avant Garde'; margin: 0px 0px 10px; padding: 0px; border: 0px currentColor; text-align: left; color: #777777; text-transform: none; text-indent: 0px; letter-spacing: normal; word-spacing: 0px; vertical-align: baseline; white-space: normal; box-sizing: border-box; widows: 1; font-size-adjust: none; font-stretch: inherit; background-color: #ffffff; -webkit-text-stroke-width: 0px;"><strong style="margin: 0px; padding: 0px; border: 0px currentColor; line-height: inherit; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; vertical-align: baseline; box-sizing: border-box; font-stretch: inherit;"><a href="https://cdn.shopify.com/s/files/1/1352/9355/files/EX88-Industrial-Instructions4.pdf?9058367163137559808"><span style="font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; vertical-align: baseline; box-sizing: border-box; font-size-adjust: inherit; font-stretch: inherit;"><span class="style1" style="margin: 0px; padding: 0px; border: 0px currentColor; color: #ff0000; line-height: inherit; font-family: inherit; font-size: 13px; font-style: inherit; font-variant: inherit; font-weight: inherit; vertical-align: baseline; box-sizing: border-box; font-stretch: inherit; background-color: #ffffff;"><span style="font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; color: #0000ff; vertical-align: baseline; box-sizing: border-box; font-size-adjust: inherit; font-stretch: inherit;">Application Instructions </span></span></span></a></strong></p>
+<p style="font: italic 17px/24px 'Century Gothic', Verdana, Arial, Helvetica, sans-serif, 'Avant Garde'; margin: 0px 0px 10px; padding: 0px; border: 0px currentColor; text-align: left; color: #777777; text-transform: none; text-indent: 0px; letter-spacing: normal; word-spacing: 0px; vertical-align: baseline; white-space: normal; box-sizing: border-box; widows: 1; font-size-adjust: none; font-stretch: inherit; background-color: #ffffff; -webkit-text-stroke-width: 0px;"><span style="font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; vertical-align: baseline; box-sizing: border-box; font-size-adjust: inherit; font-stretch: inherit;"><span class="style1" style="margin: 0px; padding: 0px; border: 0px currentColor; color: #ff0000; line-height: inherit; font-family: inherit; font-size: 13px; font-style: inherit; font-variant: inherit; font-weight: inherit; vertical-align: baseline; box-sizing: border-box; font-stretch: inherit; background-color: #ffffff;"><strong style="margin: 0px; padding: 0px; border: 0px currentColor; line-height: inherit; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; vertical-align: baseline; box-sizing: border-box; font-stretch: inherit;">Notice:   For Air Shipments, this product is classified as Hazardous.  Additional HazMat Fees apply.  This fee is in addition to the shipping fee shown at checkout, and will be added to your total .   See Terms and Conditions.  </strong></span></span><span style="font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; vertical-align: baseline; box-sizing: border-box; font-size-adjust: inherit; font-stretch: inherit;"><span class="style1" style="margin: 0px; padding: 0px; border: 0px currentColor; color: #ff0000; line-height: inherit; font-family: inherit; font-size: 13px; font-style: inherit; font-variant: inherit; font-weight: inherit; vertical-align: baseline; box-sizing: border-box; font-stretch: inherit; background-color: #ffffff;"><strong style="margin: 0px; padding: 0px; border: 0px currentColor; line-height: inherit; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; vertical-align: baseline; box-sizing: border-box; font-stretch: inherit;"><span style="font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; color: #0000ff; vertical-align: baseline; box-sizing: border-box; font-size-adjust: inherit; font-stretch: inherit;">NO EXTRA HAZMAT SHIPPING CHARGE FOR GROUND UPS SHIPPING.</span></strong></span></span></p>
+<p><span style="font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; vertical-align: baseline; box-sizing: border-box; font-size-adjust: inherit; font-stretch: inherit;"><span class="style1" style="margin: 0px; padding: 0px; border: 0px currentColor; color: #ff0000; line-height: inherit; font-family: inherit; font-size: 13px; font-style: inherit; font-variant: inherit; font-weight: inherit; vertical-align: baseline; box-sizing: border-box; font-stretch: inherit; background-color: #ffffff;"><strong style="margin: 0px; padding: 0px; border: 0px currentColor; line-height: inherit; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; vertical-align: baseline; box-sizing: border-box; font-stretch: inherit;"><span style="font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; color: #0000ff; vertical-align: baseline; box-sizing: border-box; font-size-adjust: inherit; font-stretch: inherit;"><a href="https://cdn.shopify.com/s/files/1/1352/9355/files/MSDS-SDS_-_US_ENG_-_EX-88_RESIN_-_2016-03-22_02.pdf?2185531320141523814">SDS for EX88 resin </a>       </span></strong></span></span></p>
+<p><span style="font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; vertical-align: baseline; box-sizing: border-box; font-size-adjust: inherit; font-stretch: inherit;"><span class="style1" style="margin: 0px; padding: 0px; border: 0px currentColor; color: #ff0000; line-height: inherit; font-family: inherit; font-size: 13px; font-style: inherit; font-variant: inherit; font-weight: inherit; vertical-align: baseline; box-sizing: border-box; font-stretch: inherit; background-color: #ffffff;"><strong style="margin: 0px; padding: 0px; border: 0px currentColor; line-height: inherit; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; vertical-align: baseline; box-sizing: border-box; font-stretch: inherit;"><span style="font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; color: #0000ff; vertical-align: baseline; box-sizing: border-box; font-size-adjust: inherit; font-stretch: inherit;"><a href="https://cdn.shopify.com/s/files/1/1352/9355/files/MSDS-SDS_-_US_ENG_-_EX-88_HARDENER_-_2016-03-22_02.pdf?2185531320141523814">SDS for EX88 hardener</a></span></strong></span></span></p>
+<p> </p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Art Resin</s:tag>
+    <s:tag>Bar Top Epoxy</s:tag>
+    <s:tag>Epoxy Coating</s:tag>
+    <s:tag>EX-88</s:tag>
+    <s:tag>EX88</s:tag>
+    <s:tag>fluid art</s:tag>
+    <s:tag>Liquid Art</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/9841766026</id>
+      <title>Default Title</title>
+      <s:price currency="USD">211.58</s:price>
+      <s:sku></s:sku>
+      <s:grams>18144</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/7342118791</id>
+    <published>2016-06-24T11:14:00-04:00</published>
+    <updated>2016-06-24T11:14:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/ex-88-epoxy-coating-two-gallon-kit-110-99"/>
+    <title>EX-88 Epoxy Coating Two Gallon Kit 01188</title>
+    <s:type>Epoxy Resin</s:type>
+    <s:vendor>Environmental Technology</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/ex88f.jpg?v=1527227711"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Environmental Technology<br>
+        <strong>Type: </strong>Epoxy Resin<br>
+        <strong>Price: </strong>
+            110.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="font: italic 17px/24px 'Century Gothic', Verdana, Arial, Helvetica, sans-serif, 'Avant Garde'; margin: 0px 0px 10px; padding: 0px; border: 0px currentColor; text-align: left; color: #777777; text-transform: none; text-indent: 0px; letter-spacing: normal; word-spacing: 0px; vertical-align: baseline; white-space: normal; box-sizing: border-box; widows: 1; font-size-adjust: none; font-stretch: inherit; background-color: #ffffff; -webkit-text-stroke-width: 0px;"><strong>EX-88 Epoxy Coating, Two Gallon Kit, (one gallon Resin, one gallon hardener)<br></strong></p>
+<p style="font: italic 17px/24px 'Century Gothic', Verdana, Arial, Helvetica, sans-serif, 'Avant Garde'; margin: 0px 0px 10px; padding: 0px; border: 0px currentColor; text-align: left; color: #777777; text-transform: none; text-indent: 0px; letter-spacing: normal; word-spacing: 0px; vertical-align: baseline; white-space: normal; box-sizing: border-box; widows: 1; font-size-adjust: none; font-stretch: inherit; background-color: #ffffff; -webkit-text-stroke-width: 0px;"><strong>EX</strong><strong style="margin: 0px; padding: 0px; border: 0px currentColor; line-height: inherit; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; vertical-align: baseline; box-sizing: border-box; font-stretch: inherit;">-88 is an extremely clear, tough, high gloss surface coating formulated to produce a deep glass like appearance in a single layer on a sealed surface. EX-88 has an extended “open time” which allows up to 5 minutes in the mixing container at 70º F and up to one hour working time on the surface being coated.</strong></p>
+<p style="font: italic 17px/24px 'Century Gothic', Verdana, Arial, Helvetica, sans-serif, 'Avant Garde'; margin: 0px 0px 10px; padding: 0px; border: 0px currentColor; text-align: left; color: #777777; text-transform: none; text-indent: 0px; letter-spacing: normal; word-spacing: 0px; vertical-align: baseline; white-space: normal; box-sizing: border-box; widows: 1; font-size-adjust: none; font-stretch: inherit; background-color: #ffffff; -webkit-text-stroke-width: 0px;"><strong style="margin: 0px; padding: 0px; border: 0px currentColor; line-height: inherit; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; vertical-align: baseline; box-sizing: border-box; font-stretch: inherit;">Ex-88 is used for creating a deep high gloss coating on bar tops, table tops, plaques, and many other applications.  </strong></p>
+<p style="font: italic 17px/24px 'Century Gothic', Verdana, Arial, Helvetica, sans-serif, 'Avant Garde'; margin: 0px 0px 10px; padding: 0px; border: 0px currentColor; text-align: left; color: #777777; text-transform: none; text-indent: 0px; letter-spacing: normal; word-spacing: 0px; vertical-align: baseline; white-space: normal; box-sizing: border-box; widows: 1; font-size-adjust: none; font-stretch: inherit; background-color: #ffffff; -webkit-text-stroke-width: 0px;"><strong style="margin: 0px; padding: 0px; border: 0px currentColor; line-height: inherit; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; vertical-align: baseline; box-sizing: border-box; font-stretch: inherit;">EX-88 is waterproof, heat &amp; alcohol resistant.</strong></p>
+<p><strong>Coverage:       </strong><strong>32 square feet per gallon of mixed product.</strong></p>
+<p style="font: italic 17px/24px 'Century Gothic', Verdana, Arial, Helvetica, sans-serif, 'Avant Garde'; margin: 0px 0px 10px; padding: 0px; border: 0px currentColor; text-align: left; color: #777777; text-transform: none; text-indent: 0px; letter-spacing: normal; word-spacing: 0px; vertical-align: baseline; white-space: normal; box-sizing: border-box; widows: 1; font-size-adjust: none; font-stretch: inherit; background-color: #ffffff; -webkit-text-stroke-width: 0px;"><strong style="margin: 0px; padding: 0px; border: 0px currentColor; line-height: inherit; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; vertical-align: baseline; box-sizing: border-box; font-stretch: inherit;"><a href="https://cdn.shopify.com/s/files/1/1352/9355/files/EX88-Industrial-Instructions4.pdf?9058367163137559808"><span style="font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; vertical-align: baseline; box-sizing: border-box; font-size-adjust: inherit; font-stretch: inherit;"><span class="style1" style="margin: 0px; padding: 0px; border: 0px currentColor; color: #ff0000; line-height: inherit; font-family: inherit; font-size: 13px; font-style: inherit; font-variant: inherit; font-weight: inherit; vertical-align: baseline; box-sizing: border-box; font-stretch: inherit; background-color: #ffffff;"><span style="font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; color: #0000ff; vertical-align: baseline; box-sizing: border-box; font-size-adjust: inherit; font-stretch: inherit;">Application Instructions </span></span></span></a></strong></p>
+<p style="font: italic 17px/24px 'Century Gothic', Verdana, Arial, Helvetica, sans-serif, 'Avant Garde'; margin: 0px 0px 10px; padding: 0px; border: 0px currentColor; text-align: left; color: #777777; text-transform: none; text-indent: 0px; letter-spacing: normal; word-spacing: 0px; vertical-align: baseline; white-space: normal; box-sizing: border-box; widows: 1; font-size-adjust: none; font-stretch: inherit; background-color: #ffffff; -webkit-text-stroke-width: 0px;"><span style="font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; vertical-align: baseline; box-sizing: border-box; font-size-adjust: inherit; font-stretch: inherit;"><span class="style1" style="margin: 0px; padding: 0px; border: 0px currentColor; color: #ff0000; line-height: inherit; font-family: inherit; font-size: 13px; font-style: inherit; font-variant: inherit; font-weight: inherit; vertical-align: baseline; box-sizing: border-box; font-stretch: inherit; background-color: #ffffff;"><strong style="margin: 0px; padding: 0px; border: 0px currentColor; line-height: inherit; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; vertical-align: baseline; box-sizing: border-box; font-stretch: inherit;">Notice:   For Air Shipments, this product is classified as Hazardous.  Additional HazMat Fees apply.  This fee is in addition to the shipping fee shown at checkout, and will be added to your total .   See Terms and Conditions.  </strong></span></span><span style="font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; vertical-align: baseline; box-sizing: border-box; font-size-adjust: inherit; font-stretch: inherit;"><span class="style1" style="margin: 0px; padding: 0px; border: 0px currentColor; color: #ff0000; line-height: inherit; font-family: inherit; font-size: 13px; font-style: inherit; font-variant: inherit; font-weight: inherit; vertical-align: baseline; box-sizing: border-box; font-stretch: inherit; background-color: #ffffff;"><strong style="margin: 0px; padding: 0px; border: 0px currentColor; line-height: inherit; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; vertical-align: baseline; box-sizing: border-box; font-stretch: inherit;"><span style="font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; color: #0000ff; vertical-align: baseline; box-sizing: border-box; font-size-adjust: inherit; font-stretch: inherit;">NO EXTRA HAZMAT SHIPPING CHARGE FOR GROUND UPS SHIPPING.</span></strong></span></span></p>
+<p><span style="font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; vertical-align: baseline; box-sizing: border-box; font-size-adjust: inherit; font-stretch: inherit;"><span class="style1" style="margin: 0px; padding: 0px; border: 0px currentColor; color: #ff0000; line-height: inherit; font-family: inherit; font-size: 13px; font-style: inherit; font-variant: inherit; font-weight: inherit; vertical-align: baseline; box-sizing: border-box; font-stretch: inherit; background-color: #ffffff;"><strong style="margin: 0px; padding: 0px; border: 0px currentColor; line-height: inherit; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; vertical-align: baseline; box-sizing: border-box; font-stretch: inherit;"><span style="font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; color: #0000ff; vertical-align: baseline; box-sizing: border-box; font-size-adjust: inherit; font-stretch: inherit;"><a href="https://cdn.shopify.com/s/files/1/1352/9355/files/MSDS-SDS_-_US_ENG_-_EX-88_RESIN_-_2016-03-22_02.pdf?2185531320141523814">SDS for EX88 resin </a>       </span></strong></span></span></p>
+<p><span style="font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; vertical-align: baseline; box-sizing: border-box; font-size-adjust: inherit; font-stretch: inherit;"><span class="style1" style="margin: 0px; padding: 0px; border: 0px currentColor; color: #ff0000; line-height: inherit; font-family: inherit; font-size: 13px; font-style: inherit; font-variant: inherit; font-weight: inherit; vertical-align: baseline; box-sizing: border-box; font-stretch: inherit; background-color: #ffffff;"><strong style="margin: 0px; padding: 0px; border: 0px currentColor; line-height: inherit; font-family: inherit; font-size: inherit; font-style: inherit; font-variant: inherit; font-weight: bold; vertical-align: baseline; box-sizing: border-box; font-stretch: inherit;"><span style="font: inherit; margin: 0px; padding: 0px; border: 0px currentColor; color: #0000ff; vertical-align: baseline; box-sizing: border-box; font-size-adjust: inherit; font-stretch: inherit;"><a href="https://cdn.shopify.com/s/files/1/1352/9355/files/MSDS-SDS_-_US_ENG_-_EX-88_HARDENER_-_2016-03-22_02.pdf?2185531320141523814">SDS for EX88 hardener</a></span></strong></span></span></p>
+<p> </p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Art Resin</s:tag>
+    <s:tag>Bar Top Epoxy</s:tag>
+    <s:tag>Epoxy Coating</s:tag>
+    <s:tag>EX-88</s:tag>
+    <s:tag>EX88</s:tag>
+    <s:tag>fluid art</s:tag>
+    <s:tag>Liquid Art</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7342118791</id>
+      <title>Default Title</title>
+      <s:price currency="USD">110.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>9072</s:grams>
+    </s:variant>
+  </entry>
+</feed>

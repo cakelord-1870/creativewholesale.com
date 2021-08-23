@@ -1,0 +1,550 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://creativewholesale.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://creativewholesale.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://creativewholesale.com/collections/sculpey-kits-multipacks-samplers.atom"/>
+  <title>Creative Wholesale</title>
+  <updated>2018-05-24T17:11:27-04:00</updated>
+  <author>
+    <name>Creative Wholesale</name>
+  </author>
+  <entry>
+    <id>https://creativewholesale.com/products/7287216199</id>
+    <published>2018-05-24T17:11:27-04:00</published>
+    <updated>2018-05-24T17:11:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/premo-sculpey-multipack-sampler-24-x-1-ounce"/>
+    <title>Premo! Sculpey Multipack,  Sampler, 24 x 1oz. PE MP024</title>
+    <s:type>Polymer Clay</s:type>
+    <s:vendor>Polyform</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/pemp024-_premo_24_multi_pack.jpeg?v=1579534092"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Polyform<br>
+        <strong>Type: </strong>Polymer Clay<br>
+        <strong>Price: </strong>
+            17.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>PREMO Sculpey Multipack Sampler, 24 one ounce bars.</p>
+<p>The same great polymer clay as Premo! but these enhanced clays allow for making exciting and unique projects.<br><br><span style="color: #000000; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; display: inline !important; float: none;"><span style="color: #000000; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;">24 - one ounce bars,  colors included:  5001 White, 5101 Pearl, 5310 Translucent, 5093 Ecru, 5525 Sunshine, 5572 Cadmium Yellow Hue, 5022 Wasabi, 5035 Bright Green Pearl, 5007 Spanish Olive, 5033 Orange, 5026 Pomegranate, 5029 Magenta Pearl, 5031 Purple Pearl, 5513 Purple, 5505 Turquoise, 5038 Peacock Pearl, 5303 Gold, 5517 Antique Gold, 5067 Copper, 5519 Bronze, 5053 Burnt Umber, 5065 Gray Granite, 5129 Silver, 5042 Black.</span></span><br><br><br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Craft Clay</s:tag>
+    <s:tag>Polymer Clay</s:tag>
+    <s:tag>Premo Mulitpack</s:tag>
+    <s:tag>Premo Sculpey Multipack</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287216199</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.10</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/7287109959</id>
+    <published>2018-05-21T08:26:13-04:00</published>
+    <updated>2018-05-21T08:26:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/baby-impression-kit-k3-4002"/>
+    <title>Baby Impression Kit K3 4002</title>
+    <s:type>polymer clay kits</s:type>
+    <s:vendor>Polyform</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/k34002BabyImpression.jpg?v=1629138541"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Polyform<br>
+        <strong>Type: </strong>polymer clay kits<br>
+        <strong>Price: </strong>
+            7.02
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Baby Impression Kit K3 4002</p>
+<p>Babies grow so fast! Complete kit includes everything you need to capture a moment in time. Ideal for a new parent or grandparent gift.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287109959</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.02</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/11402029588</id>
+    <published>2017-12-18T11:39:25-05:00</published>
+    <updated>2017-12-18T11:39:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/premo-sculpey-multipack-classic-12-x-1-ounce-pe-vmc-12"/>
+    <title>Premo! Sculpey Multipack Classic  12 X 1 ounce  PE VMC-12</title>
+    <s:type>polymer clay kits</s:type>
+    <s:vendor>Polyform</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/pe-vmc-12_1.jpg?v=1579534091"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Polyform<br>
+        <strong>Type: </strong>polymer clay kits<br>
+        <strong>Price: </strong>
+            8.74
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="box-sizing: border-box; margin: 0px 0px 10px; padding: 0px; border: 0px none; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-numeric: inherit; font-weight: normal; font-stretch: inherit; font-size: 14px; line-height: inherit; font-family: 'Century Gothic',Verdana,Arial,Helvetica,sans-serif,'Avant Garde'; vertical-align: baseline; color: #000000; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px;"><span style="background-color: #eeeeee;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px none; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: 18px; line-height: inherit; font-family: Arial; vertical-align: baseline;"><strong style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px none; font-style: inherit; font-variant: inherit; font-weight: bold; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">﻿﻿Premo! Sculpey Multipack, Classics,  PE VMC-12</strong></span></span></p>
+<span style="background-color: #eeeeee;"> </span>
+<p style="box-sizing: border-box; margin: 0px 0px 10px; padding: 0px; border: 0px none; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-numeric: inherit; font-weight: normal; font-stretch: inherit; font-size: 14px; line-height: inherit; font-family: 'Century Gothic',Verdana,Arial,Helvetica,sans-serif,'Avant Garde'; vertical-align: baseline; color: #000000; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px;"><span style="background-color: #eeeeee;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px none; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: 18px; line-height: inherit; font-family: Arial; vertical-align: baseline;"><strong style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px none; font-style: inherit; font-variant: inherit; font-weight: bold; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">12 - One ounce bars</strong></span></span></p>
+<span style="background-color: #eeeeee;"> </span>
+<p style="box-sizing: border-box; margin: 0px 0px 10px; padding: 0px; border: 0px none; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-numeric: inherit; font-weight: normal; font-stretch: inherit; font-size: 14px; line-height: inherit; font-family: 'Century Gothic',Verdana,Arial,Helvetica,sans-serif,'Avant Garde'; vertical-align: baseline; color: #000000; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px;"><span style="background-color: #eeeeee;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px none; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: 18px; line-height: inherit; font-family: Arial; vertical-align: baseline;"><strong style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px none; font-style: inherit; font-variant: inherit; font-weight: bold; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">The same great polymer clay as Premo! but these enhanced clays allow for making exciting and unique projects.</strong></span></span></p>
+<span style="background-color: #eeeeee;"> </span>
+<p style="box-sizing: border-box; margin: 0px 0px 10px; padding: 0px; border: 0px none; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-numeric: inherit; font-weight: normal; font-stretch: inherit; font-size: 14px; line-height: inherit; font-family: 'Century Gothic',Verdana,Arial,Helvetica,sans-serif,'Avant Garde'; vertical-align: baseline; color: #000000; letter-spacing: normal; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px;"><span style="background-color: #eeeeee;"><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px none; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: 18px; line-height: inherit; font-family: Arial; vertical-align: baseline;"><strong style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px none; font-style: inherit; font-variant: inherit; font-weight: bold; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">This Set includes.  5513 Purple,  5063 Cobalt Blue Hue, 5323 Green, 5072 Zinc Yellow Hue, 5042 Black,  5129 Silver, 5529 Rhino Gray, 5001 White, 5053 Burnt Umber, 5382 Cadmium Red Hue, 5033 Orange and  5303 Gold.﻿</strong></span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Premo Multipack</s:tag>
+    <s:tag>Premo Sculpey</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/11402029588</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.74</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/7287217543</id>
+    <published>2017-12-07T13:43:00-05:00</published>
+    <updated>2017-12-07T13:43:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/copy-of-sculpey-iii-mulltipacks-naturals-10-x-2-ounce"/>
+    <title>Sculpey III Mulltipacks, Naturals 10 x 2 ounce, S3 MP 0300-1</title>
+    <s:type>Polymer Clay</s:type>
+    <s:vendor>Polyform</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/s3mp_03001_naturals.jpeg?v=1579534145"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Polyform<br>
+        <strong>Type: </strong>Polymer Clay<br>
+        <strong>Price: </strong>
+            12.94
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="margin: 0px 0px 1em; line-height: 1.4; color: #000000; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px;">Sculpey III Mulltipacks, Naturals 10 x 2 ounce, S3 MP 0300-1</p>
+<p style="margin: 0px 0px 1em; line-height: 1.4; color: #000000; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px;">Sculpey III, Multipack Naturals  </p>
+<p style="margin: 0px 0px 1em; line-height: 1.4; color: #000000; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px;">10 - 2 ounce bars, Incudes 001 White, 042 Black, 1645 Elephant Gray, 360 Camouflage, 083 Red, 1657 Hazelnut, 033 Sweet Potato, 093 Beige, 1109 Suede Brown, and 301 Tan.<br><br>Perfect gift or party prize!  This is the perfect creative gift!  Economical too! </p>
+<p style="margin: 0px 0px 1em; line-height: 1.4; color: #000000; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px;"><br>Pre-packs are a great way to experiment with the Sculpey III color family. Detailed instructions guide the new user in the basics of clay techniques. <br><br>Sets include detailed instructions and project brochures.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Craft Clay</s:tag>
+    <s:tag>Polymer Clay</s:tag>
+    <s:tag>Sculpey</s:tag>
+    <s:tag>Sculpey III Multipacks</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287217543</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.94</s:price>
+      <s:sku></s:sku>
+      <s:grams>652</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/7287217031</id>
+    <published>2017-12-07T13:42:00-05:00</published>
+    <updated>2017-12-07T13:42:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/sculpey-iii-mulltipacks-bright-ideas-10-x-2-ounce"/>
+    <title>Sculpey III Mulltipacks, Bright Ideas  10 x 2 ounce, S3 MP 0500-1</title>
+    <s:type>Polymer Clay</s:type>
+    <s:vendor>Polyform</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/s3mp_05001_brights.jpeg?v=1579534143"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Polyform<br>
+        <strong>Type: </strong>Polymer Clay<br>
+        <strong>Price: </strong>
+            12.94
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="margin: 0px 0px 1em; line-height: 1.4; color: #000000; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px;">Sculpey III Mulltipacks, Bright Ideas 10 x 2 ounce, S3 MP 0500-1</p>
+<p style="margin: 0px 0px 1em; line-height: 1.4; color: #000000; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px;">Sculpey III, Multipack Bright Ideas  </p>
+<p style="margin: 0px 0px 1em; line-height: 1.4; color: #000000; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px;">Contains 10 - 2 ounce bars, 1629 Granny Smith, 503 Hot Pink, 1112 Fuschia Pearl, 1634 Just Orange, 515 Violet, 505 Turquoise, 001 White, 513 Purple, 072 Yellow, and 583 Red Hot Red.</p>
+<p style="margin: 0px 0px 1em; line-height: 1.4; color: #000000; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px;">Perfect gift or party prize!  This is the perfect creative gift!  Economical too! </p>
+<p style="margin: 0px 0px 1em; line-height: 1.4; color: #000000; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px;"><br>Pre-packs are a great way to experiment with the Sculpey III color family. Detailed instructions guide the new user in the basics of clay techniques. <br><br>Sets include detailed instructions and project brochures.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Craft Clay</s:tag>
+    <s:tag>Polymer Clay</s:tag>
+    <s:tag>Sculpey</s:tag>
+    <s:tag>Sculpey III Multipacks</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287217031</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.94</s:price>
+      <s:sku></s:sku>
+      <s:grams>652</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/11402029780</id>
+    <published>2017-12-07T13:34:00-05:00</published>
+    <updated>2017-12-07T13:34:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/copy-of-premo-sculpey-multipack-classic-12-x-1-ounce-pe-vmc-12"/>
+    <title>Premo Sculpey Accents Multipack Mixed Effects  12 X 1 ounce  PE VMS-12</title>
+    <s:type>polymer clay kits</s:type>
+    <s:vendor>Polyform</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/PE_VMS-12_Mixed_Effects.jpg?v=1579534090"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Polyform<br>
+        <strong>Type: </strong>polymer clay kits<br>
+        <strong>Price: </strong>
+            8.93
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px none; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: 18px; line-height: inherit; font-family: Arial; vertical-align: baseline;"><strong style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px none; font-style: inherit; font-variant: inherit; font-weight: bold; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;">﻿<span style="color: #000000;">PREMO Sculpey Accents Multipack, Mixed Effects,  PE VMS-12</span></strong></span></h5>
+<h5><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px none; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: 18px; line-height: inherit; font-family: Arial; vertical-align: baseline;"><strong style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px none; font-style: inherit; font-variant: inherit; font-weight: bold; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;"><span style="color: #000000;">12 - One ounce Bars</span></strong></span></h5>
+<p><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px none; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: 18px; line-height: inherit; font-family: Arial; vertical-align: baseline;"><strong style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px none; font-style: inherit; font-variant: inherit; font-weight: bold; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;"><span style="color: #000000;">The same great polymer clay as Premo! but these enhanced clays allow for making exciting and unique projects.</span></strong></span></p>
+<p><span style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px none; font-style: inherit; font-variant: inherit; font-weight: inherit; font-stretch: inherit; font-size: 18px; line-height: inherit; font-family: Arial; vertical-align: baseline;"><strong style="box-sizing: border-box; margin: 0px; padding: 0px; border: 0px none; font-style: inherit; font-variant: inherit; font-weight: bold; font-stretch: inherit; font-size: inherit; line-height: inherit; font-family: inherit; vertical-align: baseline;"><span style="color: #000000;">This set includes:  5109, Opal, 5503 Pink Fluorescent, 5065 Gray Granite, 5503 Twinkle Twinkle, 5600 Yellow Fluorescent, 5540 Twinkle Twinkle, 5147 Yellow Gold Glitter, 5132 White Gold Glitter, 5135 Rose Gold Glitter, 5115 Sunset Pearl, 5035 Bright Green Pearl,  and 5038 Peacock Pearl.</span></strong></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Premo Multipack</s:tag>
+    <s:tag>Premo Sculpey</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/11402029780</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.93</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/7287111111</id>
+    <published>2017-03-13T13:55:00-04:00</published>
+    <updated>2017-03-13T13:55:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/h3001"/>
+    <title>Deluxe Pawprint Ornament Kit H3001 Christmas Sale</title>
+    <s:type>polymer clay kits</s:type>
+    <s:vendor>Polyform</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/H3001.jpeg?v=1545665264"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Polyform<br>
+        <strong>Type: </strong>polymer clay kits<br>
+        <strong>Price: </strong>
+            7.02
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Deluxe Pawprint Ornament Kit H3001</p>
+<p>CHRISTMAS SALE - LIMITED QUANTITIES</p>
+<p>Celebrate the Holidays with clay!  Complete kit includes everything needed to create a lasting holiday ornament - a cute paw print in clay.  A perfect gift for pet lovers.  Purrrfect for cats too!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287111111</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.02</s:price>
+      <s:sku></s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/7287219079</id>
+    <published>2017-03-10T14:03:00-05:00</published>
+    <updated>2017-03-10T14:03:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/copy-of-sculpey-iii-multipack-classics-12-x-1-oz"/>
+    <title>Sculpey III Multipack, Classics  12 x 1 oz.  S3 VMC-6</title>
+    <s:type>Polymer Clay</s:type>
+    <s:vendor>Polyform</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/11-s3vmc_6-s3-varpk-classic.jpeg?v=1579534146"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Polyform<br>
+        <strong>Type: </strong>Polymer Clay<br>
+        <strong>Price: </strong>
+            8.93
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sculpey III Multipack, Classics 12 x 1 oz. S3 VMC-6</p>
+<p>Sculpey III, Classics, 12 Color Sampler <br><br>12 - 1 ounce blocks<br><br>The Sampler holds 12 - 1 oz. bars from Natural color ranges <br><br> This set includes: 001 White, 042 Black, 053 Chocolate, 063 Blue, 072 Yellow, 083 Red, 301 Tan, 323 Emerald, 513 Purple, 1629 Granny Smith, 1634 Just Orange, 1645 Elephant Gray<br><br>Best selling sampler makes a wonderful gift <br>Provides an economical way to try a variety of Sculpey III colors <br>Includes thirty one ounce bars from the Classic Collection Bright Ideas, Naturals, Pearls and Pastel color families</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Craft Clay</s:tag>
+    <s:tag>Polymer Clay</s:tag>
+    <s:tag>Sculpey</s:tag>
+    <s:tag>Sculpey III Multipack Brights</s:tag>
+    <s:tag>Sculpey III Multipacks</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287219079</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.93</s:price>
+      <s:sku></s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/7287219271</id>
+    <published>2016-06-21T13:32:26-04:00</published>
+    <updated>2016-06-21T13:32:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/sculpey-iii-multipack-brights-12-x-1-oz"/>
+    <title>Sculpey III Multipack, Brights  12 x 1 oz. S3 VMB-6</title>
+    <s:type>Polymer Clay</s:type>
+    <s:vendor>Polyform</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/s3vmb_6_brights.jpeg?v=1579534145"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Polyform<br>
+        <strong>Type: </strong>Polymer Clay<br>
+        <strong>Price: </strong>
+            8.66
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sculpey III Multipack, Brights 12 x 1 oz. S3 VMB-6</p>
+<p>Sculpey III, Brights, 12 Color Sampler <br><br>12 - 1 ounce blocks<br><br>The Sampler holds 12 - 1 oz. bars from Natural color ranges <br><br> This set includes: 001 White, 503 Hot Pink, 1629 Granny Smith, 513 Purple, 515 Violet, 521 Lime, 533 Atomic Orange, 566 French Blue, 573 Lemon, 583 Red Hot Red, 1130 Silver, 1086 Gold<br><br>Best selling sampler makes a wonderful gift <br>Provides an economical way to try a variety of Sculpey III colors <br>Includes thirty one ounce bars from the Classic Collection Bright Ideas, Naturals, Pearls and Pastel color families</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Craft Clay</s:tag>
+    <s:tag>Polymer Clay</s:tag>
+    <s:tag>Sculpey</s:tag>
+    <s:tag>Sculpey III Multipack Brights</s:tag>
+    <s:tag>Sculpey III Multipacks</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287219271</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.66</s:price>
+      <s:sku></s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/7287218759</id>
+    <published>2016-06-21T13:32:23-04:00</published>
+    <updated>2016-06-21T13:32:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/copy-of-copy-of-sculpey-iii-multipack-naturals-12-x-1-oz"/>
+    <title>Sculpey III Multipack, Naturals  12 x 1 oz. S3 VMN-6</title>
+    <s:type>Polymer Clay</s:type>
+    <s:vendor>Polyform</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/s3vmn_6_naturals.jpeg?v=1579534147"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Polyform<br>
+        <strong>Type: </strong>Polymer Clay<br>
+        <strong>Price: </strong>
+            8.66
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sculpey III Multipack, Naturals 12 x 1 oz. S3 VMN-6</p>
+<p>Sculpey III, Naturals, 12 Color Sampler <br><br>12 - 1 ounce blocks<br><br>The Sampler holds 12 - 1 oz. bars from Natural color ranges <br><br> This set includes: 083 Red, 1109 Sede Brown, 1132 Jewelry Gold, 1107 Copper, 1657 Hazlenut, 301 Tan, 093 Beige, 042 Black, 033 Sweet Potato, 1645 Elephant Gray, 001 White, 1626 Moss. <br><br>Best selling sampler makes a wonderful gift <br>Provides an economical way to try a variety of Sculpey III colors <br>Includes thirty one ounce bars from the Classic Collection Bright Ideas, Naturals, Pearls and Pastel color families</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Craft Clay</s:tag>
+    <s:tag>Polymer Clay</s:tag>
+    <s:tag>Sculpey</s:tag>
+    <s:tag>Sculpey III Multipack Brights</s:tag>
+    <s:tag>Sculpey III Multipacks</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287218759</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.66</s:price>
+      <s:sku></s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/7287218503</id>
+    <published>2016-06-21T13:32:22-04:00</published>
+    <updated>2016-06-21T13:32:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/copy-of-sculpey-iii-multipack-pearls-pastels-12-x-1-oz"/>
+    <title>Sculpey III Multipack, Pearls &amp;Pastels  12 x 1 oz.  S3 VMP-6</title>
+    <s:type>Polymer Clay</s:type>
+    <s:vendor>Polyform</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/s3vmp_6pastels.jpeg?v=1579534148"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Polyform<br>
+        <strong>Type: </strong>Polymer Clay<br>
+        <strong>Price: </strong>
+            8.66
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sculpey III Multipack, Pearls &amp;Pastels 12 x 1 oz. S3 VMP-6</p>
+<p>Sculpey III, Pearls &amp; Pastels, 12 Color Sampler <br><br>12 - 1 ounce blocks<br><br>The Sampler holds 12 - 1 oz. bars from Natural color ranges <br><br> This set includes: 1086 Gold, 1101 Pearl, 1102 Lt. Pink Pearl, 1103 Lt.Blue Pearl, 1130 Silver, 1207 Vanilla Cream, 1209 Ballerina, 1216 Spring Lilac, 1221 Pale Pistachio, 1274 Sunshine, 303 Dusty Rose, 1626 Moss. <br><br>Best selling sampler makes a wonderful gift <br>Provides an economical way to try a variety of Sculpey III colors <br>Includes thirty one ounce bars from the Classic Collection Bright Ideas, Naturals, Pearls and Pastel color families</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Craft Clay</s:tag>
+    <s:tag>Polymer Clay</s:tag>
+    <s:tag>Sculpey</s:tag>
+    <s:tag>Sculpey III Multipack Brights</s:tag>
+    <s:tag>Sculpey III Multipacks</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287218503</id>
+      <title>Default Title</title>
+      <s:price currency="USD">8.66</s:price>
+      <s:sku></s:sku>
+      <s:grams>425</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/7287219783</id>
+    <published>2016-06-21T13:32:00-04:00</published>
+    <updated>2016-06-21T13:32:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/sculpey-iii-sampler-pack-30-x-1-oz"/>
+    <title>Sculpey III Sampler Pack, 30 x 1 oz.  S3 30-1</title>
+    <s:type>Polymer Clay</s:type>
+    <s:vendor>Polyform</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/s3_30-1_30_pc_sampler.jpeg?v=1580140280"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Polyform<br>
+        <strong>Type: </strong>Polymer Clay<br>
+        <strong>Price: </strong>
+            18.74
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sculpey III, 30 Color Sampler    S3 30-1<br>30 - 1 ounce blocks<br>The Sampler holds 30 - 1 oz. bars from the Basic, Bright, and Pearl color ranges. Includes detailed instructions and two project sheets!</p>
+<p><br>Best selling sampler makes a wonderful gift<br>Provides an economical way to try a variety of Sculpey III colors<br>Includes thirty one ounce bars from the Classic Collection Bright Ideas, Naturals, Pearls and Pastel color families</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Polymer Clay</s:tag>
+    <s:tag>Sculpey</s:tag>
+    <s:tag>Sculpey III</s:tag>
+    <s:tag>Sculpey III Sampler</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287219783</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.74</s:price>
+      <s:sku></s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/7287217927</id>
+    <published>2016-06-21T13:32:00-04:00</published>
+    <updated>2016-06-21T13:32:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/sculpey-iii-mulltipacks-classic-collection-10-x-2-ounce"/>
+    <title>Sculpey III Mulltipacks, Classic Collection 10 x 2 ounce, S3 MP 0000-1</title>
+    <s:type>Polymer Clay</s:type>
+    <s:vendor>Polyform</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/11-s3mp_00001-sc3-10color-classics.jpeg?v=1579534144"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Polyform<br>
+        <strong>Type: </strong>Polymer Clay<br>
+        <strong>Price: </strong>
+            12.94
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="margin: 0px 0px 1em; line-height: 1.4; color: #000000; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px;">Sculpey III Mulltipacks, Classic Collection 10 x 2 ounce, S3 MP 0000-1</p>
+<p style="margin: 0px 0px 1em; line-height: 1.4; color: #000000; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px;">10 - 2 ounce bars, includes  001 White, 042 Black, 072 Yellow, 1634 Just Orange, 083 Red, 513 Purple, 063 Blue, 323 Emerald, 053 Chocolate and 093 Beige.<br><br>Perfect gift or party prize!  This is the perfect creative gift!  Economical too! </p>
+<p style="margin: 0px 0px 1em; line-height: 1.4; color: #000000; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px;"><br>Pre-packs are a great way to experiment with the Sculpey III color family. Detailed instructions guide the new user in the basics of clay techniques. <br><br>Sets include detailed instructions and project brochures.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Craft Clay</s:tag>
+    <s:tag>Polymer Clay</s:tag>
+    <s:tag>Sculpey</s:tag>
+    <s:tag>Sculpey III Multipacks</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287217927</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.94</s:price>
+      <s:sku></s:sku>
+      <s:grams>652</s:grams>
+    </s:variant>
+  </entry>
+</feed>

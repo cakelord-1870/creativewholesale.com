@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://creativewholesale.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://creativewholesale.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://creativewholesale.com/collections/sculpey-keepsake-kits.atom"/>
+  <title>Creative Wholesale</title>
+  <updated>2018-06-29T15:25:51-04:00</updated>
+  <author>
+    <name>Creative Wholesale</name>
+  </author>
+  <entry>
+    <id>https://creativewholesale.com/products/7287110535</id>
+    <published>2018-06-29T15:25:51-04:00</published>
+    <updated>2018-06-29T15:25:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/keepsake-frame-set-k3-4055"/>
+    <title>Keepsake Frame Set K3 4055</title>
+    <s:type>polymer clay kits</s:type>
+    <s:vendor>Polyform</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/K34055.jpeg?v=1548085234"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Polyform<br>
+        <strong>Type: </strong>polymer clay kits<br>
+        <strong>Price: </strong>
+            13.42
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Keepsake Frame Set K3 4055</p>
+<p>Sculpey Keepsake Clay and Frame Sets are the perfect way to capture a special memory or time. This kit contains soft, pliable, White Keepsake Clay, making it easy to get a clear hand, foot or paw print. Step-by-step instructions help you complete the project quickly and without the mess of other memory kits. Also included are a silver frame, detail tool, photo mat and clear pane to protect your photo.  Makes a perfect gift for expecting parents or new grandparents!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Keepsake Frame Set</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287110535</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.42</s:price>
+      <s:sku></s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/7287109959</id>
+    <published>2018-05-21T08:26:13-04:00</published>
+    <updated>2018-05-21T08:26:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/baby-impression-kit-k3-4002"/>
+    <title>Baby Impression Kit K3 4002</title>
+    <s:type>polymer clay kits</s:type>
+    <s:vendor>Polyform</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/k34002BabyImpression.jpg?v=1629138541"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Polyform<br>
+        <strong>Type: </strong>polymer clay kits<br>
+        <strong>Price: </strong>
+            7.02
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Baby Impression Kit K3 4002</p>
+<p>Babies grow so fast! Complete kit includes everything you need to capture a moment in time. Ideal for a new parent or grandparent gift.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287109959</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.02</s:price>
+      <s:sku></s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://creativewholesale.com/products/7287111111</id>
+    <published>2017-03-13T13:55:00-04:00</published>
+    <updated>2017-03-13T13:55:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/h3001"/>
+    <title>Deluxe Pawprint Ornament Kit H3001 Christmas Sale</title>
+    <s:type>polymer clay kits</s:type>
+    <s:vendor>Polyform</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/H3001.jpeg?v=1545665264"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Polyform<br>
+        <strong>Type: </strong>polymer clay kits<br>
+        <strong>Price: </strong>
+            7.02
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Deluxe Pawprint Ornament Kit H3001</p>
+<p>CHRISTMAS SALE - LIMITED QUANTITIES</p>
+<p>Celebrate the Holidays with clay!  Complete kit includes everything needed to create a lasting holiday ornament - a cute paw print in clay.  A perfect gift for pet lovers.  Purrrfect for cats too!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://creativewholesale.com/products/7287111111</id>
+      <title>Default Title</title>
+      <s:price currency="USD">7.02</s:price>
+      <s:sku></s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+</feed>

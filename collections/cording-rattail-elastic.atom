@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://creativewholesale.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://creativewholesale.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://creativewholesale.com/collections/cording-rattail-elastic.atom"/>
+  <title>Creative Wholesale</title>
+  <updated>2019-12-10T10:24:45-05:00</updated>
+  <author>
+    <name>Creative Wholesale</name>
+  </author>
+  <entry>
+    <id>https://creativewholesale.com/products/4415186763878</id>
+    <published>2019-12-10T10:24:45-05:00</published>
+    <updated>2019-12-10T10:24:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://creativewholesale.com/products/rattail-satin-cord-2mm-144-yds-white-1921-28"/>
+    <title>Rattail Satin Cord 2mm 144 yds White 1921-28</title>
+    <s:type>Cording Rattail</s:type>
+    <s:vendor>Darice</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1352/9355/products/1921-28_Rattail_White.jpg?v=1579534104"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Darice<br>
+        <strong>Type: </strong>Cording Rattail<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Rattail Satin Cord 2mm 144 yds White 1921-28<span style="font-size: 24px;"><strong><br></strong></span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bead Cording</s:tag>
+    <s:tag>Elastic Cord</s:tag>
+    <s:tag>Jewelry Cording</s:tag>
+    <s:tag>Nylon Cording</s:tag>
+    <s:tag>Rattail</s:tag>
+    <s:tag>Stretchy Cording</s:tag>
+    <s:variant>
+      <id>https://creativewholesale.com/products/4415186763878</id>
+      <title>Default Title</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku></s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+</feed>
